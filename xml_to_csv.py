@@ -1,49 +1,13 @@
 import sys,os
-import getopt
-
-class Program_Options :
-	
-	def __init__( self, args ) :
-		try:
-			opts, args = getopt.getopt(	args,
-				"e:d",
-				["existence-path=",
-				"destination-folder" 		
-				] )
-		except getopt.GetoptError :
-			print "Missing or incorrect parameters specified!",sys.stderr
-			usage()
-			sys.exit(1)
-
-		self.existence_path= None
-		self.destination_folder = None	
-
-		for opcode, oparg in opts :
-			print "opcode:", opcode
-			print"oparg:", oparg	
-
-			if opcode in ('-e', '--existence path' ) :
-				self.existence_path = oparg
-				print "self.existence_path row 27",self.existence_path
-
-						
-			if opcode in ('-d','--destination-folder'):
-				self.destination_folder = opcode
-			else:
-				self.destination_folder = ''	
-
-def parse_name(path):
-	pass
+import options	
 
 
-
-
-def run_on_all_xml(options):
+def run_on_all_xml(option):
 	
 	from xmlutils.xml2csv import xml2csv
 
 	#------open files: 
-	path_name = os.path.abspath(options.existence_path)
+	path_name = os.path.abspath(option.existence_path)
 	print path_name
 	if os.path.exists(path_name)==None:
 		print "ilegal path!"
@@ -66,8 +30,6 @@ def run_on_all_xml(options):
 	#Perform the specified command on all specified tasks
 	for task in tasks_list:
 		print "task name:", task
-
-		print "task[:-4]", task[:-4]
 
 		import xml.etree.ElementTree as ET
 		et = ET.parse(os.path.join(path_name,task))
@@ -110,7 +72,6 @@ def run_on_all_xml(options):
 
 
 if __name__ == '__main__' :
-	options = Program_Options( sys.argv[1:] )
-	#print options
-	run_on_all_xml(options)
+	option = options.Program_Options(sys.argv[1:])
+	run_on_all_xml(option)
 	
