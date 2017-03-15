@@ -12,13 +12,13 @@ class data:
 		#print file_name[-3:]
 		self.data_dict={}
 		if path[-3:]=='csv':
-			#print 'gggggggg'
+			
 			import csv
 			count=0
 			with open(file_name, 'rb') as csvfile:
 				reader = csv.reader(csvfile)
 				count+=1
-				#keys=reader.keys()
+				
 				for row in reader:
 					#print len(row) 
 					#if count==1: continue
@@ -36,13 +36,12 @@ class data:
 				temp_dict[barcode]=(float(item[-4]),float(item[-5]))
 		return temp_dict
 
-def cluster(data):
+def cluster_category(data,category_name):
 	import numpy as np
 	from sklearn.cluster import  KMeans
-	#from sklearn.datasets.samples_generator import make_blobs
 	import matplotlib.pyplot as plt
 
-	datush= data.get_data_by_category('deodorant')
+	datush= data.get_data_by_category(category_name)
 
 	datush_X=np.zeros((len(datush),2))
 	datush_Y=np.zeros((len(datush),1))
@@ -54,8 +53,7 @@ def cluster(data):
 		datush_X[count][1]=datush[key][1]
 		datush_Y[count][0]=key
 		count+=1
-	
-	#X=datush_X
+
 	
 	y_pred = KMeans(n_clusters=3).fit_predict(datush_X)
 	print long(datush_Y[-18]),datush_X[-18][0],datush_X[-18][1]
@@ -64,6 +62,8 @@ def cluster(data):
 	plt.scatter(datush_X[:, 0],datush_X[:, 1], c=y_pred)
 	plt.title("Anisotropicly Distributed Blobs")
 	plt.show()
+
+	
 
 if __name__ == '__main__' :
 	file_name=sys.argv[1]

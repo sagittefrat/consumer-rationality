@@ -5,20 +5,18 @@ categories_names={'משחת שיניים':('שיניים','משחת שיניים
 
 def create_categories():
 	file_name=sys.argv[1]
-	#file_name=file[0]
-	print file_name[-3:]
-
+	
 	if file_name[-3:]=='csv':
-		#print 'gggggggg'
 		import csv
 		with open(file_name, 'rb') as csvfile:
-			#print csvfile
 			spamreader = csv.reader(csvfile)
 			for row in spamreader:
 				for name in categories_names:
-					if name in row:
-						print 'found: ', name
-						print 'row: ', row
+					for synonum in categories_names[name]:
+						if synonum in row:
+							print 'found: ', name
+							print 'row: ', row
+							break
 
 
 
