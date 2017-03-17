@@ -38,8 +38,12 @@ def run_on_all_xml(path_name,destination_path=None) :
 
 			#actual converting from xml to csv:
 			converter = xml2csv(task_full_path, task_to_create, encoding="utf-8")
-			converter.convert(tag="Item")
+			task=task.split('-')
+			if task[1]=='7290027600007':
+				converter.convert(tag="Item")
+			else: converter.convert(tag="Product")
 			os.remove(task_full_path)
+
 			
 
 
@@ -65,7 +69,7 @@ def change_xml_name(task_path,task_old_name):
 		chain_id=root.find('ChainId').text  
 		sub_chain=root.find('SubChainId').text
 		store_id=root.find('StoreId').text 
-	task_name="prices"+chain_id+"-"+sub_chain+"-"+store_id+"-"+config.time+'.csv'
+	task_name="prices-"+chain_id+"-"+sub_chain+"-"+store_id+"-"+config.time+'.csv'
 	return os.path.join(task_path,task_name) 
 
 
