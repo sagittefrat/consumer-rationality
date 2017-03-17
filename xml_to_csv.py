@@ -22,10 +22,10 @@ def run_on_all_xml(path_name,destination_path=None) :
 	#Perform the specified command on all specified tasks
 	for task in tasks_list:
 		
-		if task[-3:]=='xml':
+		if task[-4:]=='.xml':
 			
 			task_full_path=os.path.join(path_name,task)
-			task_to_create=task_full_path[:-3]+'csv'
+			task_to_create=task_full_path[:-4]+'.csv'
 
 			#if needs a name change:
 			if task[-6:-4]=='gz':
@@ -34,14 +34,14 @@ def run_on_all_xml(path_name,destination_path=None) :
 
 			# if a destination was mentioned
 			if destination_path!=None:
-				task_csv=task[-3:]+'csv'
+				task_csv=task[-4:]+'.csv'
 				task_to_create=os.path.join(destination_path,task_csv)
 
 			#actual converting from xml to csv:
 			converter = xml2csv(task_full_path, task_to_create, encoding="utf-8")
-			task=task.split('-')
-			print task
-			if task[1]=='7290027600007':
+			task_to_create=task_to_create.split('-')
+			print task_to_create
+			if task_to_create[1]=='7290027600007':
 				converter.convert(tag="Item")
 			else: converter.convert(tag="Product")
 			os.remove(task_full_path)
@@ -49,7 +49,7 @@ def run_on_all_xml(path_name,destination_path=None) :
 			
 
 
-		elif filename[-4:]=='json':
+		elif filename[-5:]=='.json':
 			'''from xmlutils.xml2json import xml2json
 			print "xml2json(",task_to_convert," ", task_to_create, "encoding=utf-8)"
 			converter = xml2json(task_to_convert, task_to_create, encoding="utf-8")
