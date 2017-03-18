@@ -30,7 +30,7 @@ def run_on_all_xml(path_name,destination_path=None) :
 			#if needs a name change:
 			if task[-6:-4]=='gz':
 				task_to_create=change_xml_name(path_name,task)
-				print task_to_create	
+				#print task_to_create	
 
 			# if a destination was mentioned
 			if destination_path!=None:
@@ -40,13 +40,13 @@ def run_on_all_xml(path_name,destination_path=None) :
 			#actual converting from xml to csv:
 			converter = xml2csv(task_full_path, task_to_create, encoding="utf-8")
 			task_to_create=task_to_create.split('-')
-			print task_to_create
+			
+			#if it's shupersal then the chiled is called 'Item', else it is called Product:
 			if task_to_create[1]=='7290027600007':
 				converter.convert(tag="Item")
 			else: converter.convert(tag="Product")
+			#remove xml file:
 			os.remove(task_full_path)
-
-			
 
 
 		elif filename[-5:]=='.json':
