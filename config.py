@@ -8,11 +8,11 @@ import getopt
 time = datetime.now(tz=pytz.timezone('Asia/Jerusalem')).strftime("%Y%m%d")
 home_dir = "/home/gal"
 CHAINS={7290027600007:{1:'Shupersal-Shelly',2:'Shupersal-Deal',4:'Shupersal-Deal-Extra', 5:'Yesh', 7:'Shupersal-Express'},
-7290696200003:{1:'Victory'}, 7290058179503:{1:'Lahav'}, 7290661400001:{1:'Shuk'}}
+7290696200003:{1:'Victory_Haifa'}, 7290058179503:{1:'Lahav'}, 7290661400001:{1:'Shuk_Haifa'}}
 SHUPERSAL_BRANCHES={4:'Carmel',17:'Horev',19:'Ziv', 33:'Stela', 38:'Denia', 71:'Tel-Hanan', 212:'Vardia',
-258:'Admirality',302:'Keler',312:'Eliezer',314:'France',327:'Raul', 330:'Nativ-Hen', 336:'Sapir',
- 352:'Haifa-mall', 358:'Grand-mall', 368:'Marganit', 387:'Rambam'}
-LAHAV_BRANCHES={30:'Haifa', 60:'Remez' }
+258:'Admirality',302:'Keler',306:'Hanita',312:'Eliezer',314:'France',327:'Raul', 330:'Nativ-Hen', 336:'Sapir',
+ 352:'Haifa-mall', 359:'Grand-mall', 368:'Marganit', 387:'Rambam'}
+LAHAV_BRANCHES={30:'Haifa', 63:'Remez' }
 
 
 class Program_Options :

@@ -15,7 +15,8 @@ def main():
 	
 		file_name=option.csv_file_path
 		super_barcode_dict=cluster_on_all_files(file_name)
-		print super_barcode_dict
+		#print super_barcode_dict
+	
 
 
 
