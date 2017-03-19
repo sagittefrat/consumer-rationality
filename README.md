@@ -18,6 +18,6 @@ If you have csv files with categories:
   2) run ```  Interface.py -b [barcode_super_category_position.csv path] -e [folder of the categorized data] -d [destination folder of the categorized data]```
     you will recieve results for $$$$gal
   3)  run ```Interface.py [category_position_centers.csv path]```
-      you will recieve results: for each supermarket what its ranking for each category and position ⋅⋅⋅
+      you will recieve results: for each supermarket what its ranking for each category and position
       for example:  'Yesh_France' is at position 0 in category milk - meaning it is in the 'discount' cluster for milk  
                     'Deal_Haifa-mall' is at position 2 in category milk - meaning it is in the 'premium' cluster for milk 
