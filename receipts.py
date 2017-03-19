@@ -93,6 +93,7 @@ def build_branches_prices():
 
 
 def receipt_in_branch(receipt, branch_code, branch):
+    
     print 'calculate receipt for', branch_code
     print 'branch:'
     pprint(branch)

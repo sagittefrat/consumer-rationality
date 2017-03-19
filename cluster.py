@@ -5,7 +5,7 @@ import os
 from data import Data
 from pprint import pprint  
 from copy import deepcopy
-import csv
+
 
 class Cluster:
 
@@ -154,7 +154,7 @@ def cluster_the_supermarkets_by_category_and_position():
 
 			temp_dict={ }
 			for i in xrange(0, len(datush_X[:,0])-1):
-				temp_dict[]=
+				temp_dict[i]=1
 
 			# number of features, in our case 2:price per unit and price for product
 			if category[0] in ('cucumber','milk','toothpaste'):
@@ -163,56 +163,6 @@ def cluster_the_supermarkets_by_category_and_position():
 				plt.title(title)
 				#plt.savefig(' '+title+'.png')
 				plt.show()
-				
-		
-	
-def cluster_on_all_files(path_name):
-	
-
-	tasks_list=[]
-	# a folder was sepcified
-	if os.path.isdir(path_name):
-		for filename in os.listdir(path_name):
-			# create all the files to convert: 
-			tasks_list.append(os.path.join(path_name,filename))
-
-	else: tasks_list.append(path_name)
-	#print tasks_list
-	super_barcode_category={}
-	super_category_cluster_centers={}
-
-	with open('barcode_super_category_position.csv', 'wb') as csvfile1:
-		with open('category_position_centers.csv', 'wb') as csvfile2:
-			#fieldnames = ['barcode','supermarket','category', 'position']
-			writer1 = csv.writer(csvfile1)
-			writer2 = csv.writer(csvfile2)
-			#writer.writeheader()
-
-			for task in tasks_list:
-				#print task
-				data=Data(task)
-				clusti=Cluster(data)
-				results={}
-				super_name=data.get_super_name()
-				super_barcode_category[super_name]={}
-				clusti.cluster(super_barcode_category[super_name])
-				super_category_cluster_centers={}
-				#super_category_barcodes={}
-				super_category_cluster_centers[super_name]=clusti.category_cluster_centers
-				#pprint(clusti.barcode_category)
-				#super_category_barcodes[super_name]=results[1]
-				super_barcode_category[super_name]=clusti.barcode_category
-				#pprint (super_barcode_category[super_name])
-
-				for barcode in clusti.barcode_category:
-					tup=clusti.barcode_category[barcode]
-					writer1.writerow([barcode,super_name,tup[1],tup[0]])
-
-				for category in clusti.category_cluster_centers:
-					for i in xrange(0,3):
-						tup=clusti.category_cluster_centers[category]
-						writer2.writerow([category,i,tup[1,0],tup[0,0],super_name])
-
 
 
 
