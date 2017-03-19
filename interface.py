@@ -28,27 +28,27 @@ def cluster_on_all_files(path_name):
 			tasks_list.append(os.path.join(path_name,filename))
 
 	else: tasks_list.append(path_name)
-	#print tasks_list
+
 	super_barcode_category={}
 	super_category_cluster_centers={}
 
 	with open('barcode_super_category_position.csv', 'wb') as csvfile1:
 		with open('category_position_centers.csv', 'wb') as csvfile2:
-			#fieldnames = ['barcode','supermarket','category', 'position']
+	
 			writer1 = csv.writer(csvfile1)
 			writer2 = csv.writer(csvfile2)
-			#writer.writeheader()
+			
 			super_category_cluster_centers={}
-			#super_category_barcodes={}
+	
 
 			for task in tasks_list:
-				#print task
 				data=Data(task)
 				clusti=Cluster(data)
 				super_name=data.get_super_name()
-				super_barcode_category[super_name]={}
-				clusti.cluster(super_barcode_category[super_name])
-				#super_category_barcodes[super_name]=results[1]
+				if super_barcode_category.has_key(super_name)==None:
+					super_barcode_category[super_name]={}
+
+				clusti.cluster()
 				super_category_cluster_centers[super_name]=clusti.category_cluster_centers
 				super_barcode_category[super_name]=clusti.barcode_category
 
@@ -59,7 +59,11 @@ def cluster_on_all_files(path_name):
 				for category in clusti.category_cluster_centers:
 					for i in xrange(0,3):
 						tup=clusti.category_cluster_centers[category]
-						writer2.writerow([category,i,tup[1,0],tup[0,0],super_name])
+						tupe=sorted(tup, key=lambda t: t[1])
+						#print tupe
+						#print [category,i,tupe[i][1],tupe[i][0],super_name]
+						#raw_input()
+						writer2.writerow([category,i,tupe[i][1],tupe[i][0],super_name])
 
 
 
