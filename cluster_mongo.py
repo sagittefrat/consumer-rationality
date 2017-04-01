@@ -109,7 +109,9 @@ class Cluster:
 			title=self.super_name+', category:'+category_name
 			plt.title(title)
 			plt.text( 15,30,'Nescafe_Tasters-choice')
-			plt.show()
+			plt.savefig('Nescafe_Tasters-choice.png')
+			plt.gcf().clear()
+			#plt.show()
 
 	
 		sorted_centers=sorted(y.cluster_centers_, key=lambda t: t[0])
@@ -155,8 +157,7 @@ def cluster_the_supermarkets_by_category_and_position():
 	for category in super_category_cluster_centers:
 		
 		datush=super_category_cluster_centers[category]
-		if category[0]=='cucumber':
-			print datush
+	
 		if len(datush)<3: return 
 
 		# this is because SK-learn recieves np array:
@@ -173,9 +174,6 @@ def cluster_the_supermarkets_by_category_and_position():
 				x=super_category_cluster_centers[category][super_name]
 				#raw_input()
 				j=count
-			if category[0]=='cucumber':
-				print super_name
-
 			
 			datush_X[count][0]=float(super_category_cluster_centers[category][super_name][0])
 			datush_X[count][1]=float(super_category_cluster_centers[category][super_name][1])
@@ -210,9 +208,10 @@ def cluster_the_supermarkets_by_category_and_position():
 			title='category:'+category[0]+category[1]
 			plt.title(title)
 			plt.text(x[0], x[1],s)
-			#plt.savefig(' '+title+'.png')
-			plt.show()
-	#pprint(temp_list)
+			plt.savefig(' '+title+'.png')
+			plt.gcf().clear()
+			#plt.show()
+	
 	db.write_super_prices(temp_list)
 
 	with open('super_prices.csv', 'wb') as csvfile:

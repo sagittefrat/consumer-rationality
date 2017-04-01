@@ -1,8 +1,8 @@
 "(u'yellow cheese', u'1')",Shupersal-Shelly_Nativ-Hen,1,39.170000000000002,39.170000000000002
 "(u'yellow cheese', u'1')",Shupersal-Express_Marganit,0,28.899999999999999,7.2300000000000004
 "(u'yellow cheese', u'1')",Shupersal-Shelly_Keler,1,37.975000000000001,37.975000000000001
-"(u'yellow cheese', u'1')",Shupersal-Deal-Extra_Tel-Hanan,1,36.825000000000003,36.825000000000003
 "(u'yellow cheese', u'1')",Yesh_Hanita,0,29.100000000000001,6.0220000000000002
+"(u'yellow cheese', u'1')",Shupersal-Deal-Extra_Tel-Hanan,1,36.825000000000003,36.825000000000003
 "(u'yellow cheese', u'1')",Shupersal-Deal_Grand-mall,1,37.810000000000002,37.810000000000002
 "(u'yellow cheese', u'1')",Shupersal-Shelly_Denia,1,39.183333333299998,39.183333333299998
 "(u'yellow cheese', u'1')",Shupersal-Shelly_Vardia,1,39.170000000000002,39.170000000000002
@@ -21,8 +21,8 @@
 "(u'deodorant', u'0')",Shupersal-Shelly_Nativ-Hen,0,12.1133333333,7.9900000000000002
 "(u'deodorant', u'0')",Shupersal-Express_Marganit,2,22.899999999999999,15.27
 "(u'deodorant', u'0')",Shupersal-Shelly_Keler,1,14.3272727273,11.179393939400001
-"(u'deodorant', u'0')",Shupersal-Deal-Extra_Tel-Hanan,1,14.039622641499999,10.8676415094
 "(u'deodorant', u'0')",Yesh_Hanita,0,12.3285714286,6.16571428571
+"(u'deodorant', u'0')",Shupersal-Deal-Extra_Tel-Hanan,1,14.039622641499999,10.8676415094
 "(u'deodorant', u'0')",Shupersal-Deal_Grand-mall,1,13.503333333300001,10.7125
 "(u'deodorant', u'0')",Shupersal-Shelly_Denia,1,13.65,11.3775
 "(u'deodorant', u'0')",Shupersal-Shelly_Vardia,1,12.92,10.558
@@ -32,36 +32,36 @@
 "(u'deodorant', u'0')",Shupersal-Shelly_Stela,0,12.03125,7.6150000000000002
 "(u'deodorant', u'0')",Shupersal-Express_Raul,0,13.9,6.9500000000000002
 "(u'deodorant', u'0')",Yesh_France,0,13.4,6.7024999999999997
-"(u'deodorant', u'0')",Shupersal-Shelly_Carmel,0,11.8083333333,8.0116666666699992
+"(u'deodorant', u'0')",Shupersal-Shelly_Carmel,0,12.1111111111,5.8388888888899997
 "(u'deodorant', u'0')",Shupersal-Shelly_Horev,1,15.35,11.6035714286
 "(u'deodorant', u'0')",Shupersal-Deal_Haifa-mall,1,13.8891304348,9.5
 "(u'deodorant', u'0')",Shupersal-Shelly_Sapir,0,11.6466666667,8.452
 "(u'deodorant', u'0')",Shupersal-Shelly_Ziv,1,17.6233333333,12.106999999999999
-"(u'deodorant', u'0')",Shuk_Haifa,0,13.65,8.5082258064499996
-"(u'hamburger', u'2')",Shupersal-Shelly_Nativ-Hen,0,32.600000000000001,6.04
+"(u'deodorant', u'0')",Shuk_Haifa,0,13.6890625,8.7079687499999991
+"(u'hamburger', u'2')",Shupersal-Shelly_Nativ-Hen,1,32.600000000000001,6.04
 "(u'hamburger', u'2')",Shupersal-Express_Marganit,0,22.899999999999999,5.7300000000000004
 "(u'hamburger', u'2')",Shupersal-Shelly_Keler,0,25.899999999999999,6.835
-"(u'hamburger', u'2')",Shupersal-Deal-Extra_Tel-Hanan,1,49.899999999999999,49.899999999999999
 "(u'hamburger', u'2')",Yesh_Hanita,0,7.5999999999999996,15.199999999999999
-"(u'hamburger', u'2')",Shupersal-Deal_Grand-mall,2,54.066666666700002,5.7933333333299997
+"(u'hamburger', u'2')",Shupersal-Deal-Extra_Tel-Hanan,2,49.899999999999999,49.899999999999999
+"(u'hamburger', u'2')",Shupersal-Deal_Grand-mall,1,54.066666666700002,5.7933333333299997
 "(u'hamburger', u'2')",Shupersal-Shelly_Vardia,0,24.471428571400001,6.2971428571399999
-"(u'hamburger', u'2')",Shupersal-Shelly_Denia,0,37.5,5.8666666666699996
-"(u'hamburger', u'2')",Shupersal-Deal_Eliezer,2,39.899999999999999,6.2300000000000004
-"(u'hamburger', u'2')",Shupersal-Deal_Admirality,2,53.649999999999999,5.6025
-"(u'hamburger', u'2')",Shupersal-Shelly_Stela,0,32.600000000000001,6.04
+"(u'hamburger', u'2')",Shupersal-Shelly_Denia,1,37.5,5.8666666666699996
+"(u'hamburger', u'2')",Shupersal-Deal_Eliezer,1,39.899999999999999,6.2300000000000004
+"(u'hamburger', u'2')",Shupersal-Deal_Admirality,1,53.649999999999999,5.6025
+"(u'hamburger', u'2')",Shupersal-Shelly_Stela,1,32.600000000000001,6.04
 "(u'hamburger', u'2')",Shupersal-Express_Raul,0,22.899999999999999,5.7300000000000004
 "(u'hamburger', u'2')",Yesh_France,0,19.300000000000001,3.8599999999999999
 "(u'hamburger', u'2')",Shupersal-Shelly_Carmel,0,25.899999999999999,7.2533333333299996
 "(u'hamburger', u'2')",Shupersal-Shelly_Horev,0,23.622222222200001,5.7861111111100003
-"(u'hamburger', u'2')",Shupersal-Deal_Haifa-mall,2,54.899999999999999,5.4900000000000002
+"(u'hamburger', u'2')",Shupersal-Deal_Haifa-mall,1,37.75,5.4900000000000002
 "(u'hamburger', u'2')",Shupersal-Shelly_Sapir,0,24.1909090909,6.2636363636399999
-"(u'hamburger', u'2')",Shupersal-Shelly_Ziv,0,37.5,5.8666666666699996
-"(u'hamburger', u'2')",Shuk_Haifa,1,34.899999999999999,87.25
+"(u'hamburger', u'2')",Shupersal-Shelly_Ziv,1,37.5,5.8666666666699996
+"(u'hamburger', u'2')",Shuk_Haifa,2,34.899999999999999,87.25
 "(u'banana', u'0')",Shupersal-Shelly_Nativ-Hen,2,10.9,10.9
 "(u'banana', u'0')",Shupersal-Express_Marganit,2,10.9,10.9
 "(u'banana', u'0')",Shupersal-Shelly_Keler,2,10.9,10.9
-"(u'banana', u'0')",Shupersal-Deal-Extra_Tel-Hanan,1,9.9000000000000004,9.9000000000000004
 "(u'banana', u'0')",Yesh_Hanita,0,7.9000000000000004,7.9000000000000004
+"(u'banana', u'0')",Shupersal-Deal-Extra_Tel-Hanan,1,9.9000000000000004,9.9000000000000004
 "(u'banana', u'0')",Shupersal-Deal_Grand-mall,1,9.9000000000000004,9.9000000000000004
 "(u'banana', u'0')",Shupersal-Shelly_Denia,2,10.9,10.9
 "(u'banana', u'0')",Shupersal-Shelly_Vardia,2,10.9,10.9
@@ -80,8 +80,8 @@
 "(u'carrot', u'1')",Shupersal-Shelly_Nativ-Hen,1,4.9000000000000004,4.9000000000000004
 "(u'carrot', u'1')",Shupersal-Express_Marganit,1,4.9000000000000004,4.9000000000000004
 "(u'carrot', u'1')",Shupersal-Shelly_Keler,1,4.9000000000000004,4.9000000000000004
-"(u'carrot', u'1')",Shupersal-Deal-Extra_Tel-Hanan,2,5.9000000000000004,5.9000000000000004
 "(u'carrot', u'1')",Yesh_Hanita,0,3.5,3.5
+"(u'carrot', u'1')",Shupersal-Deal-Extra_Tel-Hanan,2,5.9000000000000004,5.9000000000000004
 "(u'carrot', u'1')",Shupersal-Deal_Grand-mall,2,5.9000000000000004,5.9000000000000004
 "(u'carrot', u'1')",Shupersal-Shelly_Denia,1,4.9000000000000004,4.9000000000000004
 "(u'carrot', u'1')",Shupersal-Shelly_Vardia,1,4.9000000000000004,4.9000000000000004
@@ -99,8 +99,8 @@
 "(u'carrot', u'1')",Shuk_Haifa,1,4.9000000000000004,4.9000000000000004
 "(u'fats remover', u'1')",Shupersal-Shelly_Nativ-Hen,1,18.899999999999999,2.52
 "(u'fats remover', u'1')",Shupersal-Shelly_Keler,0,10.0,1.3300000000000001
-"(u'fats remover', u'1')",Shupersal-Deal-Extra_Tel-Hanan,1,15.833333333300001,2.6066666666699998
 "(u'fats remover', u'1')",Yesh_Hanita,2,17.399999999999999,10.51
+"(u'fats remover', u'1')",Shupersal-Deal-Extra_Tel-Hanan,1,15.833333333300001,2.6066666666699998
 "(u'fats remover', u'1')",Shupersal-Deal_Grand-mall,1,16.350000000000001,2.6749999999999998
 "(u'fats remover', u'1')",Shupersal-Shelly_Vardia,0,10.0,1.3300000000000001
 "(u'fats remover', u'1')",Shupersal-Shelly_Denia,0,10.0,2.0
@@ -118,28 +118,28 @@
 "(u'pasta', u'1')",Shupersal-Shelly_Nativ-Hen,2,20.824999999999999,4.13375
 "(u'pasta', u'1')",Shupersal-Express_Marganit,0,14.300000000000001,3.9820000000000002
 "(u'pasta', u'1')",Shupersal-Shelly_Keler,0,12.88125,4.6556249999999997
-"(u'pasta', u'1')",Shupersal-Deal-Extra_Tel-Hanan,1,15.731578947399999,5.3355263157900001
 "(u'pasta', u'1')",Yesh_Hanita,1,17.789999999999999,4.3079999999999998
+"(u'pasta', u'1')",Shupersal-Deal-Extra_Tel-Hanan,1,15.731578947399999,5.3355263157900001
 "(u'pasta', u'1')",Shupersal-Deal_Grand-mall,2,21.178571428600002,4.3628571428600003
 "(u'pasta', u'1')",Shupersal-Shelly_Denia,2,20.629999999999999,4.9889999999999999
 "(u'pasta', u'1')",Shupersal-Shelly_Vardia,0,12.57,4.5549999999999997
 "(u'pasta', u'1')",Shupersal-Express_Rambam,0,14.15,4.0449999999999999
 "(u'pasta', u'1')",Shupersal-Deal_Eliezer,1,16.8818181818,3.5622727272699999
-"(u'pasta', u'1')",Shupersal-Deal_Admirality,2,19.8266666667,4.0899999999999999
+"(u'pasta', u'1')",Shupersal-Deal_Admirality,2,19.693750000000001,4.5256249999999998
 "(u'pasta', u'1')",Shupersal-Shelly_Stela,0,13.186666666700001,4.7026666666699999
 "(u'pasta', u'1')",Shupersal-Express_Raul,0,8.0999999999999996,1.9199999999999999
 "(u'pasta', u'1')",Yesh_France,2,20.399999999999999,5.1050000000000004
 "(u'pasta', u'1')",Shupersal-Shelly_Carmel,0,13.371428571399999,4.0028571428599999
 "(u'pasta', u'1')",Shupersal-Shelly_Horev,0,13.0,4.6744444444399997
-"(u'pasta', u'1')",Shupersal-Deal_Haifa-mall,2,20.5625,4.4087500000000004
-"(u'pasta', u'1')",Shupersal-Shelly_Sapir,0,12.885714285700001,4.7357142857100003
+"(u'pasta', u'1')",Shupersal-Deal_Haifa-mall,2,21.7833333333,4.4683333333300004
+"(u'pasta', u'1')",Shupersal-Shelly_Sapir,0,13.300000000000001,4.4130769230800002
 "(u'pasta', u'1')",Shupersal-Shelly_Ziv,1,16.734999999999999,3.8224999999999998
 "(u'pasta', u'1')",Shuk_Haifa,1,16.329166666700001,6.5304166666699999
 "(u'Dish soap', u'2')",Shupersal-Shelly_Nativ-Hen,0,10.0,10.0
 "(u'Dish soap', u'2')",Shupersal-Express_Marganit,0,10.0,10.0
 "(u'Dish soap', u'2')",Shupersal-Shelly_Keler,0,10.0,10.0
-"(u'Dish soap', u'2')",Shupersal-Deal-Extra_Tel-Hanan,2,16.399999999999999,16.32
 "(u'Dish soap', u'2')",Yesh_Hanita,0,14.0666666667,12.185
+"(u'Dish soap', u'2')",Shupersal-Deal-Extra_Tel-Hanan,2,16.399999999999999,16.32
 "(u'Dish soap', u'2')",Shupersal-Deal_Grand-mall,2,16.399999999999999,16.32
 "(u'Dish soap', u'2')",Shupersal-Shelly_Denia,0,10.0,10.0
 "(u'Dish soap', u'2')",Shupersal-Shelly_Vardia,0,10.0,10.0
@@ -158,8 +158,8 @@
 "(u'lemon', u'1')",Shupersal-Shelly_Nativ-Hen,1,7.9000000000000004,7.9000000000000004
 "(u'lemon', u'1')",Shupersal-Express_Marganit,2,11.9,11.9
 "(u'lemon', u'1')",Shupersal-Shelly_Keler,1,7.9000000000000004,7.9000000000000004
-"(u'lemon', u'1')",Shupersal-Deal-Extra_Tel-Hanan,1,6.4000000000000004,6.4000000000000004
 "(u'lemon', u'1')",Yesh_Hanita,1,5.9000000000000004,5.9000000000000004
+"(u'lemon', u'1')",Shupersal-Deal-Extra_Tel-Hanan,1,6.4000000000000004,6.4000000000000004
 "(u'lemon', u'1')",Shupersal-Deal_Grand-mall,1,6.4000000000000004,6.4000000000000004
 "(u'lemon', u'1')",Shupersal-Shelly_Denia,1,7.9000000000000004,7.9000000000000004
 "(u'lemon', u'1')",Shupersal-Shelly_Vardia,1,7.9000000000000004,7.9000000000000004
@@ -178,8 +178,8 @@
 "(u'frozen ', u'2')",Shupersal-Shelly_Nativ-Hen,2,26.183333333299998,3.4550000000000001
 "(u'frozen ', u'2')",Shupersal-Express_Marganit,2,19.899999999999999,3.3199999999999998
 "(u'frozen ', u'2')",Shupersal-Shelly_Keler,1,22.300000000000001,22.300000000000001
-"(u'frozen ', u'2')",Shupersal-Deal-Extra_Tel-Hanan,1,19.699999999999999,19.699999999999999
 "(u'frozen ', u'2')",Yesh_Hanita,2,19.899999999999999,3.3199999999999998
+"(u'frozen ', u'2')",Shupersal-Deal-Extra_Tel-Hanan,1,19.699999999999999,19.699999999999999
 "(u'frozen ', u'2')",Shupersal-Deal_Grand-mall,1,19.699999999999999,19.699999999999999
 "(u'frozen ', u'2')",Shupersal-Shelly_Denia,1,22.300000000000001,22.300000000000001
 "(u'frozen ', u'2')",Shupersal-Shelly_Vardia,1,22.300000000000001,22.300000000000001
@@ -198,8 +198,8 @@
 "(u'onion', u'0')",Shupersal-Shelly_Nativ-Hen,2,5.9000000000000004,5.9000000000000004
 "(u'onion', u'0')",Shupersal-Express_Marganit,2,5.9000000000000004,5.9000000000000004
 "(u'onion', u'0')",Shupersal-Shelly_Keler,2,5.9000000000000004,5.9000000000000004
-"(u'onion', u'0')",Shupersal-Deal-Extra_Tel-Hanan,2,5.5666666666699998,5.5666666666699998
 "(u'onion', u'0')",Yesh_Hanita,0,3.5,3.5
+"(u'onion', u'0')",Shupersal-Deal-Extra_Tel-Hanan,2,5.5666666666699998,5.5666666666699998
 "(u'onion', u'0')",Shupersal-Deal_Grand-mall,2,5.5666666666699998,5.5666666666699998
 "(u'onion', u'0')",Shupersal-Shelly_Denia,2,5.9000000000000004,5.9000000000000004
 "(u'onion', u'0')",Shupersal-Shelly_Vardia,2,5.9000000000000004,5.9000000000000004
@@ -218,8 +218,8 @@
 "(u'yellow cheese', u'0')",Shupersal-Shelly_Nativ-Hen,1,17.805,6.827
 "(u'yellow cheese', u'0')",Shupersal-Express_Marganit,0,6.2999999999999998,4.2000000000000002
 "(u'yellow cheese', u'0')",Shupersal-Shelly_Keler,1,18.229166666699999,6.9470833333300002
-"(u'yellow cheese', u'0')",Shupersal-Deal-Extra_Tel-Hanan,1,17.767741935499998,6.3874193548399996
 "(u'yellow cheese', u'0')",Yesh_Hanita,2,19.899999999999999,5.2549999999999999
+"(u'yellow cheese', u'0')",Shupersal-Deal-Extra_Tel-Hanan,1,17.767741935499998,6.3874193548399996
 "(u'yellow cheese', u'0')",Shupersal-Deal_Grand-mall,1,17.944827586199999,6.4796551724100002
 "(u'yellow cheese', u'0')",Shupersal-Shelly_Denia,1,16.990476190500001,6.8561904761900001
 "(u'yellow cheese', u'0')",Shupersal-Shelly_Vardia,1,17.206250000000001,7.1524999999999999
@@ -238,12 +238,13 @@
 "(u'lettuce', u'2')",Shupersal-Shelly_Nativ-Hen,2,10.800000000000001,10.800000000000001
 "(u'lettuce', u'2')",Shupersal-Express_Marganit,1,9.9000000000000004,3.96
 "(u'lettuce', u'2')",Shupersal-Shelly_Keler,2,12.24,12.24
+"(u'lettuce', u'2')",Yesh_Hanita,0,7.9000000000000004,7.9000000000000004
 "(u'lettuce', u'2')",Shupersal-Deal-Extra_Tel-Hanan,2,11.800000000000001,11.800000000000001
 "(u'lettuce', u'2')",Shupersal-Deal_Grand-mall,2,11.85,11.85
 "(u'lettuce', u'2')",Shupersal-Shelly_Denia,2,12.24,12.24
 "(u'lettuce', u'2')",Shupersal-Shelly_Vardia,2,13.0,13.0
 "(u'lettuce', u'2')",Shupersal-Express_Rambam,0,5.9000000000000004,5.9000000000000004
-"(u'lettuce', u'2')",Shupersal-Deal_Eliezer,0,9.4499999999999993,9.4499999999999993
+"(u'lettuce', u'2')",Shupersal-Deal_Eliezer,2,9.9666666666699992,9.9666666666699992
 "(u'lettuce', u'2')",Shupersal-Deal_Admirality,2,12.039999999999999,12.039999999999999
 "(u'lettuce', u'2')",Shupersal-Shelly_Stela,2,11.9,11.9
 "(u'lettuce', u'2')",Shupersal-Express_Raul,0,7.9000000000000004,7.9000000000000004
@@ -256,10 +257,10 @@
 "(u'pasta', u'0')",Shupersal-Shelly_Nativ-Hen,1,6.7022222222199996,1.4635555555599999
 "(u'pasta', u'0')",Shupersal-Express_Marganit,0,6.0470588235299996,1.3664705882399999
 "(u'pasta', u'0')",Shupersal-Shelly_Keler,2,6.8644444444400001,1.4813333333300001
-"(u'pasta', u'0')",Shupersal-Deal-Extra_Tel-Hanan,1,6.3191780821899997,1.42643835616
 "(u'pasta', u'0')",Yesh_Hanita,0,6.1466666666699998,1.3816666666699999
+"(u'pasta', u'0')",Shupersal-Deal-Extra_Tel-Hanan,1,6.3191780821899997,1.42643835616
 "(u'pasta', u'0')",Shupersal-Deal_Grand-mall,1,6.58382352941,1.5480882352900001
-"(u'pasta', u'0')",Shupersal-Shelly_Denia,2,7.07906976744,1.54651162791
+"(u'pasta', u'0')",Shupersal-Shelly_Denia,2,6.8926829268300001,1.4887804877999999
 "(u'pasta', u'0')",Shupersal-Shelly_Vardia,2,6.7774999999999999,1.4475
 "(u'pasta', u'0')",Shupersal-Express_Rambam,1,6.4124999999999996,1.37625
 "(u'pasta', u'0')",Shupersal-Deal_Eliezer,1,6.5285714285700003,1.536
@@ -270,14 +271,14 @@
 "(u'pasta', u'0')",Shupersal-Shelly_Carmel,2,6.8719999999999999,1.6568000000000001
 "(u'pasta', u'0')",Shupersal-Shelly_Horev,2,7.0758620689700003,1.5537931034500001
 "(u'pasta', u'0')",Shupersal-Deal_Haifa-mall,1,6.2509433962300003,1.48132075472
-"(u'pasta', u'0')",Shupersal-Shelly_Sapir,2,6.8978723404300002,1.5012765957400001
+"(u'pasta', u'0')",Shupersal-Shelly_Sapir,2,6.9104166666699998,1.65604166667
 "(u'pasta', u'0')",Shupersal-Shelly_Ziv,2,7.1897959183699998,1.5861224489800001
 "(u'pasta', u'0')",Shuk_Haifa,1,6.5803030302999996,1.6868181818200001
 "(u'apple', u'0')",Shupersal-Shelly_Nativ-Hen,2,9.9000000000000004,9.9000000000000004
 "(u'apple', u'0')",Shupersal-Express_Marganit,2,9.9000000000000004,9.9000000000000004
 "(u'apple', u'0')",Shupersal-Shelly_Keler,2,9.9000000000000004,9.9000000000000004
-"(u'apple', u'0')",Shupersal-Deal-Extra_Tel-Hanan,1,8.9000000000000004,8.9000000000000004
 "(u'apple', u'0')",Yesh_Hanita,1,8.9000000000000004,8.9000000000000004
+"(u'apple', u'0')",Shupersal-Deal-Extra_Tel-Hanan,1,8.9000000000000004,8.9000000000000004
 "(u'apple', u'0')",Shupersal-Deal_Grand-mall,1,8.9000000000000004,8.9000000000000004
 "(u'apple', u'0')",Shupersal-Shelly_Denia,2,9.9000000000000004,9.9000000000000004
 "(u'apple', u'0')",Shupersal-Shelly_Vardia,2,9.9000000000000004,9.9000000000000004
@@ -296,8 +297,8 @@
 "(u'lemon', u'0')",Shupersal-Shelly_Nativ-Hen,1,7.9000000000000004,7.9000000000000004
 "(u'lemon', u'0')",Shupersal-Express_Marganit,2,11.9,11.9
 "(u'lemon', u'0')",Shupersal-Shelly_Keler,1,7.9000000000000004,7.9000000000000004
-"(u'lemon', u'0')",Shupersal-Deal-Extra_Tel-Hanan,0,5.9000000000000004,5.9000000000000004
 "(u'lemon', u'0')",Yesh_Hanita,0,5.9000000000000004,5.9000000000000004
+"(u'lemon', u'0')",Shupersal-Deal-Extra_Tel-Hanan,0,5.9000000000000004,5.9000000000000004
 "(u'lemon', u'0')",Shupersal-Deal_Grand-mall,0,5.9000000000000004,5.9000000000000004
 "(u'lemon', u'0')",Shupersal-Shelly_Denia,1,7.9000000000000004,7.9000000000000004
 "(u'lemon', u'0')",Shupersal-Shelly_Vardia,1,7.9000000000000004,7.9000000000000004
@@ -316,8 +317,8 @@
 "(u'garbage bag', u'2')",Shupersal-Shelly_Nativ-Hen,2,28.5,28.5
 "(u'garbage bag', u'2')",Shupersal-Express_Marganit,2,28.199999999999999,28.199999999999999
 "(u'garbage bag', u'2')",Shupersal-Shelly_Keler,2,28.866666666699999,28.866666666699999
-"(u'garbage bag', u'2')",Shupersal-Deal-Extra_Tel-Hanan,1,25.857142857100001,25.857142857100001
 "(u'garbage bag', u'2')",Yesh_Hanita,0,22.899999999999999,22.899999999999999
+"(u'garbage bag', u'2')",Shupersal-Deal-Extra_Tel-Hanan,1,25.857142857100001,25.857142857100001
 "(u'garbage bag', u'2')",Shupersal-Deal_Grand-mall,1,26.016666666700001,26.016666666700001
 "(u'garbage bag', u'2')",Shupersal-Shelly_Denia,2,28.5,28.5
 "(u'garbage bag', u'2')",Shupersal-Shelly_Vardia,0,22.719999999999999,22.719999999999999
@@ -336,8 +337,8 @@
 "(u'bag', u'0')",Shupersal-Shelly_Nativ-Hen,1,11.5,11.5
 "(u'bag', u'0')",Shupersal-Express_Marganit,1,11.5,11.5
 "(u'bag', u'0')",Shupersal-Shelly_Keler,1,11.199999999999999,11.199999999999999
-"(u'bag', u'0')",Shupersal-Deal-Extra_Tel-Hanan,0,8.7200000000000006,8.7200000000000006
 "(u'bag', u'0')",Yesh_Hanita,0,4.9000000000000004,4.9000000000000004
+"(u'bag', u'0')",Shupersal-Deal-Extra_Tel-Hanan,0,8.7200000000000006,8.7200000000000006
 "(u'bag', u'0')",Shupersal-Deal_Grand-mall,0,8.6333333333300004,8.6333333333300004
 "(u'bag', u'0')",Shupersal-Shelly_Denia,0,9.0,9.0
 "(u'bag', u'0')",Shupersal-Shelly_Vardia,1,10.9,10.9
@@ -356,8 +357,8 @@
 "(u'toothpaste', u'0')",Shupersal-Shelly_Nativ-Hen,1,12.344444444400001,11.322222222200001
 "(u'toothpaste', u'0')",Shupersal-Express_Marganit,1,11.5,11.5
 "(u'toothpaste', u'0')",Shupersal-Shelly_Keler,1,13.01,10.554
-"(u'toothpaste', u'0')",Shupersal-Deal-Extra_Tel-Hanan,1,12.803125,11.27125
 "(u'toothpaste', u'0')",Yesh_Hanita,0,10.614285714299999,5.9785714285699996
+"(u'toothpaste', u'0')",Shupersal-Deal-Extra_Tel-Hanan,1,12.803125,11.27125
 "(u'toothpaste', u'0')",Shupersal-Deal_Grand-mall,1,11.8230769231,11.3242307692
 "(u'toothpaste', u'0')",Shupersal-Shelly_Denia,1,12.425000000000001,10.40375
 "(u'toothpaste', u'0')",Shupersal-Shelly_Vardia,1,13.2285714286,10.374285714299999
@@ -376,8 +377,8 @@
 "(u'cabbage', u'1')",Shupersal-Shelly_Nativ-Hen,2,5.9000000000000004,5.9000000000000004
 "(u'cabbage', u'1')",Shupersal-Express_Marganit,2,5.9000000000000004,5.9000000000000004
 "(u'cabbage', u'1')",Shupersal-Shelly_Keler,2,5.9000000000000004,5.9000000000000004
+"(u'cabbage', u'1')",Yesh_Hanita,0,3.8999999999999999,3.8999999999999999
 "(u'cabbage', u'1')",Shupersal-Deal-Extra_Tel-Hanan,1,4.9000000000000004,4.9000000000000004
-"(u'cabbage', u'1')",Yesh_Hanita,0,3.3999999999999999,3.3999999999999999
 "(u'cabbage', u'1')",Shupersal-Deal_Grand-mall,1,5.2333333333300001,5.2333333333300001
 "(u'cabbage', u'1')",Shupersal-Shelly_Vardia,1,5.2000000000000002,5.2000000000000002
 "(u'cabbage', u'1')",Shupersal-Shelly_Denia,2,6.4000000000000004,6.4000000000000004
@@ -395,8 +396,8 @@
 "(u'deodorant', u'2')",Shupersal-Shelly_Nativ-Hen,1,29.699999999999999,46.293999999999997
 "(u'deodorant', u'2')",Shupersal-Express_Marganit,1,26.899999999999999,53.799999999999997
 "(u'deodorant', u'2')",Shupersal-Shelly_Keler,1,33.25,61.8125
-"(u'deodorant', u'2')",Shupersal-Deal-Extra_Tel-Hanan,2,59.539999999999999,60.308999999999997
 "(u'deodorant', u'2')",Yesh_Hanita,0,19.899999999999999,39.799999999999997
+"(u'deodorant', u'2')",Shupersal-Deal-Extra_Tel-Hanan,2,59.539999999999999,60.308999999999997
 "(u'deodorant', u'2')",Shupersal-Deal_Grand-mall,0,20.4451612903,36.055161290299999
 "(u'deodorant', u'2')",Shupersal-Shelly_Denia,1,30.475000000000001,62.594999999999999
 "(u'deodorant', u'2')",Shupersal-Shelly_Vardia,1,27.262499999999999,48.508749999999999
@@ -415,8 +416,8 @@
 "(u'pepper', u'2')",Shupersal-Shelly_Nativ-Hen,2,13.9,13.9
 "(u'pepper', u'2')",Shupersal-Express_Marganit,1,11.9,11.9
 "(u'pepper', u'2')",Shupersal-Shelly_Keler,2,13.9,13.9
-"(u'pepper', u'2')",Shupersal-Deal-Extra_Tel-Hanan,1,12.9,12.9
 "(u'pepper', u'2')",Yesh_Hanita,0,9.9000000000000004,9.9000000000000004
+"(u'pepper', u'2')",Shupersal-Deal-Extra_Tel-Hanan,1,12.9,12.9
 "(u'pepper', u'2')",Shupersal-Deal_Grand-mall,1,12.9,12.9
 "(u'pepper', u'2')",Shupersal-Shelly_Denia,2,13.9,13.9
 "(u'pepper', u'2')",Shupersal-Shelly_Vardia,2,13.9,13.9
@@ -435,8 +436,8 @@
 "(u'frozen ', u'0')",Shupersal-Shelly_Nativ-Hen,1,15.9,1.9850000000000001
 "(u'frozen ', u'0')",Shupersal-Express_Marganit,2,19.899999999999999,2.4900000000000002
 "(u'frozen ', u'0')",Shupersal-Shelly_Keler,2,19.219999999999999,2.653
-"(u'frozen ', u'0')",Shupersal-Deal-Extra_Tel-Hanan,2,18.0230769231,2.4269230769200001
 "(u'frozen ', u'0')",Yesh_Hanita,2,19.899999999999999,2.4900000000000002
+"(u'frozen ', u'0')",Shupersal-Deal-Extra_Tel-Hanan,2,18.0230769231,2.4269230769200001
 "(u'frozen ', u'0')",Shupersal-Deal_Grand-mall,2,17.859999999999999,2.3100000000000001
 "(u'frozen ', u'0')",Shupersal-Shelly_Denia,2,20.274999999999999,2.7437499999999999
 "(u'frozen ', u'0')",Shupersal-Shelly_Vardia,2,19.677777777799999,2.6455555555600001
@@ -455,8 +456,8 @@
 "(u'toothpaste', u'1')",Shupersal-Shelly_Nativ-Hen,1,18.3416666667,24.008333333300001
 "(u'toothpaste', u'1')",Shupersal-Express_Marganit,0,12.9,12.9
 "(u'toothpaste', u'1')",Shupersal-Shelly_Keler,1,18.5615384615,24.402307692299999
-"(u'toothpaste', u'1')",Shupersal-Deal-Extra_Tel-Hanan,1,18.396153846200001,24.045769230800001
 "(u'toothpaste', u'1')",Yesh_Hanita,0,11.5,15.454000000000001
+"(u'toothpaste', u'1')",Shupersal-Deal-Extra_Tel-Hanan,1,18.396153846200001,24.045769230800001
 "(u'toothpaste', u'1')",Shupersal-Deal_Grand-mall,1,17.941176470599999,24.5694117647
 "(u'toothpaste', u'1')",Shupersal-Shelly_Denia,1,21.377777777799999,26.652222222199999
 "(u'toothpaste', u'1')",Shupersal-Shelly_Vardia,1,19.383333333300001,23.855
@@ -474,8 +475,8 @@
 "(u'toothpaste', u'1')",Shuk_Haifa,0,14.3846153846,15.010769230799999
 "(u'coconut cream', u'2')",Shupersal-Shelly_Nativ-Hen,1,14.9,8.2799999999999994
 "(u'coconut cream', u'2')",Shupersal-Shelly_Keler,2,19.899999999999999,19.899999999999999
-"(u'coconut cream', u'2')",Shupersal-Deal-Extra_Tel-Hanan,1,17.0,14.065
 "(u'coconut cream', u'2')",Yesh_Hanita,1,14.9,9.9299999999999997
+"(u'coconut cream', u'2')",Shupersal-Deal-Extra_Tel-Hanan,1,17.0,14.065
 "(u'coconut cream', u'2')",Shupersal-Deal_Grand-mall,1,13.35,10.130000000000001
 "(u'coconut cream', u'2')",Shupersal-Shelly_Denia,0,10.800000000000001,2.7000000000000002
 "(u'coconut cream', u'2')",Shupersal-Shelly_Vardia,0,10.800000000000001,2.7000000000000002
@@ -491,28 +492,29 @@
 "(u'coconut cream', u'2')",Shupersal-Shelly_Ziv,2,19.699999999999999,19.699999999999999
 "(u'coconut cream', u'2')",Shuk_Haifa,1,13.949999999999999,11.449999999999999
 "(u'lettuce', u'0')",Shupersal-Shelly_Nativ-Hen,2,10.9,4.1166666666699996
-"(u'lettuce', u'0')",Shupersal-Express_Marganit,1,9.9000000000000004,3.96
+"(u'lettuce', u'0')",Shupersal-Express_Marganit,2,9.9000000000000004,3.96
 "(u'lettuce', u'0')",Shupersal-Shelly_Keler,2,10.74,3.6699999999999999
-"(u'lettuce', u'0')",Shupersal-Deal-Extra_Tel-Hanan,1,9.9000000000000004,3.3759999999999999
-"(u'lettuce', u'0')",Shupersal-Deal_Grand-mall,1,9.9000000000000004,3.3759999999999999
+"(u'lettuce', u'0')",Yesh_Hanita,1,7.9000000000000004,7.9000000000000004
+"(u'lettuce', u'0')",Shupersal-Deal-Extra_Tel-Hanan,2,9.9000000000000004,3.3759999999999999
+"(u'lettuce', u'0')",Shupersal-Deal_Grand-mall,2,9.9000000000000004,3.3759999999999999
 "(u'lettuce', u'0')",Shupersal-Shelly_Denia,2,10.74,3.6699999999999999
 "(u'lettuce', u'0')",Shupersal-Shelly_Vardia,2,10.74,3.6699999999999999
-"(u'lettuce', u'0')",Shupersal-Express_Rambam,1,9.9000000000000004,3.96
-"(u'lettuce', u'0')",Shupersal-Deal_Eliezer,1,9.9000000000000004,3.3759999999999999
-"(u'lettuce', u'0')",Shupersal-Deal_Admirality,1,9.9000000000000004,3.3759999999999999
+"(u'lettuce', u'0')",Shupersal-Express_Rambam,2,9.9000000000000004,3.96
+"(u'lettuce', u'0')",Shupersal-Deal_Eliezer,2,9.9000000000000004,3.3759999999999999
+"(u'lettuce', u'0')",Shupersal-Deal_Admirality,2,9.9000000000000004,3.3759999999999999
 "(u'lettuce', u'0')",Shupersal-Shelly_Stela,2,10.800000000000001,3.8374999999999999
-"(u'lettuce', u'0')",Shupersal-Express_Raul,1,9.9000000000000004,3.96
+"(u'lettuce', u'0')",Shupersal-Express_Raul,2,9.9000000000000004,3.96
 "(u'lettuce', u'0')",Shupersal-Shelly_Carmel,2,10.74,3.6699999999999999
 "(u'lettuce', u'0')",Shupersal-Shelly_Horev,2,10.74,3.6699999999999999
-"(u'lettuce', u'0')",Shupersal-Deal_Haifa-mall,1,9.9000000000000004,3.3759999999999999
+"(u'lettuce', u'0')",Shupersal-Deal_Haifa-mall,2,9.9000000000000004,3.3759999999999999
 "(u'lettuce', u'0')",Shupersal-Shelly_Sapir,2,10.74,3.6699999999999999
 "(u'lettuce', u'0')",Shupersal-Shelly_Ziv,2,10.74,3.6699999999999999
 "(u'lettuce', u'0')",Shuk_Haifa,0,1.8999999999999999,1.8999999999999999
 "(u'cucumber', u'1')",Shupersal-Shelly_Nativ-Hen,2,8.9000000000000004,8.9000000000000004
 "(u'cucumber', u'1')",Shupersal-Express_Marganit,1,7.9000000000000004,7.9000000000000004
 "(u'cucumber', u'1')",Shupersal-Shelly_Keler,1,7.9000000000000004,7.9000000000000004
-"(u'cucumber', u'1')",Shupersal-Deal-Extra_Tel-Hanan,2,9.9000000000000004,9.9000000000000004
 "(u'cucumber', u'1')",Yesh_Hanita,1,7.9000000000000004,7.9000000000000004
+"(u'cucumber', u'1')",Shupersal-Deal-Extra_Tel-Hanan,2,9.9000000000000004,9.9000000000000004
 "(u'cucumber', u'1')",Shupersal-Deal_Grand-mall,2,9.9000000000000004,9.9000000000000004
 "(u'cucumber', u'1')",Shupersal-Shelly_Denia,2,8.9000000000000004,8.9000000000000004
 "(u'cucumber', u'1')",Shupersal-Shelly_Vardia,1,7.9000000000000004,7.9000000000000004
@@ -531,8 +533,8 @@
 "(u'pepper', u'1')",Shupersal-Shelly_Nativ-Hen,2,11.9,11.9
 "(u'pepper', u'1')",Shupersal-Express_Marganit,2,11.9,11.9
 "(u'pepper', u'1')",Shupersal-Shelly_Keler,2,11.9,11.9
-"(u'pepper', u'1')",Shupersal-Deal-Extra_Tel-Hanan,1,10.9,10.9
 "(u'pepper', u'1')",Yesh_Hanita,1,9.9000000000000004,9.9000000000000004
+"(u'pepper', u'1')",Shupersal-Deal-Extra_Tel-Hanan,1,10.9,10.9
 "(u'pepper', u'1')",Shupersal-Deal_Grand-mall,1,10.9,10.9
 "(u'pepper', u'1')",Shupersal-Shelly_Denia,2,11.9,11.9
 "(u'pepper', u'1')",Shupersal-Shelly_Vardia,2,11.9,11.9
@@ -551,28 +553,28 @@
 "(u'pasta', u'2')",Shupersal-Shelly_Nativ-Hen,0,12.635714285700001,4.7364285714300003
 "(u'pasta', u'2')",Shupersal-Express_Marganit,0,13.1,9.7200000000000006
 "(u'pasta', u'2')",Shupersal-Shelly_Keler,0,19.6153846154,5.0292307692299998
-"(u'pasta', u'2')",Shupersal-Deal-Extra_Tel-Hanan,1,60.0,120.0
 "(u'pasta', u'2')",Yesh_Hanita,0,8.4000000000000004,8.2300000000000004
+"(u'pasta', u'2')",Shupersal-Deal-Extra_Tel-Hanan,1,60.0,120.0
 "(u'pasta', u'2')",Shupersal-Deal_Grand-mall,0,14.056521739100001,5.0695652173900001
-"(u'pasta', u'2')",Shupersal-Shelly_Denia,0,13.85,5.6689999999999996
+"(u'pasta', u'2')",Shupersal-Shelly_Denia,0,13.358333333299999,5.1791666666699996
 "(u'pasta', u'2')",Shupersal-Shelly_Vardia,0,20.899999999999999,5.3042857142899997
 "(u'pasta', u'2')",Shupersal-Express_Rambam,0,7.5,8.9299999999999997
 "(u'pasta', u'2')",Shupersal-Deal_Eliezer,0,13.300000000000001,11.1
-"(u'pasta', u'2')",Shupersal-Deal_Admirality,0,12.965,6.0934999999999997
+"(u'pasta', u'2')",Shupersal-Deal_Admirality,0,12.715789473699999,5.8321052631599999
 "(u'pasta', u'2')",Shupersal-Shelly_Stela,0,20.944444444399998,5.2977777777800004
 "(u'pasta', u'2')",Shupersal-Express_Raul,0,13.5333333333,3.9399999999999999
 "(u'pasta', u'2')",Yesh_France,0,9.9000000000000004,7.6200000000000001
 "(u'pasta', u'2')",Shupersal-Shelly_Carmel,0,19.879999999999999,5.1189999999999998
 "(u'pasta', u'2')",Shupersal-Shelly_Horev,0,20.629999999999999,4.9889999999999999
-"(u'pasta', u'2')",Shupersal-Deal_Haifa-mall,0,13.3307692308,5.9884615384600002
+"(u'pasta', u'2')",Shupersal-Deal_Haifa-mall,0,13.8066666667,5.7539999999999996
 "(u'pasta', u'2')",Shupersal-Shelly_Sapir,0,20.09,5.3949999999999996
 "(u'pasta', u'2')",Shupersal-Shelly_Ziv,0,13.15,10.272500000000001
 "(u'pasta', u'2')",Shuk_Haifa,2,69.0,69.0
 "(u'white cheese', u'2')",Shupersal-Shelly_Nativ-Hen,2,39.333333333299997,39.333333333299997
 "(u'white cheese', u'2')",Shupersal-Express_Marganit,0,15.5333333333,6.6399999999999997
 "(u'white cheese', u'2')",Shupersal-Shelly_Keler,2,41.200000000000003,41.200000000000003
-"(u'white cheese', u'2')",Shupersal-Deal-Extra_Tel-Hanan,0,11.3357142857,5.2785714285700003
 "(u'white cheese', u'2')",Yesh_Hanita,0,13.1714285714,4.9671428571399998
+"(u'white cheese', u'2')",Shupersal-Deal-Extra_Tel-Hanan,0,11.3357142857,5.2785714285700003
 "(u'white cheese', u'2')",Shupersal-Deal_Grand-mall,1,35.0,35.0
 "(u'white cheese', u'2')",Shupersal-Shelly_Denia,2,39.333333333299997,39.333333333299997
 "(u'white cheese', u'2')",Shupersal-Shelly_Vardia,2,39.333333333299997,39.333333333299997
@@ -591,8 +593,8 @@
 "(u'lemon', u'2')",Shupersal-Shelly_Nativ-Hen,1,7.9000000000000004,7.9000000000000004
 "(u'lemon', u'2')",Shupersal-Express_Marganit,2,11.9,11.9
 "(u'lemon', u'2')",Shupersal-Shelly_Keler,1,7.9000000000000004,7.9000000000000004
-"(u'lemon', u'2')",Shupersal-Deal-Extra_Tel-Hanan,1,6.9000000000000004,6.9000000000000004
 "(u'lemon', u'2')",Yesh_Hanita,1,5.9000000000000004,5.9000000000000004
+"(u'lemon', u'2')",Shupersal-Deal-Extra_Tel-Hanan,1,6.9000000000000004,6.9000000000000004
 "(u'lemon', u'2')",Shupersal-Deal_Grand-mall,1,6.9000000000000004,6.9000000000000004
 "(u'lemon', u'2')",Shupersal-Shelly_Denia,1,7.9000000000000004,7.9000000000000004
 "(u'lemon', u'2')",Shupersal-Shelly_Vardia,1,7.9000000000000004,7.9000000000000004
@@ -609,15 +611,15 @@
 "(u'lemon', u'2')",Shupersal-Shelly_Ziv,1,7.9000000000000004,7.9000000000000004
 "(u'lemon', u'2')",Shuk_Haifa,0,2.8999999999999999,2.8999999999999999
 "(u'milk', u'2')",Shupersal-Shelly_Nativ-Hen,0,8.266,7.9809999999999999
-"(u'milk', u'2')",Shupersal-Express_Marganit,1,14.199999999999999,10.300000000000001
+"(u'milk', u'2')",Shupersal-Express_Marganit,1,12.85,8.0250000000000004
 "(u'milk', u'2')",Shupersal-Shelly_Keler,0,8.4327272727300002,8.17363636364
-"(u'milk', u'2')",Shupersal-Deal-Extra_Tel-Hanan,1,14.960000000000001,8.6120000000000001
-"(u'milk', u'2')",Yesh_Hanita,1,13.1,10.6166666667
-"(u'milk', u'2')",Shupersal-Deal_Grand-mall,1,14.960000000000001,8.6120000000000001
+"(u'milk', u'2')",Yesh_Hanita,1,12.2571428571,7.1399999999999997
+"(u'milk', u'2')",Shupersal-Deal-Extra_Tel-Hanan,1,12.0,7.6287500000000001
+"(u'milk', u'2')",Shupersal-Deal_Grand-mall,1,12.710000000000001,8.9610000000000003
 "(u'milk', u'2')",Shupersal-Shelly_Denia,0,8.0733333333299999,7.7566666666700002
 "(u'milk', u'2')",Shupersal-Shelly_Vardia,0,9.3263157894699997,8.3552631578900005
 "(u'milk', u'2')",Shupersal-Express_Rambam,1,12.800000000000001,12.800000000000001
-"(u'milk', u'2')",Shupersal-Deal_Eliezer,1,15.119999999999999,8.6920000000000002
+"(u'milk', u'2')",Shupersal-Deal_Eliezer,2,18.25,11.015000000000001
 "(u'milk', u'2')",Shupersal-Deal_Admirality,1,12.0,7.8566666666699998
 "(u'milk', u'2')",Shupersal-Shelly_Stela,0,8.3309999999999995,8.0459999999999994
 "(u'milk', u'2')",Shupersal-Express_Raul,0,7.8025000000000002,7.4437499999999996
@@ -630,8 +632,8 @@
 "(u'milk', u'2')",Shuk_Haifa,1,12.833333333300001,10.5316666667
 "(u'coconut cream', u'1')",Shupersal-Shelly_Nativ-Hen,0,9.4000000000000004,1.825
 "(u'coconut cream', u'1')",Shupersal-Shelly_Keler,0,8.8000000000000007,3.52
-"(u'coconut cream', u'1')",Shupersal-Deal-Extra_Tel-Hanan,2,29.600000000000001,9.8699999999999992
 "(u'coconut cream', u'1')",Yesh_Hanita,0,11.4,2.2149999999999999
+"(u'coconut cream', u'1')",Shupersal-Deal-Extra_Tel-Hanan,2,29.600000000000001,9.8699999999999992
 "(u'coconut cream', u'1')",Shupersal-Deal_Grand-mall,2,29.600000000000001,9.8699999999999992
 "(u'coconut cream', u'1')",Shupersal-Shelly_Denia,0,7.7000000000000002,1.9299999999999999
 "(u'coconut cream', u'1')",Shupersal-Shelly_Vardia,0,9.9000000000000004,2.48
@@ -649,8 +651,8 @@
 "(u'potato', u'0')",Shupersal-Shelly_Nativ-Hen,2,4.9000000000000004,4.9000000000000004
 "(u'potato', u'0')",Shupersal-Express_Marganit,2,4.9000000000000004,4.9000000000000004
 "(u'potato', u'0')",Shupersal-Shelly_Keler,2,4.9000000000000004,4.9000000000000004
-"(u'potato', u'0')",Shupersal-Deal-Extra_Tel-Hanan,2,4.8200000000000003,4.8200000000000003
 "(u'potato', u'0')",Yesh_Hanita,1,3.8999999999999999,3.8999999999999999
+"(u'potato', u'0')",Shupersal-Deal-Extra_Tel-Hanan,2,4.8200000000000003,4.8200000000000003
 "(u'potato', u'0')",Shupersal-Deal_Grand-mall,2,4.8200000000000003,4.8200000000000003
 "(u'potato', u'0')",Shupersal-Shelly_Denia,2,4.9000000000000004,4.9000000000000004
 "(u'potato', u'0')",Shupersal-Shelly_Vardia,2,4.9000000000000004,4.9000000000000004
@@ -666,29 +668,30 @@
 "(u'potato', u'0')",Shupersal-Shelly_Sapir,2,4.9000000000000004,4.9000000000000004
 "(u'potato', u'0')",Shupersal-Shelly_Ziv,2,4.9000000000000004,4.9000000000000004
 "(u'potato', u'0')",Shuk_Haifa,0,3.3999999999999999,3.3999999999999999
-"(u'lettuce', u'1')",Shupersal-Shelly_Nativ-Hen,1,7.2333333333300001,7.2333333333300001
+"(u'lettuce', u'1')",Shupersal-Shelly_Nativ-Hen,0,7.2333333333300001,7.2333333333300001
 "(u'lettuce', u'1')",Shupersal-Express_Marganit,2,9.9000000000000004,3.96
 "(u'lettuce', u'1')",Shupersal-Shelly_Keler,1,8.2200000000000006,8.2200000000000006
-"(u'lettuce', u'1')",Shupersal-Deal-Extra_Tel-Hanan,1,7.25,7.25
-"(u'lettuce', u'1')",Shupersal-Deal_Grand-mall,1,7.1200000000000001,7.1200000000000001
+"(u'lettuce', u'1')",Yesh_Hanita,1,7.9000000000000004,7.9000000000000004
+"(u'lettuce', u'1')",Shupersal-Deal-Extra_Tel-Hanan,0,7.25,7.25
+"(u'lettuce', u'1')",Shupersal-Deal_Grand-mall,0,7.1200000000000001,7.1200000000000001
 "(u'lettuce', u'1')",Shupersal-Shelly_Denia,1,7.7999999999999998,7.7999999999999998
 "(u'lettuce', u'1')",Shupersal-Shelly_Vardia,1,7.7999999999999998,7.7999999999999998
 "(u'lettuce', u'1')",Shupersal-Express_Rambam,2,7.9000000000000004,4.9299999999999997
-"(u'lettuce', u'1')",Shupersal-Deal_Eliezer,0,5.9000000000000004,5.9000000000000004
-"(u'lettuce', u'1')",Shupersal-Deal_Admirality,1,6.9000000000000004,6.9000000000000004
+"(u'lettuce', u'1')",Shupersal-Deal_Eliezer,0,6.5666666666699998,6.5666666666699998
+"(u'lettuce', u'1')",Shupersal-Deal_Admirality,0,6.9000000000000004,6.9000000000000004
 "(u'lettuce', u'1')",Shupersal-Shelly_Stela,1,7.7999999999999998,7.7999999999999998
 "(u'lettuce', u'1')",Shupersal-Express_Raul,0,5.9000000000000004,5.9000000000000004
-"(u'lettuce', u'1')",Shupersal-Shelly_Carmel,1,7.2333333333300001,7.2333333333300001
+"(u'lettuce', u'1')",Shupersal-Shelly_Carmel,0,7.2333333333300001,7.2333333333300001
 "(u'lettuce', u'1')",Shupersal-Shelly_Horev,1,8.0,8.0
-"(u'lettuce', u'1')",Shupersal-Deal_Haifa-mall,1,6.9000000000000004,6.9000000000000004
+"(u'lettuce', u'1')",Shupersal-Deal_Haifa-mall,0,6.9000000000000004,6.9000000000000004
 "(u'lettuce', u'1')",Shupersal-Shelly_Sapir,1,8.0,8.0
 "(u'lettuce', u'1')",Shupersal-Shelly_Ziv,1,8.2200000000000006,8.2200000000000006
 "(u'lettuce', u'1')",Shuk_Haifa,0,5.4000000000000004,5.4000000000000004
 "(u'pepper', u'0')",Shupersal-Shelly_Nativ-Hen,2,10.9,10.9
 "(u'pepper', u'0')",Shupersal-Express_Marganit,2,11.9,11.9
 "(u'pepper', u'0')",Shupersal-Shelly_Keler,2,10.9,10.9
-"(u'pepper', u'0')",Shupersal-Deal-Extra_Tel-Hanan,1,9.9000000000000004,9.9000000000000004
 "(u'pepper', u'0')",Yesh_Hanita,0,7.9000000000000004,7.9000000000000004
+"(u'pepper', u'0')",Shupersal-Deal-Extra_Tel-Hanan,1,9.9000000000000004,9.9000000000000004
 "(u'pepper', u'0')",Shupersal-Deal_Grand-mall,1,9.6500000000000004,9.6500000000000004
 "(u'pepper', u'0')",Shupersal-Shelly_Denia,2,10.9,10.9
 "(u'pepper', u'0')",Shupersal-Shelly_Vardia,2,10.5666666667,10.5666666667
@@ -706,8 +709,8 @@
 "(u'pepper', u'0')",Shuk_Haifa,0,7.2599999999999998,7.2599999999999998
 "(u'coconut cream', u'0')",Shupersal-Shelly_Nativ-Hen,0,7.0,1.7549999999999999
 "(u'coconut cream', u'0')",Shupersal-Shelly_Keler,1,10.074999999999999,2.52
-"(u'coconut cream', u'0')",Shupersal-Deal-Extra_Tel-Hanan,1,8.7666666666699999,2.2408333333299999
 "(u'coconut cream', u'0')",Yesh_Hanita,0,7.0999999999999996,1.78
+"(u'coconut cream', u'0')",Shupersal-Deal-Extra_Tel-Hanan,1,8.7666666666699999,2.2408333333299999
 "(u'coconut cream', u'0')",Shupersal-Deal_Grand-mall,1,8.6363636363600005,2.1699999999999999
 "(u'coconut cream', u'0')",Shupersal-Shelly_Denia,0,6.5,1.6299999999999999
 "(u'coconut cream', u'0')",Shupersal-Shelly_Vardia,0,7.0,1.7549999999999999
@@ -725,8 +728,8 @@
 "(u'frozen', u'0')",Shupersal-Shelly_Nativ-Hen,2,16.175000000000001,2.4500000000000002
 "(u'frozen', u'0')",Shupersal-Express_Marganit,0,9.9000000000000004,2.2000000000000002
 "(u'frozen', u'0')",Shupersal-Shelly_Keler,1,15.416666666699999,2.7200000000000002
-"(u'frozen', u'0')",Shupersal-Deal-Extra_Tel-Hanan,2,17.847619047599999,4.5061904761899996
 "(u'frozen', u'0')",Yesh_Hanita,0,10.949999999999999,2.1000000000000001
+"(u'frozen', u'0')",Shupersal-Deal-Extra_Tel-Hanan,2,17.847619047599999,4.5061904761899996
 "(u'frozen', u'0')",Shupersal-Deal_Grand-mall,2,17.733333333299999,2.8441666666700001
 "(u'frozen', u'0')",Shupersal-Shelly_Denia,1,13.9,2.6899999999999999
 "(u'frozen', u'0')",Shupersal-Shelly_Vardia,0,9.9000000000000004,2.3700000000000001
@@ -745,8 +748,8 @@
 "(u'bag', u'1')",Shupersal-Shelly_Nativ-Hen,2,14.5,14.5
 "(u'bag', u'1')",Shupersal-Express_Marganit,1,11.5,11.5
 "(u'bag', u'1')",Shupersal-Shelly_Keler,1,12.1,12.1
-"(u'bag', u'1')",Shupersal-Deal-Extra_Tel-Hanan,2,13.6,13.6
 "(u'bag', u'1')",Yesh_Hanita,1,9.9000000000000004,9.9000000000000004
+"(u'bag', u'1')",Shupersal-Deal-Extra_Tel-Hanan,2,13.6,13.6
 "(u'bag', u'1')",Shupersal-Deal_Grand-mall,2,13.775,13.775
 "(u'bag', u'1')",Shupersal-Shelly_Denia,1,11.5,11.5
 "(u'bag', u'1')",Shupersal-Shelly_Vardia,1,11.5,11.5
@@ -762,32 +765,32 @@
 "(u'bag', u'1')",Shupersal-Shelly_Sapir,1,11.5,11.5
 "(u'bag', u'1')",Shupersal-Shelly_Ziv,1,11.199999999999999,11.199999999999999
 "(u'bag', u'1')",Shuk_Haifa,0,7.4400000000000004,1.5920000000000001
-"(u'white cheese', u'0')",Shupersal-Shelly_Nativ-Hen,0,5.7529411764700003,1.85411764706
+"(u'white cheese', u'0')",Shupersal-Shelly_Nativ-Hen,1,5.7529411764700003,1.85411764706
 "(u'white cheese', u'0')",Shupersal-Express_Marganit,0,4.5999999999999996,1.8400000000000001
-"(u'white cheese', u'0')",Shupersal-Shelly_Keler,0,5.7529411764700003,1.85411764706
-"(u'white cheese', u'0')",Shupersal-Deal-Extra_Tel-Hanan,0,5.7117647058800003,1.8388235294099999
-"(u'white cheese', u'0')",Yesh_Hanita,0,6.8937499999999998,2.2381250000000001
-"(u'white cheese', u'0')",Shupersal-Deal_Grand-mall,0,5.7117647058800003,1.8388235294099999
-"(u'white cheese', u'0')",Shupersal-Shelly_Denia,0,5.96875,1.855
-"(u'white cheese', u'0')",Shupersal-Shelly_Vardia,0,5.7529411764700003,1.85411764706
+"(u'white cheese', u'0')",Shupersal-Shelly_Keler,1,5.7529411764700003,1.85411764706
+"(u'white cheese', u'0')",Yesh_Hanita,1,6.8937499999999998,2.2381250000000001
+"(u'white cheese', u'0')",Shupersal-Deal-Extra_Tel-Hanan,1,5.7117647058800003,1.8388235294099999
+"(u'white cheese', u'0')",Shupersal-Deal_Grand-mall,1,5.7117647058800003,1.8388235294099999
+"(u'white cheese', u'0')",Shupersal-Shelly_Denia,1,5.96875,1.855
+"(u'white cheese', u'0')",Shupersal-Shelly_Vardia,1,5.7529411764700003,1.85411764706
 "(u'white cheese', u'0')",Shupersal-Express_Rambam,2,9.1999999999999993,1.8400000000000001
-"(u'white cheese', u'0')",Shupersal-Deal_Eliezer,0,5.7117647058800003,1.8388235294099999
-"(u'white cheese', u'0')",Shupersal-Deal_Admirality,0,5.7117647058800003,1.8388235294099999
-"(u'white cheese', u'0')",Shupersal-Shelly_Stela,0,5.7529411764700003,1.85411764706
-"(u'white cheese', u'0')",Shupersal-Express_Raul,2,9.1999999999999993,1.8400000000000001
+"(u'white cheese', u'0')",Shupersal-Deal_Eliezer,1,5.7117647058800003,1.8388235294099999
+"(u'white cheese', u'0')",Shupersal-Deal_Admirality,1,5.7117647058800003,1.8388235294099999
+"(u'white cheese', u'0')",Shupersal-Shelly_Stela,1,5.7529411764700003,1.85411764706
+"(u'white cheese', u'0')",Shupersal-Express_Raul,0,4.5999999999999996,1.8400000000000001
 "(u'white cheese', u'0')",Yesh_France,0,4.7000000000000002,1.8799999999999999
-"(u'white cheese', u'0')",Shupersal-Shelly_Carmel,0,5.7529411764700003,1.85411764706
-"(u'white cheese', u'0')",Shupersal-Shelly_Horev,0,5.7529411764700003,1.85411764706
-"(u'white cheese', u'0')",Shupersal-Deal_Haifa-mall,0,5.7117647058800003,1.8388235294099999
-"(u'white cheese', u'0')",Shupersal-Shelly_Sapir,0,5.7529411764700003,1.85411764706
-"(u'white cheese', u'0')",Shupersal-Shelly_Ziv,0,5.7529411764700003,1.85411764706
-"(u'white cheese', u'0')",Shuk_Haifa,1,8.8033333333300003,3.766
+"(u'white cheese', u'0')",Shupersal-Shelly_Carmel,1,5.7529411764700003,1.85411764706
+"(u'white cheese', u'0')",Shupersal-Shelly_Horev,1,5.7529411764700003,1.85411764706
+"(u'white cheese', u'0')",Shupersal-Deal_Haifa-mall,1,5.7117647058800003,1.8388235294099999
+"(u'white cheese', u'0')",Shupersal-Shelly_Sapir,1,5.7529411764700003,1.85411764706
+"(u'white cheese', u'0')",Shupersal-Shelly_Ziv,1,5.7529411764700003,1.85411764706
+"(u'white cheese', u'0')",Shuk_Haifa,2,8.8033333333300003,3.766
 "(u'milk', u'0')",Shupersal-Shelly_Nativ-Hen,0,5.5406250000000004,4.3112500000000002
 "(u'milk', u'0')",Shupersal-Express_Marganit,1,5.53125,5.1112500000000001
 "(u'milk', u'0')",Shupersal-Shelly_Keler,0,5.9236842105300003,3.79263157895
-"(u'milk', u'0')",Shupersal-Deal-Extra_Tel-Hanan,0,5.81904761905,3.4704761904799999
-"(u'milk', u'0')",Yesh_Hanita,0,5.4035714285700003,3.8149999999999999
-"(u'milk', u'0')",Shupersal-Deal_Grand-mall,0,5.6804347826099999,3.30043478261
+"(u'milk', u'0')",Yesh_Hanita,0,5.2666666666699999,2.79555555556
+"(u'milk', u'0')",Shupersal-Deal-Extra_Tel-Hanan,2,6.4199999999999999,1.488
+"(u'milk', u'0')",Shupersal-Deal_Grand-mall,2,5.9833333333300001,1.42166666667
 "(u'milk', u'0')",Shupersal-Shelly_Denia,0,5.7400000000000002,3.9606666666699999
 "(u'milk', u'0')",Shupersal-Shelly_Vardia,2,6.2874999999999996,1.7237499999999999
 "(u'milk', u'0')",Shupersal-Express_Rambam,2,6.9833333333300001,1.7849999999999999
@@ -805,8 +808,8 @@
 "(u'orange', u'1')",Shupersal-Shelly_Nativ-Hen,2,6.4000000000000004,6.4000000000000004
 "(u'orange', u'1')",Shupersal-Express_Marganit,2,6.9000000000000004,6.9000000000000004
 "(u'orange', u'1')",Shupersal-Shelly_Keler,2,6.4000000000000004,6.4000000000000004
-"(u'orange', u'1')",Shupersal-Deal-Extra_Tel-Hanan,1,5.9000000000000004,5.9000000000000004
 "(u'orange', u'1')",Yesh_Hanita,1,5.4000000000000004,5.4000000000000004
+"(u'orange', u'1')",Shupersal-Deal-Extra_Tel-Hanan,1,5.9000000000000004,5.9000000000000004
 "(u'orange', u'1')",Shupersal-Deal_Grand-mall,1,5.9000000000000004,5.9000000000000004
 "(u'orange', u'1')",Shupersal-Shelly_Denia,2,6.4000000000000004,6.4000000000000004
 "(u'orange', u'1')",Shupersal-Shelly_Vardia,2,6.4000000000000004,6.4000000000000004
@@ -825,8 +828,8 @@
 "(u'potato', u'2')",Shupersal-Shelly_Nativ-Hen,0,6.9000000000000004,6.9000000000000004
 "(u'potato', u'2')",Shupersal-Express_Marganit,0,6.5,6.5
 "(u'potato', u'2')",Shupersal-Shelly_Keler,2,13.9,13.9
-"(u'potato', u'2')",Shupersal-Deal-Extra_Tel-Hanan,2,12.9,12.9
 "(u'potato', u'2')",Yesh_Hanita,2,14.9,14.9
+"(u'potato', u'2')",Shupersal-Deal-Extra_Tel-Hanan,2,12.9,12.9
 "(u'potato', u'2')",Shupersal-Deal_Grand-mall,2,12.9,12.9
 "(u'potato', u'2')",Shupersal-Shelly_Denia,0,6.9000000000000004,6.9000000000000004
 "(u'potato', u'2')",Shupersal-Shelly_Vardia,0,6.9000000000000004,6.9000000000000004
@@ -845,8 +848,8 @@
 "(u'banana', u'1')",Shupersal-Shelly_Nativ-Hen,1,10.9,10.9
 "(u'banana', u'1')",Shupersal-Express_Marganit,1,10.9,10.9
 "(u'banana', u'1')",Shupersal-Shelly_Keler,1,10.9,10.9
-"(u'banana', u'1')",Shupersal-Deal-Extra_Tel-Hanan,2,12.4,12.4
 "(u'banana', u'1')",Yesh_Hanita,0,7.9000000000000004,7.9000000000000004
+"(u'banana', u'1')",Shupersal-Deal-Extra_Tel-Hanan,2,12.4,12.4
 "(u'banana', u'1')",Shupersal-Deal_Grand-mall,2,12.4,12.4
 "(u'banana', u'1')",Shupersal-Shelly_Denia,1,10.9,10.9
 "(u'banana', u'1')",Shupersal-Shelly_Vardia,1,10.9,10.9
@@ -865,8 +868,8 @@
 "(u'Dish soap', u'1')",Shupersal-Shelly_Nativ-Hen,1,12.266666666700001,2.0133333333299999
 "(u'Dish soap', u'1')",Shupersal-Express_Marganit,0,10.65,5.7549999999999999
 "(u'Dish soap', u'1')",Shupersal-Shelly_Keler,1,12.266666666700001,2.0133333333299999
-"(u'Dish soap', u'1')",Shupersal-Deal-Extra_Tel-Hanan,0,11.2833333333,9.4100000000000001
 "(u'Dish soap', u'1')",Yesh_Hanita,1,19.899999999999999,4.9800000000000004
+"(u'Dish soap', u'1')",Shupersal-Deal-Extra_Tel-Hanan,0,11.2833333333,9.4100000000000001
 "(u'Dish soap', u'1')",Shupersal-Deal_Grand-mall,0,11.983333333299999,9.6566666666700005
 "(u'Dish soap', u'1')",Shupersal-Shelly_Denia,1,12.483333333299999,1.915
 "(u'Dish soap', u'1')",Shupersal-Shelly_Vardia,1,12.220000000000001,2.032
@@ -883,15 +886,15 @@
 "(u'Dish soap', u'1')",Shupersal-Shelly_Ziv,1,12.266666666700001,2.0133333333299999
 "(u'Dish soap', u'1')",Shuk_Haifa,2,39.899999999999999,5.7000000000000002
 "(u'milk', u'1')",Shupersal-Shelly_Nativ-Hen,2,12.442857142899999,6.49857142857
-"(u'milk', u'1')",Shupersal-Express_Marganit,1,8.7911111111100002,7.1944444444400002
+"(u'milk', u'1')",Shupersal-Express_Marganit,1,8.0171428571399996,7.6071428571400004
 "(u'milk', u'1')",Shupersal-Shelly_Keler,2,12.949999999999999,6.5962500000000004
-"(u'milk', u'1')",Shupersal-Deal-Extra_Tel-Hanan,1,8.7490322580599997,7.3338709677400002
-"(u'milk', u'1')",Yesh_Hanita,1,8.9076923076900005,6.5076923076900002
-"(u'milk', u'1')",Shupersal-Deal_Grand-mall,1,8.6110344827599992,7.46896551724
+"(u'milk', u'1')",Yesh_Hanita,0,6.9678571428599998,6.7657142857099997
+"(u'milk', u'1')",Shupersal-Deal-Extra_Tel-Hanan,0,6.8393548387100003,6.6564516128999998
+"(u'milk', u'1')",Shupersal-Deal_Grand-mall,0,7.3220000000000001,6.54
 "(u'milk', u'1')",Shupersal-Shelly_Denia,2,12.26,6.3239999999999998
 "(u'milk', u'1')",Shupersal-Shelly_Vardia,0,6.1762499999999996,5.8200000000000003
 "(u'milk', u'1')",Shupersal-Express_Rambam,0,7.1246153846200002,6.46153846154
-"(u'milk', u'1')",Shupersal-Deal_Eliezer,1,8.5711111111099996,7.33148148148
+"(u'milk', u'1')",Shupersal-Deal_Eliezer,1,9.0173333333300008,7.3126666666700002
 "(u'milk', u'1')",Shupersal-Deal_Admirality,0,6.8593103448299999,6.6637931034499998
 "(u'milk', u'1')",Shupersal-Shelly_Stela,2,12.26,6.3239999999999998
 "(u'milk', u'1')",Shupersal-Express_Raul,2,12.8666666667,6.4333333333300002
@@ -905,8 +908,8 @@
 "(u'coffee', u'2')",Shupersal-Shelly_Nativ-Hen,0,20.0333333333,28.8093333333
 "(u'coffee', u'2')",Shupersal-Express_Marganit,0,15.9,31.800000000000001
 "(u'coffee', u'2')",Shupersal-Shelly_Keler,0,18.791666666699999,29.5016666667
-"(u'coffee', u'2')",Shupersal-Deal-Extra_Tel-Hanan,0,20.024999999999999,26.99625
 "(u'coffee', u'2')",Yesh_Hanita,0,15.9,31.800000000000001
+"(u'coffee', u'2')",Shupersal-Deal-Extra_Tel-Hanan,0,20.024999999999999,26.99625
 "(u'coffee', u'2')",Shupersal-Deal_Grand-mall,0,19.852631578899999,27.451578947400002
 "(u'coffee', u'2')",Shupersal-Shelly_Denia,0,20.046666666699998,28.684000000000001
 "(u'coffee', u'2')",Shupersal-Shelly_Vardia,0,18.377777777799999,28.768888888900001
@@ -925,8 +928,8 @@
 "(u'orange', u'0')",Shupersal-Shelly_Nativ-Hen,1,5.9000000000000004,5.9000000000000004
 "(u'orange', u'0')",Shupersal-Express_Marganit,2,6.9000000000000004,6.9000000000000004
 "(u'orange', u'0')",Shupersal-Shelly_Keler,1,5.9000000000000004,5.9000000000000004
-"(u'orange', u'0')",Shupersal-Deal-Extra_Tel-Hanan,0,4.9000000000000004,4.9000000000000004
 "(u'orange', u'0')",Yesh_Hanita,0,4.9000000000000004,4.9000000000000004
+"(u'orange', u'0')",Shupersal-Deal-Extra_Tel-Hanan,0,4.9000000000000004,4.9000000000000004
 "(u'orange', u'0')",Shupersal-Deal_Grand-mall,0,4.9000000000000004,4.9000000000000004
 "(u'orange', u'0')",Shupersal-Shelly_Denia,1,5.9000000000000004,5.9000000000000004
 "(u'orange', u'0')",Shupersal-Shelly_Vardia,1,5.9000000000000004,5.9000000000000004
@@ -945,8 +948,8 @@
 "(u'frozen', u'2')",Shupersal-Shelly_Nativ-Hen,1,42.799999999999997,21.399999999999999
 "(u'frozen', u'2')",Shupersal-Express_Marganit,0,16.899999999999999,4.2300000000000004
 "(u'frozen', u'2')",Shupersal-Shelly_Keler,1,42.799999999999997,21.399999999999999
-"(u'frozen', u'2')",Shupersal-Deal-Extra_Tel-Hanan,2,44.899999999999999,44.899999999999999
 "(u'frozen', u'2')",Yesh_Hanita,0,16.100000000000001,11.596
+"(u'frozen', u'2')",Shupersal-Deal-Extra_Tel-Hanan,2,44.899999999999999,44.899999999999999
 "(u'frozen', u'2')",Shupersal-Deal_Grand-mall,2,44.899999999999999,44.899999999999999
 "(u'frozen', u'2')",Shupersal-Shelly_Denia,1,42.799999999999997,21.399999999999999
 "(u'frozen', u'2')",Shupersal-Shelly_Vardia,1,42.799999999999997,21.399999999999999
@@ -965,8 +968,8 @@
 "(u'garbage bag', u'1')",Shupersal-Shelly_Nativ-Hen,2,22.34,22.34
 "(u'garbage bag', u'1')",Shupersal-Express_Marganit,2,23.899999999999999,23.899999999999999
 "(u'garbage bag', u'1')",Shupersal-Shelly_Keler,2,22.266666666700001,22.266666666700001
-"(u'garbage bag', u'1')",Shupersal-Deal-Extra_Tel-Hanan,1,20.25,20.25
 "(u'garbage bag', u'1')",Yesh_Hanita,1,18.399999999999999,18.399999999999999
+"(u'garbage bag', u'1')",Shupersal-Deal-Extra_Tel-Hanan,1,20.25,20.25
 "(u'garbage bag', u'1')",Shupersal-Deal_Grand-mall,1,20.285714285699999,20.285714285699999
 "(u'garbage bag', u'1')",Shupersal-Shelly_Denia,2,22.266666666700001,22.266666666700001
 "(u'garbage bag', u'1')",Shupersal-Shelly_Vardia,0,15.0,15.0
@@ -985,8 +988,8 @@
 "(u'oil', u'1')",Shupersal-Shelly_Nativ-Hen,1,13.9,8.4049999999999994
 "(u'oil', u'1')",Shupersal-Express_Marganit,2,15.9,15.9
 "(u'oil', u'1')",Shupersal-Shelly_Keler,1,14.5666666667,8.7200000000000006
-"(u'oil', u'1')",Shupersal-Deal-Extra_Tel-Hanan,2,14.4,14.4
 "(u'oil', u'1')",Yesh_Hanita,2,15.5,15.5
+"(u'oil', u'1')",Shupersal-Deal-Extra_Tel-Hanan,2,14.4,14.4
 "(u'oil', u'1')",Shupersal-Deal_Grand-mall,1,14.233333333299999,8.5233333333299992
 "(u'oil', u'1')",Shupersal-Shelly_Denia,1,13.9,6.9500000000000002
 "(u'oil', u'1')",Shupersal-Shelly_Vardia,2,15.35,15.35
@@ -1001,12 +1004,12 @@
 "(u'oil', u'1')",Shupersal-Deal_Haifa-mall,2,13.85,13.050000000000001
 "(u'oil', u'1')",Shupersal-Shelly_Sapir,1,13.9,8.4049999999999994
 "(u'oil', u'1')",Shupersal-Shelly_Ziv,1,14.5666666667,8.7200000000000006
-"(u'oil', u'1')",Shuk_Haifa,0,10.0,4.0
+"(u'oil', u'1')",Shuk_Haifa,0,11.449999999999999,5.2249999999999996
 "(u'carrot', u'0')",Shupersal-Shelly_Nativ-Hen,2,4.9000000000000004,4.9000000000000004
 "(u'carrot', u'0')",Shupersal-Express_Marganit,2,4.9000000000000004,4.9000000000000004
 "(u'carrot', u'0')",Shupersal-Shelly_Keler,2,4.9000000000000004,4.9000000000000004
-"(u'carrot', u'0')",Shupersal-Deal-Extra_Tel-Hanan,1,3.8999999999999999,3.8999999999999999
 "(u'carrot', u'0')",Yesh_Hanita,1,3.5,3.5
+"(u'carrot', u'0')",Shupersal-Deal-Extra_Tel-Hanan,1,3.8999999999999999,3.8999999999999999
 "(u'carrot', u'0')",Shupersal-Deal_Grand-mall,1,3.8999999999999999,3.8999999999999999
 "(u'carrot', u'0')",Shupersal-Shelly_Denia,2,4.9000000000000004,4.9000000000000004
 "(u'carrot', u'0')",Shupersal-Shelly_Vardia,2,4.9000000000000004,4.9000000000000004
@@ -1024,8 +1027,8 @@
 "(u'carrot', u'0')",Shuk_Haifa,0,2.8999999999999999,2.8999999999999999
 "(u'fats remover', u'2')",Shupersal-Shelly_Nativ-Hen,1,15.0,15.0
 "(u'fats remover', u'2')",Shupersal-Shelly_Keler,1,15.0,15.0
-"(u'fats remover', u'2')",Shupersal-Deal-Extra_Tel-Hanan,1,15.0,15.0
 "(u'fats remover', u'2')",Yesh_Hanita,2,18.899999999999999,18.899999999999999
+"(u'fats remover', u'2')",Shupersal-Deal-Extra_Tel-Hanan,1,15.0,15.0
 "(u'fats remover', u'2')",Shupersal-Deal_Grand-mall,1,15.0,15.0
 "(u'fats remover', u'2')",Shupersal-Shelly_Vardia,1,15.0,15.0
 "(u'fats remover', u'2')",Shupersal-Shelly_Denia,1,15.0,15.0
@@ -1043,11 +1046,11 @@
 "(u'coffee', u'0')",Shupersal-Shelly_Nativ-Hen,1,14.9652173913,9.0143478260900007
 "(u'coffee', u'0')",Shupersal-Express_Marganit,0,14.35,8.2149999999999999
 "(u'coffee', u'0')",Shupersal-Shelly_Keler,1,15.362500000000001,9.1945833333299998
-"(u'coffee', u'0')",Shupersal-Deal-Extra_Tel-Hanan,0,14.180645161299999,8.7287096774199995
 "(u'coffee', u'0')",Yesh_Hanita,1,16.441666666700002,8.2774999999999999
+"(u'coffee', u'0')",Shupersal-Deal-Extra_Tel-Hanan,0,14.180645161299999,8.7287096774199995
 "(u'coffee', u'0')",Shupersal-Deal_Grand-mall,0,14.6862068966,8.93482758621
 "(u'coffee', u'0')",Shupersal-Shelly_Denia,1,15.831578947400001,9.3289473684199997
-"(u'coffee', u'0')",Shupersal-Shelly_Vardia,1,15.550000000000001,8.6180000000000003
+"(u'coffee', u'0')",Shupersal-Shelly_Vardia,1,16.274999999999999,9.8350000000000009
 "(u'coffee', u'0')",Shupersal-Express_Rambam,0,13.9666666667,8.1319999999999997
 "(u'coffee', u'0')",Shupersal-Deal_Eliezer,0,14.1576923077,9.0253846153800001
 "(u'coffee', u'0')",Shupersal-Deal_Admirality,0,14.364285714299999,8.1907142857099995
@@ -1059,12 +1062,12 @@
 "(u'coffee', u'0')",Shupersal-Deal_Haifa-mall,0,13.2304347826,7.9760869565199997
 "(u'coffee', u'0')",Shupersal-Shelly_Sapir,1,15.795833333299999,8.9429166666699995
 "(u'coffee', u'0')",Shupersal-Shelly_Ziv,1,15.666666666699999,8.9888888888899992
-"(u'coffee', u'0')",Shuk_Haifa,2,23.091428571400002,12.1702857143
+"(u'coffee', u'0')",Shuk_Haifa,2,22.697222222200001,12.3266666667
 "(u'orange', u'2')",Shupersal-Shelly_Nativ-Hen,1,6.9000000000000004,6.9000000000000004
 "(u'orange', u'2')",Shupersal-Express_Marganit,1,6.9000000000000004,6.9000000000000004
 "(u'orange', u'2')",Shupersal-Shelly_Keler,1,6.9000000000000004,6.9000000000000004
-"(u'orange', u'2')",Shupersal-Deal-Extra_Tel-Hanan,1,6.9000000000000004,6.9000000000000004
 "(u'orange', u'2')",Yesh_Hanita,0,5.9000000000000004,5.9000000000000004
+"(u'orange', u'2')",Shupersal-Deal-Extra_Tel-Hanan,1,6.9000000000000004,6.9000000000000004
 "(u'orange', u'2')",Shupersal-Deal_Grand-mall,1,6.9000000000000004,6.9000000000000004
 "(u'orange', u'2')",Shupersal-Shelly_Denia,1,6.9000000000000004,6.9000000000000004
 "(u'orange', u'2')",Shupersal-Shelly_Vardia,1,6.9000000000000004,6.9000000000000004
@@ -1083,8 +1086,8 @@
 "(u'bleach', u'0')",Shupersal-Shelly_Nativ-Hen,1,9.4499999999999993,2.26166666667
 "(u'bleach', u'0')",Shupersal-Express_Marganit,2,14.6,1.95
 "(u'bleach', u'0')",Shupersal-Shelly_Keler,1,9.1600000000000001,2.1680000000000001
-"(u'bleach', u'0')",Shupersal-Deal-Extra_Tel-Hanan,1,10.4916666667,2.1641666666699999
 "(u'bleach', u'0')",Yesh_Hanita,0,6.9000000000000004,1.73
+"(u'bleach', u'0')",Shupersal-Deal-Extra_Tel-Hanan,1,10.4916666667,2.1641666666699999
 "(u'bleach', u'0')",Shupersal-Deal_Grand-mall,1,9.7300000000000004,2.1789999999999998
 "(u'bleach', u'0')",Shupersal-Shelly_Vardia,1,9.1400000000000006,2.1640000000000001
 "(u'bleach', u'0')",Shupersal-Shelly_Denia,1,9.4333333333299993,2.4533333333299998
@@ -1102,10 +1105,10 @@
 "(u'peanut snack', u'1')",Shupersal-Shelly_Nativ-Hen,0,4.1090909090899999,7.3709090909099997
 "(u'peanut snack', u'1')",Shupersal-Express_Marganit,0,4.5333333333299999,5.6699999999999999
 "(u'peanut snack', u'1')",Shupersal-Shelly_Keler,0,4.0090909090900002,7.2036363636400003
-"(u'peanut snack', u'1')",Shupersal-Deal-Extra_Tel-Hanan,0,4.2000000000000002,6.8523076923100001
 "(u'peanut snack', u'1')",Yesh_Hanita,0,3.7000000000000002,7.4580000000000002
+"(u'peanut snack', u'1')",Shupersal-Deal-Extra_Tel-Hanan,0,4.2000000000000002,6.8523076923100001
 "(u'peanut snack', u'1')",Shupersal-Deal_Grand-mall,1,16.983333333299999,7.6950000000000003
-"(u'peanut snack', u'1')",Shupersal-Shelly_Denia,0,4.7999999999999998,7.3054545454499999
+"(u'peanut snack', u'1')",Shupersal-Shelly_Denia,0,5.3083333333300002,7.3550000000000004
 "(u'peanut snack', u'1')",Shupersal-Shelly_Vardia,2,25.899999999999999,8.6300000000000008
 "(u'peanut snack', u'1')",Shupersal-Express_Rambam,0,10.0,6.2249999999999996
 "(u'peanut snack', u'1')",Shupersal-Deal_Eliezer,0,3.86666666667,6.8683333333299998
@@ -1122,8 +1125,8 @@
 "(u'cabbage', u'2')",Shupersal-Shelly_Nativ-Hen,1,6.9000000000000004,6.9000000000000004
 "(u'cabbage', u'2')",Shupersal-Express_Marganit,1,5.9000000000000004,5.9000000000000004
 "(u'cabbage', u'2')",Shupersal-Shelly_Keler,2,12.9,12.9
+"(u'cabbage', u'2')",Yesh_Hanita,2,13.9,13.9
 "(u'cabbage', u'2')",Shupersal-Deal-Extra_Tel-Hanan,1,5.9000000000000004,5.9000000000000004
-"(u'cabbage', u'2')",Yesh_Hanita,0,3.8999999999999999,3.8999999999999999
 "(u'cabbage', u'2')",Shupersal-Deal_Grand-mall,2,12.9,12.9
 "(u'cabbage', u'2')",Shupersal-Shelly_Vardia,1,5.9000000000000004,5.9000000000000004
 "(u'cabbage', u'2')",Shupersal-Shelly_Denia,2,12.9,12.9
@@ -1141,8 +1144,8 @@
 "(u'toilet paper', u'2')",Shupersal-Shelly_Nativ-Hen,0,16.899999999999999,16.899999999999999
 "(u'toilet paper', u'2')",Shupersal-Express_Marganit,0,15.9,15.9
 "(u'toilet paper', u'2')",Shupersal-Shelly_Keler,0,16.899999999999999,16.899999999999999
-"(u'toilet paper', u'2')",Shupersal-Deal-Extra_Tel-Hanan,0,13.625,13.625
 "(u'toilet paper', u'2')",Yesh_Hanita,1,29.899999999999999,29.899999999999999
+"(u'toilet paper', u'2')",Shupersal-Deal-Extra_Tel-Hanan,0,13.625,13.625
 "(u'toilet paper', u'2')",Shupersal-Deal_Grand-mall,0,13.375,13.375
 "(u'toilet paper', u'2')",Shupersal-Shelly_Denia,0,17.399999999999999,17.399999999999999
 "(u'toilet paper', u'2')",Shupersal-Shelly_Vardia,0,17.399999999999999,17.399999999999999
@@ -1161,8 +1164,8 @@
 "(u'deodorant', u'1')",Shupersal-Shelly_Nativ-Hen,0,19.557894736800002,19.273157894699999
 "(u'deodorant', u'1')",Shupersal-Express_Marganit,0,22.899999999999999,15.27
 "(u'deodorant', u'1')",Shupersal-Shelly_Keler,1,20.633333333300001,35.0922222222
-"(u'deodorant', u'1')",Shupersal-Deal-Extra_Tel-Hanan,1,21.324999999999999,38.751249999999999
 "(u'deodorant', u'1')",Yesh_Hanita,0,20.185714285700001,17.498571428599998
+"(u'deodorant', u'1')",Shupersal-Deal-Extra_Tel-Hanan,1,21.324999999999999,38.751249999999999
 "(u'deodorant', u'1')",Shupersal-Deal_Grand-mall,2,69.900000000000006,27.960000000000001
 "(u'deodorant', u'1')",Shupersal-Shelly_Denia,1,28.633333333300001,38.053333333300003
 "(u'deodorant', u'1')",Shupersal-Shelly_Vardia,0,21.933333333299998,18.858333333299999
@@ -1172,17 +1175,17 @@
 "(u'deodorant', u'1')",Shupersal-Shelly_Stela,0,20.214285714300001,19.632857142900001
 "(u'deodorant', u'1')",Shupersal-Express_Raul,0,14.35,10.875
 "(u'deodorant', u'1')",Yesh_France,0,20.899999999999999,13.936666666700001
-"(u'deodorant', u'1')",Shupersal-Shelly_Carmel,0,19.244444444399999,18.268333333299999
+"(u'deodorant', u'1')",Shupersal-Shelly_Carmel,0,18.0523809524,17.7342857143
 "(u'deodorant', u'1')",Shupersal-Shelly_Horev,1,18.0625,31.517499999999998
 "(u'deodorant', u'1')",Shupersal-Deal_Haifa-mall,0,15.2428571429,27.0785714286
 "(u'deodorant', u'1')",Shupersal-Shelly_Sapir,0,18.100000000000001,18.470714285700002
 "(u'deodorant', u'1')",Shupersal-Shelly_Ziv,0,14.550000000000001,27.158750000000001
-"(u'deodorant', u'1')",Shuk_Haifa,0,17.544680851100001,20.674255319099998
+"(u'deodorant', u'1')",Shuk_Haifa,0,17.6622222222,20.9308888889
 "(u'bleach', u'1')",Shupersal-Shelly_Nativ-Hen,1,13.119999999999999,2.6419999999999999
 "(u'bleach', u'1')",Shupersal-Express_Marganit,0,8.9000000000000004,2.23
 "(u'bleach', u'1')",Shupersal-Shelly_Keler,1,12.380000000000001,2.798
-"(u'bleach', u'1')",Shupersal-Deal-Extra_Tel-Hanan,2,23.100000000000001,11.550000000000001
 "(u'bleach', u'1')",Yesh_Hanita,1,13.833333333300001,1.84666666667
+"(u'bleach', u'1')",Shupersal-Deal-Extra_Tel-Hanan,2,23.100000000000001,11.550000000000001
 "(u'bleach', u'1')",Shupersal-Deal_Grand-mall,1,13.166666666699999,2.2433333333299998
 "(u'bleach', u'1')",Shupersal-Shelly_Vardia,1,12.275,2.6974999999999998
 "(u'bleach', u'1')",Shupersal-Shelly_Denia,1,12.800000000000001,2.7033333333299998
@@ -1200,8 +1203,8 @@
 "(u'carrot', u'2')",Shupersal-Shelly_Nativ-Hen,1,4.9000000000000004,4.9000000000000004
 "(u'carrot', u'2')",Shupersal-Express_Marganit,1,4.9000000000000004,4.9000000000000004
 "(u'carrot', u'2')",Shupersal-Shelly_Keler,1,4.9000000000000004,4.9000000000000004
-"(u'carrot', u'2')",Shupersal-Deal-Extra_Tel-Hanan,2,7.9000000000000004,7.9000000000000004
 "(u'carrot', u'2')",Yesh_Hanita,0,3.5,3.5
+"(u'carrot', u'2')",Shupersal-Deal-Extra_Tel-Hanan,2,7.9000000000000004,7.9000000000000004
 "(u'carrot', u'2')",Shupersal-Deal_Grand-mall,2,7.9000000000000004,7.9000000000000004
 "(u'carrot', u'2')",Shupersal-Shelly_Denia,1,4.9000000000000004,4.9000000000000004
 "(u'carrot', u'2')",Shupersal-Shelly_Vardia,1,4.9000000000000004,4.9000000000000004
@@ -1219,8 +1222,8 @@
 "(u'carrot', u'2')",Shuk_Haifa,2,6.9000000000000004,6.9000000000000004
 "(u'fats remover', u'0')",Shupersal-Shelly_Nativ-Hen,0,10.0,1.3300000000000001
 "(u'fats remover', u'0')",Shupersal-Shelly_Keler,0,10.0,1.3300000000000001
-"(u'fats remover', u'0')",Shupersal-Deal-Extra_Tel-Hanan,0,10.0,1.5533333333299999
 "(u'fats remover', u'0')",Yesh_Hanita,2,15.9,2.1200000000000001
+"(u'fats remover', u'0')",Shupersal-Deal-Extra_Tel-Hanan,0,10.0,1.5533333333299999
 "(u'fats remover', u'0')",Shupersal-Deal_Grand-mall,0,10.0,1.3300000000000001
 "(u'fats remover', u'0')",Shupersal-Shelly_Vardia,0,10.0,1.3300000000000001
 "(u'fats remover', u'0')",Shupersal-Shelly_Denia,0,10.0,1.3300000000000001
@@ -1237,13 +1240,13 @@
 "(u'fats remover', u'0')",Shuk_Haifa,1,12.9333333333,1.7233333333300001
 "(u'stain remover', u'1')",Shupersal-Shelly_Nativ-Hen,1,27.899999999999999,9.3000000000000007
 "(u'stain remover', u'1')",Shupersal-Shelly_Keler,2,28.75,9.5824999999999996
-"(u'stain remover', u'1')",Shupersal-Deal-Extra_Tel-Hanan,0,23.457142857099999,6.7471428571400001
 "(u'stain remover', u'1')",Yesh_Hanita,1,28.233333333299999,8.4966666666700004
+"(u'stain remover', u'1')",Shupersal-Deal-Extra_Tel-Hanan,0,25.539999999999999,7.3460000000000001
 "(u'stain remover', u'1')",Shupersal-Deal_Grand-mall,0,25.98,7.992
 "(u'stain remover', u'1')",Shupersal-Shelly_Vardia,1,27.899999999999999,9.3000000000000007
 "(u'stain remover', u'1')",Shupersal-Shelly_Denia,2,30.0,10.0
 "(u'stain remover', u'1')",Shupersal-Deal_Eliezer,0,26.457142857099999,7.9542857142900001
-"(u'stain remover', u'1')",Shupersal-Deal_Admirality,1,27.083333333300001,8.0183333333300002
+"(u'stain remover', u'1')",Shupersal-Deal_Admirality,0,27.083333333300001,8.0183333333300002
 "(u'stain remover', u'1')",Shupersal-Shelly_Stela,1,26.933333333299998,8.9766666666700008
 "(u'stain remover', u'1')",Shupersal-Express_Raul,1,27.899999999999999,9.3000000000000007
 "(u'stain remover', u'1')",Yesh_France,2,29.399999999999999,8.4299999999999997
@@ -1256,8 +1259,8 @@
 "(u'bleach', u'2')",Shupersal-Shelly_Nativ-Hen,0,10.199999999999999,20.399999999999999
 "(u'bleach', u'2')",Shupersal-Express_Marganit,1,10.9,2.73
 "(u'bleach', u'2')",Shupersal-Shelly_Keler,0,10.199999999999999,20.399999999999999
-"(u'bleach', u'2')",Shupersal-Deal-Extra_Tel-Hanan,0,9.125,18.795000000000002
 "(u'bleach', u'2')",Yesh_Hanita,0,8.9000000000000004,17.800000000000001
+"(u'bleach', u'2')",Shupersal-Deal-Extra_Tel-Hanan,0,9.125,18.795000000000002
 "(u'bleach', u'2')",Shupersal-Deal_Grand-mall,0,9.3499999999999996,19.789999999999999
 "(u'bleach', u'2')",Shupersal-Shelly_Vardia,0,10.199999999999999,20.399999999999999
 "(u'bleach', u'2')",Shupersal-Shelly_Denia,0,10.199999999999999,20.399999999999999
@@ -1275,8 +1278,8 @@
 "(u'apple', u'1')",Shupersal-Shelly_Nativ-Hen,1,12.9,12.9
 "(u'apple', u'1')",Shupersal-Express_Marganit,2,13.9,13.9
 "(u'apple', u'1')",Shupersal-Shelly_Keler,1,12.9,12.9
-"(u'apple', u'1')",Shupersal-Deal-Extra_Tel-Hanan,1,12.65,12.65
 "(u'apple', u'1')",Yesh_Hanita,0,8.9000000000000004,8.9000000000000004
+"(u'apple', u'1')",Shupersal-Deal-Extra_Tel-Hanan,1,12.65,12.65
 "(u'apple', u'1')",Shupersal-Deal_Grand-mall,1,12.65,12.65
 "(u'apple', u'1')",Shupersal-Shelly_Denia,1,12.9,12.9
 "(u'apple', u'1')",Shupersal-Shelly_Vardia,1,12.9,12.9
@@ -1295,8 +1298,8 @@
 "(u'cabbage', u'0')",Shupersal-Shelly_Nativ-Hen,2,4.5,4.5
 "(u'cabbage', u'0')",Shupersal-Express_Marganit,2,5.9000000000000004,5.9000000000000004
 "(u'cabbage', u'0')",Shupersal-Shelly_Keler,2,4.5,4.5
-"(u'cabbage', u'0')",Shupersal-Deal-Extra_Tel-Hanan,1,3.5,3.5
 "(u'cabbage', u'0')",Yesh_Hanita,1,2.8999999999999999,2.8999999999999999
+"(u'cabbage', u'0')",Shupersal-Deal-Extra_Tel-Hanan,1,3.5,3.5
 "(u'cabbage', u'0')",Shupersal-Deal_Grand-mall,1,3.5,3.5
 "(u'cabbage', u'0')",Shupersal-Shelly_Vardia,2,4.5,4.5
 "(u'cabbage', u'0')",Shupersal-Shelly_Denia,2,4.5,4.5
@@ -1314,8 +1317,8 @@
 "(u'toilet paper', u'0')",Shupersal-Shelly_Nativ-Hen,0,27.925000000000001,4.2824999999999998
 "(u'toilet paper', u'0')",Shupersal-Express_Marganit,2,41.899999999999999,4.8700000000000001
 "(u'toilet paper', u'0')",Shupersal-Shelly_Keler,0,27.719999999999999,4.3399999999999999
-"(u'toilet paper', u'0')",Shupersal-Deal-Extra_Tel-Hanan,0,30.32,5.7889999999999997
 "(u'toilet paper', u'0')",Yesh_Hanita,1,36.233333333300003,5.3083333333300002
+"(u'toilet paper', u'0')",Shupersal-Deal-Extra_Tel-Hanan,0,30.32,5.7889999999999997
 "(u'toilet paper', u'0')",Shupersal-Deal_Grand-mall,1,34.109999999999999,5.4950000000000001
 "(u'toilet paper', u'0')",Shupersal-Shelly_Denia,0,28.425000000000001,4.4850000000000003
 "(u'toilet paper', u'0')",Shupersal-Shelly_Vardia,0,28.425000000000001,4.4850000000000003
@@ -1327,14 +1330,14 @@
 "(u'toilet paper', u'0')",Yesh_France,1,33.649999999999999,4.7824999999999998
 "(u'toilet paper', u'0')",Shupersal-Shelly_Carmel,0,27.583333333300001,4.3983333333300001
 "(u'toilet paper', u'0')",Shupersal-Shelly_Horev,0,27.719999999999999,4.3399999999999999
-"(u'toilet paper', u'0')",Shupersal-Deal_Haifa-mall,0,29.5,5.8499999999999996
+"(u'toilet paper', u'0')",Shupersal-Deal_Haifa-mall,0,26.566666666700002,4.4000000000000004
 "(u'toilet paper', u'0')",Shupersal-Shelly_Sapir,0,27.719999999999999,4.3399999999999999
 "(u'toilet paper', u'0')",Shupersal-Shelly_Ziv,0,27.583333333300001,4.3983333333300001
-"(u'toilet paper', u'0')",Shuk_Haifa,2,38.7571428571,0.79000000000000004
+"(u'toilet paper', u'0')",Shuk_Haifa,0,28.146153846200001,0.77153846153799999
 "(u'stain remover', u'0')",Shupersal-Shelly_Nativ-Hen,0,13.9666666667,1.56666666667
 "(u'stain remover', u'0')",Shupersal-Shelly_Keler,0,15.720000000000001,2.04
-"(u'stain remover', u'0')",Shupersal-Deal-Extra_Tel-Hanan,0,12.6,1.73
 "(u'stain remover', u'0')",Yesh_Hanita,1,19.899999999999999,2.1200000000000001
+"(u'stain remover', u'0')",Shupersal-Deal-Extra_Tel-Hanan,0,14.012499999999999,2.6099999999999999
 "(u'stain remover', u'0')",Shupersal-Deal_Grand-mall,0,15.5666666667,1.9933333333300001
 "(u'stain remover', u'0')",Shupersal-Shelly_Vardia,0,15.0,3.1899999999999999
 "(u'stain remover', u'0')",Shupersal-Shelly_Denia,1,17.233333333299999,2.5
@@ -1352,8 +1355,8 @@
 "(u'frozen ', u'1')",Shupersal-Shelly_Nativ-Hen,0,20.274999999999999,2.7437499999999999
 "(u'frozen ', u'1')",Shupersal-Express_Marganit,0,21.699999999999999,2.71
 "(u'frozen ', u'1')",Shupersal-Shelly_Keler,2,26.66,3.5499999999999998
-"(u'frozen ', u'1')",Shupersal-Deal-Extra_Tel-Hanan,1,23.662500000000001,3.2012499999999999
 "(u'frozen ', u'1')",Yesh_Hanita,0,20.0,2.5
+"(u'frozen ', u'1')",Shupersal-Deal-Extra_Tel-Hanan,1,23.662500000000001,3.2012499999999999
 "(u'frozen ', u'1')",Shupersal-Deal_Grand-mall,1,23.662500000000001,3.2012499999999999
 "(u'frozen ', u'1')",Shupersal-Shelly_Denia,2,26.183333333299998,3.4550000000000001
 "(u'frozen ', u'1')",Shupersal-Shelly_Vardia,2,25.82,3.4460000000000002
@@ -1372,8 +1375,8 @@
 "(u'bread', u'0')",Shupersal-Shelly_Nativ-Hen,2,13.5097560976,2.49414634146
 "(u'bread', u'0')",Shupersal-Express_Marganit,2,13.720000000000001,2.4199999999999999
 "(u'bread', u'0')",Shupersal-Shelly_Keler,2,13.9283018868,2.62150943396
-"(u'bread', u'0')",Shupersal-Deal-Extra_Tel-Hanan,0,6.9565217391300003,2.4408695652199999
 "(u'bread', u'0')",Yesh_Hanita,1,9.4900000000000002,1.673
+"(u'bread', u'0')",Shupersal-Deal-Extra_Tel-Hanan,0,6.9565217391300003,2.4408695652199999
 "(u'bread', u'0')",Shupersal-Deal_Grand-mall,2,13.9895522388,2.8865671641800001
 "(u'bread', u'0')",Shupersal-Shelly_Denia,2,13.5282051282,2.46230769231
 "(u'bread', u'0')",Shupersal-Shelly_Vardia,2,13.5864864865,2.42405405405
@@ -1384,20 +1387,20 @@
 "(u'bread', u'0')",Shupersal-Express_Raul,2,15.1266666667,2.516
 "(u'bread', u'0')",Yesh_France,0,5.0999999999999996,0.76249999999999996
 "(u'bread', u'0')",Shupersal-Shelly_Carmel,2,14.0203703704,2.64092592593
-"(u'bread', u'0')",Shupersal-Shelly_Horev,2,15.3472727273,2.9580000000000002
+"(u'bread', u'0')",Shupersal-Shelly_Horev,2,14.819672131100001,2.8693442622999998
 "(u'bread', u'0')",Shupersal-Deal_Haifa-mall,2,12.516666666700001,2.3309523809499999
 "(u'bread', u'0')",Shupersal-Shelly_Sapir,0,6.8868749999999999,2.743125
 "(u'bread', u'0')",Shupersal-Shelly_Ziv,2,13.6048780488,2.4504878048799998
 "(u'bread', u'0')",Shuk_Haifa,0,4.3769230769199998,2.0676923076899998
 "(u'toilet paper', u'1')",Shupersal-Shelly_Nativ-Hen,1,39.066666666700002,7.2866666666700004
-"(u'toilet paper', u'1')",Shupersal-Express_Marganit,0,29.899999999999999,5.0899999999999999
+"(u'toilet paper', u'1')",Shupersal-Express_Marganit,1,29.899999999999999,5.0899999999999999
 "(u'toilet paper', u'1')",Shupersal-Shelly_Keler,1,38.7571428571,8.1557142857099993
-"(u'toilet paper', u'1')",Shupersal-Deal-Extra_Tel-Hanan,1,42.149999999999999,6.0925000000000002
 "(u'toilet paper', u'1')",Yesh_Hanita,0,16.899999999999999,16.899999999999999
+"(u'toilet paper', u'1')",Shupersal-Deal-Extra_Tel-Hanan,1,42.149999999999999,6.0925000000000002
 "(u'toilet paper', u'1')",Shupersal-Deal_Grand-mall,2,49.399999999999999,7.3049999999999997
 "(u'toilet paper', u'1')",Shupersal-Shelly_Denia,1,38.7571428571,8.1557142857099993
 "(u'toilet paper', u'1')",Shupersal-Shelly_Vardia,1,39.233333333300003,8.8499999999999996
-"(u'toilet paper', u'1')",Shupersal-Express_Rambam,0,29.899999999999999,5.0899999999999999
+"(u'toilet paper', u'1')",Shupersal-Express_Rambam,1,29.899999999999999,5.0899999999999999
 "(u'toilet paper', u'1')",Shupersal-Deal_Eliezer,2,48.566666666700002,7.7800000000000002
 "(u'toilet paper', u'1')",Shupersal-Deal_Admirality,2,48.566666666700002,7.7800000000000002
 "(u'toilet paper', u'1')",Shupersal-Shelly_Stela,1,39.066666666700002,7.2866666666700004
@@ -1405,15 +1408,15 @@
 "(u'toilet paper', u'1')",Yesh_France,2,46.899999999999999,8.7300000000000004
 "(u'toilet paper', u'1')",Shupersal-Shelly_Carmel,1,40.149999999999999,8.2974999999999994
 "(u'toilet paper', u'1')",Shupersal-Shelly_Horev,1,38.7571428571,8.1557142857099993
-"(u'toilet paper', u'1')",Shupersal-Deal_Haifa-mall,1,41.012500000000003,5.9349999999999996
+"(u'toilet paper', u'1')",Shupersal-Deal_Haifa-mall,1,39.590000000000003,6.3529999999999998
 "(u'toilet paper', u'1')",Shupersal-Shelly_Sapir,1,39.066666666700002,7.2866666666700004
 "(u'toilet paper', u'1')",Shupersal-Shelly_Ziv,1,38.7571428571,8.1557142857099993
-"(u'toilet paper', u'1')",Shuk_Haifa,0,27.100000000000001,0.82909090909100003
+"(u'toilet paper', u'1')",Shuk_Haifa,1,40.700000000000003,0.92400000000000004
 "(u'frozen', u'1')",Shupersal-Shelly_Nativ-Hen,1,23.800000000000001,3.9414285714299999
 "(u'frozen', u'1')",Shupersal-Express_Marganit,1,26.699999999999999,3.3399999999999999
 "(u'frozen', u'1')",Shupersal-Shelly_Keler,1,23.84,3.714
-"(u'frozen', u'1')",Shupersal-Deal-Extra_Tel-Hanan,2,39.899999999999999,19.949999999999999
 "(u'frozen', u'1')",Yesh_Hanita,0,16.649999999999999,3.1899999999999999
+"(u'frozen', u'1')",Shupersal-Deal-Extra_Tel-Hanan,2,39.899999999999999,19.949999999999999
 "(u'frozen', u'1')",Shupersal-Deal_Grand-mall,2,39.899999999999999,19.949999999999999
 "(u'frozen', u'1')",Shupersal-Shelly_Denia,1,23.542857142900001,4.2828571428600002
 "(u'frozen', u'1')",Shupersal-Shelly_Vardia,1,21.975000000000001,2.9725000000000001
@@ -1432,8 +1435,8 @@
 "(u'cucumber', u'0')",Shupersal-Shelly_Nativ-Hen,2,7.9000000000000004,7.9000000000000004
 "(u'cucumber', u'0')",Shupersal-Express_Marganit,2,7.9000000000000004,7.9000000000000004
 "(u'cucumber', u'0')",Shupersal-Shelly_Keler,2,7.9000000000000004,7.9000000000000004
-"(u'cucumber', u'0')",Shupersal-Deal-Extra_Tel-Hanan,1,6.9000000000000004,6.9000000000000004
 "(u'cucumber', u'0')",Yesh_Hanita,0,5.9000000000000004,5.9000000000000004
+"(u'cucumber', u'0')",Shupersal-Deal-Extra_Tel-Hanan,1,6.9000000000000004,6.9000000000000004
 "(u'cucumber', u'0')",Shupersal-Deal_Grand-mall,1,6.9000000000000004,6.9000000000000004
 "(u'cucumber', u'0')",Shupersal-Shelly_Denia,2,7.9000000000000004,7.9000000000000004
 "(u'cucumber', u'0')",Shupersal-Shelly_Vardia,2,7.9000000000000004,7.9000000000000004
@@ -1452,8 +1455,8 @@
 "(u'white cheese', u'1')",Shupersal-Shelly_Nativ-Hen,1,12.68,5.056
 "(u'white cheese', u'1')",Shupersal-Express_Marganit,0,10.0333333333,3.63666666667
 "(u'white cheese', u'1')",Shupersal-Shelly_Keler,1,13.841176470600001,5.1835294117600004
-"(u'white cheese', u'1')",Shupersal-Deal-Extra_Tel-Hanan,1,17.5,5.0540000000000003
 "(u'white cheese', u'1')",Yesh_Hanita,1,21.425000000000001,3.335
+"(u'white cheese', u'1')",Shupersal-Deal-Extra_Tel-Hanan,1,17.5,5.0540000000000003
 "(u'white cheese', u'1')",Shupersal-Deal_Grand-mall,1,12.789999999999999,5.1879999999999997
 "(u'white cheese', u'1')",Shupersal-Shelly_Denia,1,13.2636363636,5.6009090909100001
 "(u'white cheese', u'1')",Shupersal-Shelly_Vardia,1,12.318181818199999,5.8827272727300004
@@ -1461,7 +1464,7 @@
 "(u'white cheese', u'1')",Shupersal-Deal_Eliezer,1,13.35,4.9518750000000002
 "(u'white cheese', u'1')",Shupersal-Deal_Admirality,1,12.845000000000001,5.1544999999999996
 "(u'white cheese', u'1')",Shupersal-Shelly_Stela,1,11.699999999999999,5.34375
-"(u'white cheese', u'1')",Shupersal-Express_Raul,0,4.5999999999999996,1.8400000000000001
+"(u'white cheese', u'1')",Shupersal-Express_Raul,0,9.1999999999999993,1.8400000000000001
 "(u'white cheese', u'1')",Yesh_France,0,9.0999999999999996,2.948
 "(u'white cheese', u'1')",Shupersal-Shelly_Carmel,1,12.824999999999999,5.42875
 "(u'white cheese', u'1')",Shupersal-Shelly_Horev,1,13.6166666667,5.6144444444400001
@@ -1472,8 +1475,8 @@
 "(u'bread', u'1')",Shupersal-Shelly_Nativ-Hen,0,4.6794117647100002,2.8929411764699999
 "(u'bread', u'1')",Shupersal-Express_Marganit,0,4.8860000000000001,2.9199999999999999
 "(u'bread', u'1')",Shupersal-Shelly_Keler,0,4.4463157894699998,3.0789473684200002
-"(u'bread', u'1')",Shupersal-Deal-Extra_Tel-Hanan,2,15.614814814800001,3.2238888888899999
 "(u'bread', u'1')",Yesh_Hanita,2,15.53125,2.5518749999999999
+"(u'bread', u'1')",Shupersal-Deal-Extra_Tel-Hanan,2,15.614814814800001,3.2238888888899999
 "(u'bread', u'1')",Shupersal-Deal_Grand-mall,0,4.2892857142900001,2.96
 "(u'bread', u'1')",Shupersal-Shelly_Denia,0,4.6340000000000003,3.335
 "(u'bread', u'1')",Shupersal-Shelly_Vardia,0,4.9237500000000001,3.2999999999999998
@@ -1484,7 +1487,7 @@
 "(u'bread', u'1')",Shupersal-Express_Raul,0,5.0,3.9061538461500001
 "(u'bread', u'1')",Yesh_France,1,10.0,1.9059999999999999
 "(u'bread', u'1')",Shupersal-Shelly_Carmel,0,4.6323809523800001,3.3952380952399999
-"(u'bread', u'1')",Shupersal-Shelly_Horev,0,5.7693333333299996,3.0673333333300001
+"(u'bread', u'1')",Shupersal-Shelly_Horev,0,4.71583333333,3.3199999999999998
 "(u'bread', u'1')",Shupersal-Deal_Haifa-mall,0,3.8999999999999999,2.8318181818200001
 "(u'bread', u'1')",Shupersal-Shelly_Sapir,2,15.659183673499999,3.0314285714300002
 "(u'bread', u'1')",Shupersal-Shelly_Ziv,0,4.6276190476199996,3.3904761904799998
@@ -1492,8 +1495,8 @@
 "(u'tomato', u'1')",Shupersal-Shelly_Nativ-Hen,2,10.9,10.9
 "(u'tomato', u'1')",Shupersal-Express_Marganit,2,9.4000000000000004,9.4000000000000004
 "(u'tomato', u'1')",Shupersal-Shelly_Keler,2,10.9,10.9
-"(u'tomato', u'1')",Shupersal-Deal-Extra_Tel-Hanan,2,9.1857142857100005,9.1857142857100005
 "(u'tomato', u'1')",Yesh_Hanita,1,5.9000000000000004,5.9000000000000004
+"(u'tomato', u'1')",Shupersal-Deal-Extra_Tel-Hanan,2,9.1857142857100005,9.1857142857100005
 "(u'tomato', u'1')",Shupersal-Deal_Grand-mall,2,9.2750000000000004,9.2750000000000004
 "(u'tomato', u'1')",Shupersal-Shelly_Denia,2,10.9,10.9
 "(u'tomato', u'1')",Shupersal-Shelly_Vardia,1,6.9000000000000004,6.9000000000000004
@@ -1512,8 +1515,8 @@
 "(u'potato', u'1')",Shupersal-Shelly_Nativ-Hen,1,6.5,6.5
 "(u'potato', u'1')",Shupersal-Express_Marganit,0,5.7000000000000002,5.7000000000000002
 "(u'potato', u'1')",Shupersal-Shelly_Keler,1,6.7000000000000002,6.7000000000000002
-"(u'potato', u'1')",Shupersal-Deal-Extra_Tel-Hanan,2,7.9000000000000004,7.9000000000000004
 "(u'potato', u'1')",Yesh_Hanita,0,4.9000000000000004,4.9000000000000004
+"(u'potato', u'1')",Shupersal-Deal-Extra_Tel-Hanan,2,7.9000000000000004,7.9000000000000004
 "(u'potato', u'1')",Shupersal-Deal_Grand-mall,2,7.9000000000000004,7.9000000000000004
 "(u'potato', u'1')",Shupersal-Shelly_Denia,1,6.5,6.5
 "(u'potato', u'1')",Shupersal-Shelly_Vardia,1,6.5,6.5
@@ -1531,8 +1534,8 @@
 "(u'potato', u'1')",Shuk_Haifa,0,5.2333333333300001,5.2333333333300001
 "(u'stain remover', u'2')",Shupersal-Shelly_Nativ-Hen,0,14.9,11.92
 "(u'stain remover', u'2')",Shupersal-Shelly_Keler,0,14.9,11.92
-"(u'stain remover', u'2')",Shupersal-Deal-Extra_Tel-Hanan,1,23.600000000000001,19.1033333333
 "(u'stain remover', u'2')",Yesh_Hanita,2,32.899999999999999,24.370000000000001
+"(u'stain remover', u'2')",Shupersal-Deal-Extra_Tel-Hanan,1,23.600000000000001,19.1033333333
 "(u'stain remover', u'2')",Shupersal-Deal_Grand-mall,2,29.899999999999999,22.149999999999999
 "(u'stain remover', u'2')",Shupersal-Shelly_Vardia,0,14.9,11.92
 "(u'stain remover', u'2')",Shupersal-Shelly_Denia,0,14.9,11.92
@@ -1550,8 +1553,8 @@
 "(u'tampons', u'0')",Shupersal-Shelly_Nativ-Hen,2,22.899999999999999,22.899999999999999
 "(u'tampons', u'0')",Shupersal-Express_Marganit,2,22.899999999999999,22.899999999999999
 "(u'tampons', u'0')",Shupersal-Shelly_Keler,2,23.057142857100001,23.057142857100001
+"(u'tampons', u'0')",Yesh_Hanita,0,17.899999999999999,17.899999999999999
 "(u'tampons', u'0')",Shupersal-Deal-Extra_Tel-Hanan,2,22.833333333300001,22.833333333300001
-"(u'tampons', u'0')",Yesh_Hanita,1,17.899999999999999,17.899999999999999
 "(u'tampons', u'0')",Shupersal-Deal_Grand-mall,2,22.5,22.5
 "(u'tampons', u'0')",Shupersal-Shelly_Denia,2,22.899999999999999,22.899999999999999
 "(u'tampons', u'0')",Shupersal-Shelly_Vardia,2,22.899999999999999,22.899999999999999
@@ -1560,18 +1563,18 @@
 "(u'tampons', u'0')",Shupersal-Deal_Admirality,2,22.4555555556,22.4555555556
 "(u'tampons', u'0')",Shupersal-Shelly_Stela,2,22.842857142900002,22.842857142900002
 "(u'tampons', u'0')",Shupersal-Express_Raul,2,22.699999999999999,22.699999999999999
-"(u'tampons', u'0')",Yesh_France,1,17.899999999999999,17.899999999999999
+"(u'tampons', u'0')",Yesh_France,0,17.899999999999999,17.899999999999999
 "(u'tampons', u'0')",Shupersal-Shelly_Carmel,2,22.9777777778,22.9777777778
 "(u'tampons', u'0')",Shupersal-Shelly_Horev,2,22.987500000000001,22.987500000000001
 "(u'tampons', u'0')",Shupersal-Deal_Haifa-mall,2,22.524999999999999,22.524999999999999
 "(u'tampons', u'0')",Shupersal-Shelly_Sapir,2,22.899999999999999,22.899999999999999
 "(u'tampons', u'0')",Shupersal-Shelly_Ziv,2,23.012499999999999,23.012499999999999
-"(u'tampons', u'0')",Shuk_Haifa,0,17.899999999999999,0.76333333333300002
+"(u'tampons', u'0')",Shuk_Haifa,1,17.899999999999999,0.76333333333300002
 "(u'fabric softener', u'2')",Shupersal-Shelly_Nativ-Hen,1,15.725,15.725
 "(u'fabric softener', u'2')",Shupersal-Express_Marganit,2,19.899999999999999,2.0699999999999998
 "(u'fabric softener', u'2')",Shupersal-Shelly_Keler,1,15.725,15.725
-"(u'fabric softener', u'2')",Shupersal-Deal-Extra_Tel-Hanan,1,16.037500000000001,16.037500000000001
 "(u'fabric softener', u'2')",Yesh_Hanita,1,15.9,15.9
+"(u'fabric softener', u'2')",Shupersal-Deal-Extra_Tel-Hanan,1,16.037500000000001,16.037500000000001
 "(u'fabric softener', u'2')",Shupersal-Deal_Grand-mall,1,17.350000000000001,17.350000000000001
 "(u'fabric softener', u'2')",Shupersal-Shelly_Denia,1,15.58,15.58
 "(u'fabric softener', u'2')",Shupersal-Shelly_Vardia,1,15.0,15.0
@@ -1590,8 +1593,8 @@
 "(u'bread', u'2')",Shupersal-Shelly_Nativ-Hen,1,13.85,13.112500000000001
 "(u'bread', u'2')",Shupersal-Express_Marganit,1,12.65,12.65
 "(u'bread', u'2')",Shupersal-Shelly_Keler,1,13.460000000000001,12.869999999999999
-"(u'bread', u'2')",Shupersal-Deal-Extra_Tel-Hanan,0,12.237500000000001,12.065625000000001
 "(u'bread', u'2')",Yesh_Hanita,0,12.074999999999999,11.3825
+"(u'bread', u'2')",Shupersal-Deal-Extra_Tel-Hanan,1,12.237500000000001,12.065625000000001
 "(u'bread', u'2')",Shupersal-Deal_Grand-mall,1,13.166666666699999,12.8611111111
 "(u'bread', u'2')",Shupersal-Shelly_Denia,1,12.85,12.112500000000001
 "(u'bread', u'2')",Shupersal-Shelly_Vardia,1,13.85,13.112500000000001
@@ -1610,8 +1613,8 @@
 "(u'hamburger', u'1')",Shupersal-Shelly_Nativ-Hen,0,23.475000000000001,5.8724999999999996
 "(u'hamburger', u'1')",Shupersal-Express_Marganit,0,31.449999999999999,5.5300000000000002
 "(u'hamburger', u'1')",Shupersal-Shelly_Keler,0,22.899999999999999,5.7300000000000004
-"(u'hamburger', u'1')",Shupersal-Deal-Extra_Tel-Hanan,2,49.899999999999999,5.7750000000000004
 "(u'hamburger', u'1')",Yesh_Hanita,2,35.899999999999999,4.79
+"(u'hamburger', u'1')",Shupersal-Deal-Extra_Tel-Hanan,2,49.899999999999999,5.7750000000000004
 "(u'hamburger', u'1')",Shupersal-Deal_Grand-mall,0,22.258333333300001,5.665
 "(u'hamburger', u'1')",Shupersal-Shelly_Vardia,2,39.950000000000003,5.7800000000000002
 "(u'hamburger', u'1')",Shupersal-Shelly_Denia,0,22.899999999999999,5.7300000000000004
@@ -1622,15 +1625,15 @@
 "(u'hamburger', u'1')",Yesh_France,0,19.300000000000001,3.8599999999999999
 "(u'hamburger', u'1')",Shupersal-Shelly_Carmel,2,36.299999999999997,5.6849999999999996
 "(u'hamburger', u'1')",Shupersal-Shelly_Horev,2,36.299999999999997,5.6849999999999996
-"(u'hamburger', u'1')",Shupersal-Deal_Haifa-mall,2,37.75,5.4900000000000002
+"(u'hamburger', u'1')",Shupersal-Deal_Haifa-mall,2,54.899999999999999,5.4900000000000002
 "(u'hamburger', u'1')",Shupersal-Shelly_Sapir,2,37.5,5.8666666666699996
 "(u'hamburger', u'1')",Shupersal-Shelly_Ziv,0,23.300000000000001,5.7320000000000002
 "(u'hamburger', u'1')",Shuk_Haifa,1,37.399999999999999,41.140000000000001
 "(u'tomato', u'0')",Shupersal-Shelly_Nativ-Hen,0,6.9000000000000004,6.9000000000000004
 "(u'tomato', u'0')",Shupersal-Express_Marganit,0,7.9000000000000004,7.9000000000000004
 "(u'tomato', u'0')",Shupersal-Shelly_Keler,0,6.9000000000000004,6.9000000000000004
-"(u'tomato', u'0')",Shupersal-Deal-Extra_Tel-Hanan,1,12.9,2.5800000000000001
 "(u'tomato', u'0')",Yesh_Hanita,0,5.9000000000000004,5.9000000000000004
+"(u'tomato', u'0')",Shupersal-Deal-Extra_Tel-Hanan,1,12.9,2.5800000000000001
 "(u'tomato', u'0')",Shupersal-Deal_Grand-mall,1,12.9,2.5800000000000001
 "(u'tomato', u'0')",Shupersal-Shelly_Denia,0,6.9000000000000004,6.9000000000000004
 "(u'tomato', u'0')",Shupersal-Shelly_Vardia,0,6.9000000000000004,6.9000000000000004
@@ -1649,8 +1652,8 @@
 "(u'tampons', u'1')",Shupersal-Shelly_Nativ-Hen,2,31.100000000000001,31.100000000000001
 "(u'tampons', u'1')",Shupersal-Express_Marganit,1,22.899999999999999,22.899999999999999
 "(u'tampons', u'1')",Shupersal-Shelly_Keler,2,31.100000000000001,31.100000000000001
-"(u'tampons', u'1')",Shupersal-Deal-Extra_Tel-Hanan,2,28.0333333333,28.0333333333
 "(u'tampons', u'1')",Yesh_Hanita,1,23.899999999999999,23.899999999999999
+"(u'tampons', u'1')",Shupersal-Deal-Extra_Tel-Hanan,2,28.0333333333,28.0333333333
 "(u'tampons', u'1')",Shupersal-Deal_Grand-mall,2,27.84,27.84
 "(u'tampons', u'1')",Shupersal-Shelly_Denia,1,22.899999999999999,22.899999999999999
 "(u'tampons', u'1')",Shupersal-Shelly_Vardia,2,31.100000000000001,31.100000000000001
@@ -1669,8 +1672,8 @@
 "(u'cucumber', u'2')",Shupersal-Shelly_Nativ-Hen,1,9.9000000000000004,9.9000000000000004
 "(u'cucumber', u'2')",Shupersal-Express_Marganit,0,7.9000000000000004,7.9000000000000004
 "(u'cucumber', u'2')",Shupersal-Shelly_Keler,0,7.9000000000000004,7.9000000000000004
-"(u'cucumber', u'2')",Shupersal-Deal-Extra_Tel-Hanan,1,9.9000000000000004,9.9000000000000004
 "(u'cucumber', u'2')",Yesh_Hanita,1,9.9000000000000004,9.9000000000000004
+"(u'cucumber', u'2')",Shupersal-Deal-Extra_Tel-Hanan,1,9.9000000000000004,9.9000000000000004
 "(u'cucumber', u'2')",Shupersal-Deal_Grand-mall,2,13.9,13.9
 "(u'cucumber', u'2')",Shupersal-Shelly_Denia,1,9.9000000000000004,9.9000000000000004
 "(u'cucumber', u'2')",Shupersal-Shelly_Vardia,0,7.9000000000000004,7.9000000000000004
@@ -1689,8 +1692,8 @@
 "(u'fabric softener', u'1')",Shupersal-Shelly_Nativ-Hen,1,20.192307692300002,4.6053846153800002
 "(u'fabric softener', u'1')",Shupersal-Express_Marganit,0,14.9,1.6599999999999999
 "(u'fabric softener', u'1')",Shupersal-Shelly_Keler,1,19.953333333300002,4.41133333333
-"(u'fabric softener', u'1')",Shupersal-Deal-Extra_Tel-Hanan,1,20.969999999999999,5.0149999999999997
 "(u'fabric softener', u'1')",Yesh_Hanita,1,20.68,4.91933333333
+"(u'fabric softener', u'1')",Shupersal-Deal-Extra_Tel-Hanan,1,20.969999999999999,5.0149999999999997
 "(u'fabric softener', u'1')",Shupersal-Deal_Grand-mall,1,20.252941176499998,4.58117647059
 "(u'fabric softener', u'1')",Shupersal-Shelly_Denia,1,20.2166666667,4.8166666666699998
 "(u'fabric softener', u'1')",Shupersal-Shelly_Vardia,1,20.274999999999999,3.9824999999999999
@@ -1709,8 +1712,8 @@
 "(u'oil', u'0')",Shupersal-Shelly_Nativ-Hen,0,10.0,6.6699999999999999
 "(u'oil', u'0')",Shupersal-Express_Marganit,2,15.9,15.9
 "(u'oil', u'0')",Shupersal-Shelly_Keler,0,10.0,5.0
-"(u'oil', u'0')",Shupersal-Deal-Extra_Tel-Hanan,1,14.233333333299999,8.2733333333299992
 "(u'oil', u'0')",Yesh_Hanita,1,17.199999999999999,8.5999999999999996
+"(u'oil', u'0')",Shupersal-Deal-Extra_Tel-Hanan,1,14.233333333299999,8.2733333333299992
 "(u'oil', u'0')",Shupersal-Deal_Grand-mall,0,10.0,6.6699999999999999
 "(u'oil', u'0')",Shupersal-Shelly_Denia,0,10.0,5.835
 "(u'oil', u'0')",Shupersal-Shelly_Vardia,1,13.9,8.4049999999999994
@@ -1729,8 +1732,8 @@
 "(u'peanut snack', u'2')",Shupersal-Shelly_Nativ-Hen,2,19.925000000000001,9.0225000000000009
 "(u'peanut snack', u'2')",Shupersal-Express_Marganit,0,4.2000000000000002,9.4199999999999999
 "(u'peanut snack', u'2')",Shupersal-Shelly_Keler,2,20.4666666667,9.4866666666700006
-"(u'peanut snack', u'2')",Shupersal-Deal-Extra_Tel-Hanan,2,19.199999999999999,10.612500000000001
 "(u'peanut snack', u'2')",Yesh_Hanita,2,24.199999999999999,8.0700000000000003
+"(u'peanut snack', u'2')",Shupersal-Deal-Extra_Tel-Hanan,2,19.199999999999999,10.612500000000001
 "(u'peanut snack', u'2')",Shupersal-Deal_Grand-mall,1,6.5,21.670000000000002
 "(u'peanut snack', u'2')",Shupersal-Shelly_Denia,2,25.899999999999999,8.6300000000000008
 "(u'peanut snack', u'2')",Shupersal-Shelly_Vardia,2,16.175000000000001,8.8399999999999999
@@ -1749,8 +1752,8 @@
 "(u'bag', u'2')",Shupersal-Shelly_Nativ-Hen,1,14.5,14.5
 "(u'bag', u'2')",Shupersal-Express_Marganit,0,11.5,11.5
 "(u'bag', u'2')",Shupersal-Shelly_Keler,1,14.675000000000001,14.675000000000001
-"(u'bag', u'2')",Shupersal-Deal-Extra_Tel-Hanan,2,22.699999999999999,22.699999999999999
 "(u'bag', u'2')",Yesh_Hanita,0,12.9,12.9
+"(u'bag', u'2')",Shupersal-Deal-Extra_Tel-Hanan,2,22.699999999999999,22.699999999999999
 "(u'bag', u'2')",Shupersal-Deal_Grand-mall,2,17.899999999999999,17.899999999999999
 "(u'bag', u'2')",Shupersal-Shelly_Denia,1,14.5,14.5
 "(u'bag', u'2')",Shupersal-Shelly_Vardia,1,14.5,14.5
@@ -1769,8 +1772,8 @@
 "(u'banana', u'2')",Shupersal-Shelly_Nativ-Hen,1,10.9,10.9
 "(u'banana', u'2')",Shupersal-Express_Marganit,1,10.9,10.9
 "(u'banana', u'2')",Shupersal-Shelly_Keler,1,10.9,10.9
-"(u'banana', u'2')",Shupersal-Deal-Extra_Tel-Hanan,2,14.9,14.9
 "(u'banana', u'2')",Yesh_Hanita,0,7.9000000000000004,7.9000000000000004
+"(u'banana', u'2')",Shupersal-Deal-Extra_Tel-Hanan,2,14.9,14.9
 "(u'banana', u'2')",Shupersal-Deal_Grand-mall,2,14.9,14.9
 "(u'banana', u'2')",Shupersal-Shelly_Denia,1,10.9,10.9
 "(u'banana', u'2')",Shupersal-Shelly_Vardia,1,10.9,10.9
@@ -1789,8 +1792,8 @@
 "(u'hamburger', u'0')",Shupersal-Shelly_Nativ-Hen,1,40.0,5.3300000000000001
 "(u'hamburger', u'0')",Shupersal-Express_Marganit,1,40.0,5.3300000000000001
 "(u'hamburger', u'0')",Shupersal-Shelly_Keler,1,40.0,5.3300000000000001
-"(u'hamburger', u'0')",Shupersal-Deal-Extra_Tel-Hanan,0,22.648,5.3136000000000001
 "(u'hamburger', u'0')",Yesh_Hanita,0,18.7166666667,4.1433333333300002
+"(u'hamburger', u'0')",Shupersal-Deal-Extra_Tel-Hanan,0,22.648,5.3136000000000001
 "(u'hamburger', u'0')",Shupersal-Deal_Grand-mall,1,41.325000000000003,5.4199999999999999
 "(u'hamburger', u'0')",Shupersal-Shelly_Vardia,2,48.399999999999999,5.7599999999999998
 "(u'hamburger', u'0')",Shupersal-Shelly_Denia,2,54.899999999999999,5.4900000000000002
@@ -1808,8 +1811,8 @@
 "(u'tampons', u'2')",Shupersal-Shelly_Nativ-Hen,2,38.200000000000003,38.200000000000003
 "(u'tampons', u'2')",Shupersal-Express_Marganit,0,22.899999999999999,22.899999999999999
 "(u'tampons', u'2')",Shupersal-Shelly_Keler,2,35.899999999999999,35.899999999999999
-"(u'tampons', u'2')",Shupersal-Deal-Extra_Tel-Hanan,1,32.340000000000003,32.340000000000003
 "(u'tampons', u'2')",Yesh_Hanita,1,28.600000000000001,28.600000000000001
+"(u'tampons', u'2')",Shupersal-Deal-Extra_Tel-Hanan,1,32.340000000000003,32.340000000000003
 "(u'tampons', u'2')",Shupersal-Deal_Grand-mall,1,32.549999999999997,32.549999999999997
 "(u'tampons', u'2')",Shupersal-Shelly_Denia,0,22.899999999999999,22.899999999999999
 "(u'tampons', u'2')",Shupersal-Shelly_Vardia,2,37.049999999999997,37.049999999999997
@@ -1828,8 +1831,8 @@
 "(u'Dish soap', u'0')",Shupersal-Shelly_Nativ-Hen,0,8.2142857142899999,1.15428571429
 "(u'Dish soap', u'0')",Shupersal-Express_Marganit,2,11.300000000000001,1.51
 "(u'Dish soap', u'0')",Shupersal-Shelly_Keler,0,8.4333333333299993,1.1699999999999999
-"(u'Dish soap', u'0')",Shupersal-Deal-Extra_Tel-Hanan,1,10.074999999999999,1.420625
 "(u'Dish soap', u'0')",Yesh_Hanita,1,9.9000000000000004,1.6779999999999999
+"(u'Dish soap', u'0')",Shupersal-Deal-Extra_Tel-Hanan,1,10.074999999999999,1.420625
 "(u'Dish soap', u'0')",Shupersal-Deal_Grand-mall,1,9.5999999999999996,1.3678571428599999
 "(u'Dish soap', u'0')",Shupersal-Shelly_Denia,0,7.9333333333300002,1.12666666667
 "(u'Dish soap', u'0')",Shupersal-Shelly_Vardia,0,8.2142857142899999,1.15428571429
@@ -1848,8 +1851,8 @@
 "(u'fabric softener', u'0')",Shupersal-Shelly_Nativ-Hen,0,11.6333333333,1.40333333333
 "(u'fabric softener', u'0')",Shupersal-Express_Marganit,1,14.9,1.6599999999999999
 "(u'fabric softener', u'0')",Shupersal-Shelly_Keler,0,11.225,1.3300000000000001
-"(u'fabric softener', u'0')",Shupersal-Deal-Extra_Tel-Hanan,1,13.8166666667,2.4016666666700002
 "(u'fabric softener', u'0')",Yesh_Hanita,1,15.1222222222,2.98555555556
+"(u'fabric softener', u'0')",Shupersal-Deal-Extra_Tel-Hanan,1,13.8166666667,2.4016666666700002
 "(u'fabric softener', u'0')",Shupersal-Deal_Grand-mall,1,13.292857142900001,2.4721428571400001
 "(u'fabric softener', u'0')",Shupersal-Shelly_Denia,0,10.0,1.1100000000000001
 "(u'fabric softener', u'0')",Shupersal-Shelly_Vardia,0,10.0,1.1100000000000001
@@ -1868,8 +1871,8 @@
 "(u'onion', u'2')",Shupersal-Shelly_Nativ-Hen,2,15.0,15.0
 "(u'onion', u'2')",Shupersal-Express_Marganit,1,6.9000000000000004,6.9000000000000004
 "(u'onion', u'2')",Shupersal-Shelly_Keler,2,15.0,15.0
-"(u'onion', u'2')",Shupersal-Deal-Extra_Tel-Hanan,2,13.449999999999999,13.449999999999999
 "(u'onion', u'2')",Yesh_Hanita,0,4.9000000000000004,4.9000000000000004
+"(u'onion', u'2')",Shupersal-Deal-Extra_Tel-Hanan,2,13.449999999999999,13.449999999999999
 "(u'onion', u'2')",Shupersal-Deal_Grand-mall,2,13.449999999999999,13.449999999999999
 "(u'onion', u'2')",Shupersal-Shelly_Denia,2,15.0,15.0
 "(u'onion', u'2')",Shupersal-Shelly_Vardia,1,6.9000000000000004,6.9000000000000004
@@ -1888,11 +1891,11 @@
 "(u'coffee', u'1')",Shupersal-Shelly_Nativ-Hen,2,31.2571428571,14.5742857143
 "(u'coffee', u'1')",Shupersal-Express_Marganit,2,29.933333333299998,14.9666666667
 "(u'coffee', u'1')",Shupersal-Shelly_Keler,2,31.640000000000001,15.146000000000001
-"(u'coffee', u'1')",Shupersal-Deal-Extra_Tel-Hanan,2,31.414999999999999,13.586
 "(u'coffee', u'1')",Yesh_Hanita,2,29.338461538499999,14.386153846199999
+"(u'coffee', u'1')",Shupersal-Deal-Extra_Tel-Hanan,2,31.414999999999999,13.586
 "(u'coffee', u'1')",Shupersal-Deal_Grand-mall,2,29.6470588235,13.2011764706
 "(u'coffee', u'1')",Shupersal-Shelly_Denia,2,32.25,15.3891666667
-"(u'coffee', u'1')",Shupersal-Shelly_Vardia,2,28.163636363599998,15.647272727300001
+"(u'coffee', u'1')",Shupersal-Shelly_Vardia,2,30.0,15.586666666699999
 "(u'coffee', u'1')",Shupersal-Express_Rambam,2,29.345454545500001,14.4018181818
 "(u'coffee', u'1')",Shupersal-Deal_Eliezer,2,30.952941176500001,13.854117647100001
 "(u'coffee', u'1')",Shupersal-Deal_Admirality,1,25.091428571400002,20.332285714299999
@@ -1904,12 +1907,12 @@
 "(u'coffee', u'1')",Shupersal-Deal_Haifa-mall,2,29.123809523799999,14.316190476199999
 "(u'coffee', u'1')",Shupersal-Shelly_Sapir,2,29.420000000000002,14.052
 "(u'coffee', u'1')",Shupersal-Shelly_Ziv,2,29.899999999999999,13.8307692308
-"(u'coffee', u'1')",Shuk_Haifa,0,15.3285714286,30.657142857099998
+"(u'coffee', u'1')",Shuk_Haifa,0,16.399999999999999,32.799999999999997
 "(u'yellow cheese', u'2')",Shupersal-Shelly_Nativ-Hen,2,63.0,63.0
 "(u'yellow cheese', u'2')",Shupersal-Express_Marganit,0,15.144444444399999,7.5722222222199997
 "(u'yellow cheese', u'2')",Shupersal-Shelly_Keler,2,63.0,63.0
-"(u'yellow cheese', u'2')",Shupersal-Deal-Extra_Tel-Hanan,2,61.75,61.75
 "(u'yellow cheese', u'2')",Yesh_Hanita,0,15.4,7.7000000000000002
+"(u'yellow cheese', u'2')",Shupersal-Deal-Extra_Tel-Hanan,2,61.75,61.75
 "(u'yellow cheese', u'2')",Shupersal-Deal_Grand-mall,2,63.142857142899999,63.142857142899999
 "(u'yellow cheese', u'2')",Shupersal-Shelly_Denia,2,63.5,63.5
 "(u'yellow cheese', u'2')",Shupersal-Shelly_Vardia,2,63.0,63.0
@@ -1928,8 +1931,8 @@
 "(u'tomato', u'2')",Shupersal-Shelly_Nativ-Hen,1,10.9,10.9
 "(u'tomato', u'2')",Shupersal-Express_Marganit,1,10.9,10.9
 "(u'tomato', u'2')",Shupersal-Shelly_Keler,1,10.9,10.9
-"(u'tomato', u'2')",Shupersal-Deal-Extra_Tel-Hanan,2,12.9,12.9
 "(u'tomato', u'2')",Yesh_Hanita,0,5.9000000000000004,5.9000000000000004
+"(u'tomato', u'2')",Shupersal-Deal-Extra_Tel-Hanan,2,12.9,12.9
 "(u'tomato', u'2')",Shupersal-Deal_Grand-mall,2,12.9,12.9
 "(u'tomato', u'2')",Shupersal-Shelly_Denia,1,10.9,10.9
 "(u'tomato', u'2')",Shupersal-Shelly_Vardia,1,10.9,10.9
@@ -1948,8 +1951,8 @@
 "(u'apple', u'2')",Shupersal-Shelly_Nativ-Hen,0,13.9,13.9
 "(u'apple', u'2')",Shupersal-Express_Marganit,0,13.9,13.9
 "(u'apple', u'2')",Shupersal-Shelly_Keler,0,13.9,13.9
-"(u'apple', u'2')",Shupersal-Deal-Extra_Tel-Hanan,2,19.899999999999999,19.899999999999999
 "(u'apple', u'2')",Yesh_Hanita,1,14.9,14.9
+"(u'apple', u'2')",Shupersal-Deal-Extra_Tel-Hanan,2,19.899999999999999,19.899999999999999
 "(u'apple', u'2')",Shupersal-Deal_Grand-mall,2,19.899999999999999,19.899999999999999
 "(u'apple', u'2')",Shupersal-Shelly_Denia,0,13.9,13.9
 "(u'apple', u'2')",Shupersal-Shelly_Vardia,0,13.9,13.9
@@ -1968,8 +1971,8 @@
 "(u'garbage bag', u'0')",Shupersal-Shelly_Nativ-Hen,0,11.666666666699999,11.666666666699999
 "(u'garbage bag', u'0')",Shupersal-Express_Marganit,0,14.199999999999999,14.199999999999999
 "(u'garbage bag', u'0')",Shupersal-Shelly_Keler,0,11.666666666699999,11.666666666699999
-"(u'garbage bag', u'0')",Shupersal-Deal-Extra_Tel-Hanan,0,12.74,12.74
 "(u'garbage bag', u'0')",Yesh_Hanita,0,14.4,14.4
+"(u'garbage bag', u'0')",Shupersal-Deal-Extra_Tel-Hanan,0,12.74,12.74
 "(u'garbage bag', u'0')",Shupersal-Deal_Grand-mall,0,12.74,12.74
 "(u'garbage bag', u'0')",Shupersal-Shelly_Denia,0,11.666666666699999,11.666666666699999
 "(u'garbage bag', u'0')",Shupersal-Shelly_Vardia,0,9.9666666666699992,9.9666666666699992
@@ -1988,8 +1991,8 @@
 "(u'oil', u'2')",Shupersal-Shelly_Nativ-Hen,1,15.9,15.9
 "(u'oil', u'2')",Shupersal-Express_Marganit,1,15.9,15.9
 "(u'oil', u'2')",Shupersal-Shelly_Keler,1,15.35,15.35
-"(u'oil', u'2')",Shupersal-Deal-Extra_Tel-Hanan,1,16.600000000000001,16.600000000000001
 "(u'oil', u'2')",Yesh_Hanita,1,16.550000000000001,16.550000000000001
+"(u'oil', u'2')",Shupersal-Deal-Extra_Tel-Hanan,1,16.600000000000001,16.600000000000001
 "(u'oil', u'2')",Shupersal-Deal_Grand-mall,1,15.1333333333,15.1333333333
 "(u'oil', u'2')",Shupersal-Shelly_Denia,1,15.9,15.9
 "(u'oil', u'2')",Shupersal-Shelly_Vardia,1,17.699999999999999,17.699999999999999
@@ -2004,14 +2007,14 @@
 "(u'oil', u'2')",Shupersal-Deal_Haifa-mall,1,15.800000000000001,15.800000000000001
 "(u'oil', u'2')",Shupersal-Shelly_Sapir,1,15.9,15.9
 "(u'oil', u'2')",Shupersal-Shelly_Ziv,1,15.9,15.9
-"(u'oil', u'2')",Shuk_Haifa,0,12.266666666700001,8.6133333333300008
+"(u'oil', u'2')",Shuk_Haifa,0,11.949999999999999,9.6950000000000003
 "(u'peanut snack', u'0')",Shupersal-Shelly_Nativ-Hen,1,10.6333333333,5.7366666666699997
 "(u'peanut snack', u'0')",Shupersal-Express_Marganit,1,9.0999999999999996,4.5499999999999998
 "(u'peanut snack', u'0')",Shupersal-Shelly_Keler,1,10.6333333333,5.7366666666699997
-"(u'peanut snack', u'0')",Shupersal-Deal-Extra_Tel-Hanan,1,11.800000000000001,6.1550000000000002
 "(u'peanut snack', u'0')",Yesh_Hanita,2,18.100000000000001,6.25
+"(u'peanut snack', u'0')",Shupersal-Deal-Extra_Tel-Hanan,1,11.800000000000001,6.1550000000000002
 "(u'peanut snack', u'0')",Shupersal-Deal_Grand-mall,0,4.5230769230799996,6.80769230769
-"(u'peanut snack', u'0')",Shupersal-Shelly_Denia,2,15.574999999999999,6.9349999999999996
+"(u'peanut snack', u'0')",Shupersal-Shelly_Denia,2,17.133333333300001,6.61333333333
 "(u'peanut snack', u'0')",Shupersal-Shelly_Vardia,0,4.1333333333300004,7.3674999999999997
 "(u'peanut snack', u'0')",Shupersal-Express_Rambam,0,4.5250000000000004,6.11625
 "(u'peanut snack', u'0')",Shupersal-Deal_Eliezer,1,12.9666666667,5.7483333333299997
@@ -2028,8 +2031,8 @@
 "(u'toothpaste', u'2')",Shupersal-Shelly_Nativ-Hen,2,24.933333333299998,38.4233333333
 "(u'toothpaste', u'2')",Shupersal-Express_Marganit,0,21.699999999999999,28.93
 "(u'toothpaste', u'2')",Shupersal-Shelly_Keler,2,24.960000000000001,39.494
-"(u'toothpaste', u'2')",Shupersal-Deal-Extra_Tel-Hanan,2,24.024999999999999,37.506250000000001
 "(u'toothpaste', u'2')",Yesh_Hanita,0,22.833333333300001,26.848333333300001
+"(u'toothpaste', u'2')",Shupersal-Deal-Extra_Tel-Hanan,2,24.024999999999999,37.506250000000001
 "(u'toothpaste', u'2')",Shupersal-Deal_Grand-mall,2,22.899999999999999,41.482500000000002
 "(u'toothpaste', u'2')",Shupersal-Shelly_Denia,1,23.300000000000001,46.600000000000001
 "(u'toothpaste', u'2')",Shupersal-Shelly_Vardia,1,23.300000000000001,46.600000000000001
@@ -2048,8 +2051,8 @@
 "(u'onion', u'1')",Shupersal-Shelly_Nativ-Hen,1,6.9000000000000004,6.9000000000000004
 "(u'onion', u'1')",Shupersal-Express_Marganit,1,6.9000000000000004,6.9000000000000004
 "(u'onion', u'1')",Shupersal-Shelly_Keler,1,6.9000000000000004,6.9000000000000004
-"(u'onion', u'1')",Shupersal-Deal-Extra_Tel-Hanan,1,6.9000000000000004,6.9000000000000004
 "(u'onion', u'1')",Yesh_Hanita,0,4.2000000000000002,4.2000000000000002
+"(u'onion', u'1')",Shupersal-Deal-Extra_Tel-Hanan,1,6.9000000000000004,6.9000000000000004
 "(u'onion', u'1')",Shupersal-Deal_Grand-mall,1,6.9000000000000004,6.9000000000000004
 "(u'onion', u'1')",Shupersal-Shelly_Denia,1,6.9000000000000004,6.9000000000000004
 "(u'onion', u'1')",Shupersal-Shelly_Vardia,1,6.9000000000000004,6.9000000000000004

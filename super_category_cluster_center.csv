@@ -104,8 +104,8 @@ stain remover,0,13.9666666667,1.56666666667,Shupersal-Shelly_Nativ-Hen
 stain remover,1,27.9,9.3,Shupersal-Shelly_Nativ-Hen
 stain remover,2,14.9,11.92,Shupersal-Shelly_Nativ-Hen
 hamburger,0,22.4555555556,5.22555555556,Shupersal-Deal_Haifa-mall
-hamburger,1,37.75,5.49,Shupersal-Deal_Haifa-mall
-hamburger,2,54.9,5.49,Shupersal-Deal_Haifa-mall
+hamburger,1,54.9,5.49,Shupersal-Deal_Haifa-mall
+hamburger,2,37.75,5.49,Shupersal-Deal_Haifa-mall
 apple,0,8.9,8.9,Shupersal-Deal_Haifa-mall
 apple,1,11.9,11.9,Shupersal-Deal_Haifa-mall
 apple,2,12.9,12.9,Shupersal-Deal_Haifa-mall
@@ -169,15 +169,15 @@ yellow cheese,2,64.1666666667,64.1666666667,Shupersal-Deal_Haifa-mall
 cucumber,0,6.9,6.9,Shupersal-Deal_Haifa-mall
 cucumber,1,8.4,8.4,Shupersal-Deal_Haifa-mall
 cucumber,2,9.9,9.9,Shupersal-Deal_Haifa-mall
-toilet paper,0,29.5,5.85,Shupersal-Deal_Haifa-mall
-toilet paper,1,41.0125,5.935,Shupersal-Deal_Haifa-mall
+toilet paper,0,26.5666666667,4.4,Shupersal-Deal_Haifa-mall
+toilet paper,1,39.59,6.353,Shupersal-Deal_Haifa-mall
 toilet paper,2,13.2,13.2,Shupersal-Deal_Haifa-mall
 bleach,0,10.7222222222,2.28333333333,Shupersal-Deal_Haifa-mall
 bleach,1,6.9,3.45,Shupersal-Deal_Haifa-mall
 bleach,2,8.9,17.8,Shupersal-Deal_Haifa-mall
 pasta,0,6.25094339623,1.48132075472,Shupersal-Deal_Haifa-mall
-pasta,1,20.5625,4.40875,Shupersal-Deal_Haifa-mall
-pasta,2,13.3307692308,5.98846153846,Shupersal-Deal_Haifa-mall
+pasta,1,21.7833333333,4.46833333333,Shupersal-Deal_Haifa-mall
+pasta,2,13.8066666667,5.754,Shupersal-Deal_Haifa-mall
 fabric softener,0,13.0923076923,2.49923076923,Shupersal-Deal_Haifa-mall
 fabric softener,1,20.3,4.528,Shupersal-Deal_Haifa-mall
 fabric softener,2,15.1285714286,15.1285714286,Shupersal-Deal_Haifa-mall
@@ -232,9 +232,9 @@ lettuce,2,11.85,11.85,Shupersal-Deal_Grand-mall
 carrot,0,3.9,3.9,Shupersal-Deal_Grand-mall
 carrot,1,5.9,5.9,Shupersal-Deal_Grand-mall
 carrot,2,7.9,7.9,Shupersal-Deal_Grand-mall
-milk,0,5.68043478261,3.30043478261,Shupersal-Deal_Grand-mall
-milk,1,8.61103448276,7.46896551724,Shupersal-Deal_Grand-mall
-milk,2,14.96,8.612,Shupersal-Deal_Grand-mall
+milk,0,5.98333333333,1.42166666667,Shupersal-Deal_Grand-mall
+milk,1,7.322,6.54,Shupersal-Deal_Grand-mall
+milk,2,12.71,8.961,Shupersal-Deal_Grand-mall
 white cheese,0,5.71176470588,1.83882352941,Shupersal-Deal_Grand-mall
 white cheese,1,12.79,5.188,Shupersal-Deal_Grand-mall
 white cheese,2,35.0,35.0,Shupersal-Deal_Grand-mall
@@ -418,108 +418,6 @@ bag,2,14.675,14.675,Shupersal-Shelly_Keler
 stain remover,0,15.72,2.04,Shupersal-Shelly_Keler
 stain remover,1,28.75,9.5825,Shupersal-Shelly_Keler
 stain remover,2,14.9,11.92,Shupersal-Shelly_Keler
-hamburger,0,18.7166666667,4.14333333333,Yesh_Hanita
-hamburger,1,35.9,4.79,Yesh_Hanita
-hamburger,2,7.6,15.2,Yesh_Hanita
-apple,0,8.9,8.9,Yesh_Hanita
-apple,1,8.9,8.9,Yesh_Hanita
-apple,2,14.9,14.9,Yesh_Hanita
-fats remover,0,15.9,2.12,Yesh_Hanita
-fats remover,1,17.4,10.51,Yesh_Hanita
-fats remover,2,18.9,18.9,Yesh_Hanita
-deodorant,0,12.3285714286,6.16571428571,Yesh_Hanita
-deodorant,1,20.1857142857,17.4985714286,Yesh_Hanita
-deodorant,2,19.9,39.8,Yesh_Hanita
-Dish soap,0,9.9,1.678,Yesh_Hanita
-Dish soap,1,19.9,4.98,Yesh_Hanita
-Dish soap,2,14.0666666667,12.185,Yesh_Hanita
-pepper,0,7.9,7.9,Yesh_Hanita
-pepper,1,9.9,9.9,Yesh_Hanita
-pepper,2,9.9,9.9,Yesh_Hanita
-carrot,0,3.5,3.5,Yesh_Hanita
-carrot,1,3.5,3.5,Yesh_Hanita
-carrot,2,3.5,3.5,Yesh_Hanita
-milk,0,5.40357142857,3.815,Yesh_Hanita
-milk,1,8.90769230769,6.50769230769,Yesh_Hanita
-milk,2,13.1,10.6166666667,Yesh_Hanita
-yellow cheese,0,19.9,5.255,Yesh_Hanita
-yellow cheese,1,29.1,6.022,Yesh_Hanita
-yellow cheese,2,15.4,7.7,Yesh_Hanita
-lemon,0,5.9,5.9,Yesh_Hanita
-lemon,1,5.9,5.9,Yesh_Hanita
-lemon,2,5.9,5.9,Yesh_Hanita
-toothpaste,0,10.6142857143,5.97857142857,Yesh_Hanita
-toothpaste,1,11.5,15.454,Yesh_Hanita
-toothpaste,2,22.8333333333,26.8483333333,Yesh_Hanita
-coconut cream,0,7.1,1.78,Yesh_Hanita
-coconut cream,1,11.4,2.215,Yesh_Hanita
-coconut cream,2,14.9,9.93,Yesh_Hanita
-peanut snack,0,18.1,6.25,Yesh_Hanita
-peanut snack,1,3.7,7.458,Yesh_Hanita
-peanut snack,2,24.2,8.07,Yesh_Hanita
-orange,0,4.9,4.9,Yesh_Hanita
-orange,1,5.4,5.4,Yesh_Hanita
-orange,2,5.9,5.9,Yesh_Hanita
-banana,0,7.9,7.9,Yesh_Hanita
-banana,1,7.9,7.9,Yesh_Hanita
-banana,2,7.9,7.9,Yesh_Hanita
-tomato,0,5.9,5.9,Yesh_Hanita
-tomato,1,5.9,5.9,Yesh_Hanita
-tomato,2,5.9,5.9,Yesh_Hanita
-coffee,0,16.4416666667,8.2775,Yesh_Hanita
-coffee,1,29.3384615385,14.3861538462,Yesh_Hanita
-coffee,2,15.9,31.8,Yesh_Hanita
-oil,0,17.2,8.6,Yesh_Hanita
-oil,1,15.5,15.5,Yesh_Hanita
-oil,2,16.55,16.55,Yesh_Hanita
-tampons,0,17.9,17.9,Yesh_Hanita
-tampons,1,23.9,23.9,Yesh_Hanita
-tampons,2,28.6,28.6,Yesh_Hanita
-white cheese,0,6.89375,2.238125,Yesh_Hanita
-white cheese,1,21.425,3.335,Yesh_Hanita
-white cheese,2,13.1714285714,4.96714285714,Yesh_Hanita
-cucumber,0,5.9,5.9,Yesh_Hanita
-cucumber,1,7.9,7.9,Yesh_Hanita
-cucumber,2,9.9,9.9,Yesh_Hanita
-toilet paper,0,36.2333333333,5.30833333333,Yesh_Hanita
-toilet paper,1,16.9,16.9,Yesh_Hanita
-toilet paper,2,29.9,29.9,Yesh_Hanita
-bleach,0,6.9,1.73,Yesh_Hanita
-bleach,1,13.8333333333,1.84666666667,Yesh_Hanita
-bleach,2,8.9,17.8,Yesh_Hanita
-pasta,0,6.14666666667,1.38166666667,Yesh_Hanita
-pasta,1,17.79,4.308,Yesh_Hanita
-pasta,2,8.4,8.23,Yesh_Hanita
-fabric softener,0,15.1222222222,2.98555555556,Yesh_Hanita
-fabric softener,1,20.68,4.91933333333,Yesh_Hanita
-fabric softener,2,15.9,15.9,Yesh_Hanita
-bread,0,9.49,1.673,Yesh_Hanita
-bread,1,15.53125,2.551875,Yesh_Hanita
-bread,2,12.075,11.3825,Yesh_Hanita
-cabbage,0,2.9,2.9,Yesh_Hanita
-cabbage,1,3.4,3.4,Yesh_Hanita
-cabbage,2,3.9,3.9,Yesh_Hanita
-onion,0,3.5,3.5,Yesh_Hanita
-onion,1,4.2,4.2,Yesh_Hanita
-onion,2,4.9,4.9,Yesh_Hanita
-potato,0,3.9,3.9,Yesh_Hanita
-potato,1,4.9,4.9,Yesh_Hanita
-potato,2,14.9,14.9,Yesh_Hanita
-frozen,0,10.95,2.1,Yesh_Hanita
-frozen,1,16.65,3.19,Yesh_Hanita
-frozen,2,16.1,11.596,Yesh_Hanita
-garbage bag,0,14.4,14.4,Yesh_Hanita
-garbage bag,1,18.4,18.4,Yesh_Hanita
-garbage bag,2,22.9,22.9,Yesh_Hanita
-frozen ,0,19.9,2.49,Yesh_Hanita
-frozen ,1,20.0,2.5,Yesh_Hanita
-frozen ,2,19.9,3.32,Yesh_Hanita
-bag,0,4.9,4.9,Yesh_Hanita
-bag,1,9.9,9.9,Yesh_Hanita
-bag,2,12.9,12.9,Yesh_Hanita
-stain remover,0,19.9,2.12,Yesh_Hanita
-stain remover,1,28.2333333333,8.49666666667,Yesh_Hanita
-stain remover,2,32.9,24.37,Yesh_Hanita
 hamburger,0,21.4,5.065,Shupersal-Deal_Eliezer
 hamburger,1,53.65,5.6025,Shupersal-Deal_Eliezer
 hamburger,2,39.9,6.23,Shupersal-Deal_Eliezer
@@ -539,14 +437,14 @@ pepper,0,9.4,9.4,Shupersal-Deal_Eliezer
 pepper,1,10.9,10.9,Shupersal-Deal_Eliezer
 pepper,2,12.9,12.9,Shupersal-Deal_Eliezer
 lettuce,0,9.9,3.376,Shupersal-Deal_Eliezer
-lettuce,1,5.9,5.9,Shupersal-Deal_Eliezer
-lettuce,2,9.45,9.45,Shupersal-Deal_Eliezer
+lettuce,1,6.56666666667,6.56666666667,Shupersal-Deal_Eliezer
+lettuce,2,9.96666666667,9.96666666667,Shupersal-Deal_Eliezer
 carrot,0,3.9,3.9,Shupersal-Deal_Eliezer
 carrot,1,3.9,3.9,Shupersal-Deal_Eliezer
 carrot,2,3.9,3.9,Shupersal-Deal_Eliezer
 milk,0,5.4,3.88047619048,Shupersal-Deal_Eliezer
-milk,1,8.57111111111,7.33148148148,Shupersal-Deal_Eliezer
-milk,2,15.12,8.692,Shupersal-Deal_Eliezer
+milk,1,9.01733333333,7.31266666667,Shupersal-Deal_Eliezer
+milk,2,18.25,11.015,Shupersal-Deal_Eliezer
 white cheese,0,5.71176470588,1.83882352941,Shupersal-Deal_Eliezer
 white cheese,1,13.35,4.951875,Shupersal-Deal_Eliezer
 white cheese,2,35.5,35.5,Shupersal-Deal_Eliezer
@@ -649,9 +547,9 @@ lettuce,2,11.8,11.8,Shupersal-Deal-Extra_Tel-Hanan
 carrot,0,3.9,3.9,Shupersal-Deal-Extra_Tel-Hanan
 carrot,1,5.9,5.9,Shupersal-Deal-Extra_Tel-Hanan
 carrot,2,7.9,7.9,Shupersal-Deal-Extra_Tel-Hanan
-milk,0,5.81904761905,3.47047619048,Shupersal-Deal-Extra_Tel-Hanan
-milk,1,8.74903225806,7.33387096774,Shupersal-Deal-Extra_Tel-Hanan
-milk,2,14.96,8.612,Shupersal-Deal-Extra_Tel-Hanan
+milk,0,6.42,1.488,Shupersal-Deal-Extra_Tel-Hanan
+milk,1,6.83935483871,6.6564516129,Shupersal-Deal-Extra_Tel-Hanan
+milk,2,12.0,7.62875,Shupersal-Deal-Extra_Tel-Hanan
 yellow cheese,0,17.7677419355,6.38741935484,Shupersal-Deal-Extra_Tel-Hanan
 yellow cheese,1,36.825,36.825,Shupersal-Deal-Extra_Tel-Hanan
 yellow cheese,2,61.75,61.75,Shupersal-Deal-Extra_Tel-Hanan
@@ -727,8 +625,8 @@ frozen ,2,19.7,19.7,Shupersal-Deal-Extra_Tel-Hanan
 bag,0,8.72,8.72,Shupersal-Deal-Extra_Tel-Hanan
 bag,1,13.6,13.6,Shupersal-Deal-Extra_Tel-Hanan
 bag,2,22.7,22.7,Shupersal-Deal-Extra_Tel-Hanan
-stain remover,0,12.6,1.73,Shupersal-Deal-Extra_Tel-Hanan
-stain remover,1,23.4571428571,6.74714285714,Shupersal-Deal-Extra_Tel-Hanan
+stain remover,0,14.0125,2.61,Shupersal-Deal-Extra_Tel-Hanan
+stain remover,1,25.54,7.346,Shupersal-Deal-Extra_Tel-Hanan
 stain remover,2,23.6,19.1033333333,Shupersal-Deal-Extra_Tel-Hanan
 hamburger,0,22.7571428571,5.38,Shupersal-Shelly_Carmel
 hamburger,1,36.3,5.685,Shupersal-Shelly_Carmel
@@ -739,8 +637,8 @@ apple,2,13.9,13.9,Shupersal-Shelly_Carmel
 fats remover,0,10.0,1.33,Shupersal-Shelly_Carmel
 fats remover,1,10.0,1.33,Shupersal-Shelly_Carmel
 fats remover,2,15.0,15.0,Shupersal-Shelly_Carmel
-deodorant,0,11.8083333333,8.01166666667,Shupersal-Shelly_Carmel
-deodorant,1,19.2444444444,18.2683333333,Shupersal-Shelly_Carmel
+deodorant,0,12.1111111111,5.83888888889,Shupersal-Shelly_Carmel
+deodorant,1,18.0523809524,17.7342857143,Shupersal-Shelly_Carmel
 deodorant,2,28.56,48.232,Shupersal-Shelly_Carmel
 Dish soap,0,7.93333333333,1.12666666667,Shupersal-Shelly_Carmel
 Dish soap,1,12.6,2.03833333333,Shupersal-Shelly_Carmel
@@ -913,8 +811,8 @@ pasta,2,20.63,4.989,Shupersal-Shelly_Horev
 fabric softener,0,11.225,1.33,Shupersal-Shelly_Horev
 fabric softener,1,19.4714285714,4.10785714286,Shupersal-Shelly_Horev
 fabric softener,2,15.725,15.725,Shupersal-Shelly_Horev
-bread,0,15.3472727273,2.958,Shupersal-Shelly_Horev
-bread,1,5.76933333333,3.06733333333,Shupersal-Shelly_Horev
+bread,0,14.8196721311,2.8693442623,Shupersal-Shelly_Horev
+bread,1,4.71583333333,3.32,Shupersal-Shelly_Horev
 bread,2,15.275,14.5375,Shupersal-Shelly_Horev
 cabbage,0,4.5,4.5,Shupersal-Shelly_Horev
 cabbage,1,6.23333333333,6.23333333333,Shupersal-Shelly_Horev
@@ -1013,8 +911,8 @@ bleach,0,9.73,2.179,Shupersal-Deal_Admirality
 bleach,1,13.0,2.465,Shupersal-Deal_Admirality
 bleach,2,9.2,19.1266666667,Shupersal-Deal_Admirality
 pasta,0,6.58648648649,1.56662162162,Shupersal-Deal_Admirality
-pasta,1,19.8266666667,4.09,Shupersal-Deal_Admirality
-pasta,2,12.965,6.0935,Shupersal-Deal_Admirality
+pasta,1,19.69375,4.525625,Shupersal-Deal_Admirality
+pasta,2,12.7157894737,5.83210526316,Shupersal-Deal_Admirality
 fabric softener,0,13.1375,2.56875,Shupersal-Deal_Admirality
 fabric softener,1,20.205,4.642,Shupersal-Deal_Admirality
 fabric softener,2,15.1285714286,15.1285714286,Shupersal-Deal_Admirality
@@ -1045,108 +943,6 @@ bag,2,17.9,17.9,Shupersal-Deal_Admirality
 stain remover,0,13.8714285714,2.84,Shupersal-Deal_Admirality
 stain remover,1,27.0833333333,8.01833333333,Shupersal-Deal_Admirality
 stain remover,2,27.95,18.72,Shupersal-Deal_Admirality
-hamburger,0,12.9,2.58,Yesh_France
-hamburger,1,19.3,3.86,Yesh_France
-hamburger,2,19.3,3.86,Yesh_France
-apple,0,9.9,9.9,Yesh_France
-apple,1,9.9,9.9,Yesh_France
-apple,2,14.9,14.9,Yesh_France
-fats remover,0,15.9,2.12,Yesh_France
-fats remover,1,17.4,10.51,Yesh_France
-fats remover,2,18.9,18.9,Yesh_France
-deodorant,0,13.4,6.7025,Yesh_France
-deodorant,1,20.9,13.9366666667,Yesh_France
-deodorant,2,15.9,23.605,Yesh_France
-Dish soap,0,9.7,1.536,Yesh_France
-Dish soap,1,19.9,4.98,Yesh_France
-Dish soap,2,14.0666666667,12.185,Yesh_France
-pepper,0,7.9,7.9,Yesh_France
-pepper,1,7.9,7.9,Yesh_France
-pepper,2,7.9,7.9,Yesh_France
-carrot,0,2.9,2.9,Yesh_France
-carrot,1,2.9,2.9,Yesh_France
-carrot,2,2.9,2.9,Yesh_France
-milk,0,5.74375,4.54375,Yesh_France
-milk,1,12.6,6.3,Yesh_France
-milk,2,7.7,7.38555555556,Yesh_France
-white cheese,0,4.7,1.88,Yesh_France
-white cheese,1,9.1,2.948,Yesh_France
-white cheese,2,15.45,4.005,Yesh_France
-lemon,0,6.9,6.9,Yesh_France
-lemon,1,6.9,6.9,Yesh_France
-lemon,2,6.9,6.9,Yesh_France
-cabbage,0,1.9,1.9,Yesh_France
-cabbage,1,2.9,2.9,Yesh_France
-cabbage,2,3.9,3.9,Yesh_France
-toothpaste,0,11.0666666667,7.435,Yesh_France
-toothpaste,1,20.0666666667,16.9033333333,Yesh_France
-toothpaste,2,16.9,33.8,Yesh_France
-coconut cream,0,10.9,1.45,Yesh_France
-coconut cream,1,11.9,2.98,Yesh_France
-coconut cream,2,14.9,9.93,Yesh_France
-peanut snack,0,4.0,6.8225,Yesh_France
-peanut snack,1,15.4333333333,7.33333333333,Yesh_France
-peanut snack,2,24.2,8.07,Yesh_France
-orange,0,3.9,3.9,Yesh_France
-orange,1,4.9,4.9,Yesh_France
-orange,2,5.9,5.9,Yesh_France
-banana,0,7.9,7.9,Yesh_France
-banana,1,7.9,7.9,Yesh_France
-banana,2,7.9,7.9,Yesh_France
-coffee,0,15.2545454545,8.97090909091,Yesh_France
-coffee,1,27.85,12.9,Yesh_France
-coffee,2,37.3666666667,18.6833333333,Yesh_France
-oil,0,17.2,8.6,Yesh_France
-oil,1,17.2,8.6,Yesh_France
-oil,2,17.2,8.6,Yesh_France
-tampons,0,17.9,17.9,Yesh_France
-tampons,1,17.9,17.9,Yesh_France
-tampons,2,17.9,17.9,Yesh_France
-yellow cheese,0,19.9,5.255,Yesh_France
-yellow cheese,1,30.9,5.68,Yesh_France
-yellow cheese,2,15.5666666667,7.78333333333,Yesh_France
-cucumber,0,4.9,4.9,Yesh_France
-cucumber,1,4.9,4.9,Yesh_France
-cucumber,2,4.9,4.9,Yesh_France
-toilet paper,0,33.65,4.7825,Yesh_France
-toilet paper,1,46.9,8.73,Yesh_France
-toilet paper,2,29.9,29.9,Yesh_France
-bleach,0,6.9,1.73,Yesh_France
-bleach,1,11.4,1.925,Yesh_France
-bleach,2,15.9,2.12,Yesh_France
-pasta,0,5.87368421053,1.34263157895,Yesh_France
-pasta,1,20.4,5.105,Yesh_France
-pasta,2,9.9,7.62,Yesh_France
-fabric softener,0,12.9,1.43,Yesh_France
-fabric softener,1,19.6222222222,4.42555555556,Yesh_France
-fabric softener,2,15.9,15.9,Yesh_France
-bread,0,5.1,0.7625,Yesh_France
-bread,1,10.0,1.906,Yesh_France
-bread,2,10.15,10.15,Yesh_France
-tomato,0,3.9,3.9,Yesh_France
-tomato,1,3.9,3.9,Yesh_France
-tomato,2,3.9,3.9,Yesh_France
-onion,0,2.9,2.9,Yesh_France
-onion,1,3.9,3.9,Yesh_France
-onion,2,4.9,4.9,Yesh_France
-potato,0,2.9,2.9,Yesh_France
-potato,1,3.9,3.9,Yesh_France
-potato,2,14.9,14.9,Yesh_France
-frozen,0,12.72,2.228,Yesh_France
-frozen,1,18.9,3.70666666667,Yesh_France
-frozen,2,16.1,11.596,Yesh_France
-garbage bag,0,15.2333333333,15.2333333333,Yesh_France
-garbage bag,1,22.2333333333,22.2333333333,Yesh_France
-garbage bag,2,24.9,24.9,Yesh_France
-frozen ,0,19.9,2.49,Yesh_France
-frozen ,1,19.9,2.905,Yesh_France
-frozen ,2,19.9,3.32,Yesh_France
-bag,0,9.9,9.9,Yesh_France
-bag,1,12.9,12.9,Yesh_France
-bag,2,12.9,12.9,Yesh_France
-stain remover,0,20.9,3.39,Yesh_France
-stain remover,1,29.4,8.43,Yesh_France
-stain remover,2,32.9,24.37,Yesh_France
 hamburger,0,22.7571428571,5.38,Shupersal-Shelly_Stela
 hamburger,1,46.9,5.58,Shupersal-Shelly_Stela
 hamburger,2,32.6,6.04,Shupersal-Shelly_Stela
@@ -1324,8 +1120,8 @@ toilet paper,2,17.4,17.4,Shupersal-Shelly_Sapir
 bleach,0,9.45,2.26166666667,Shupersal-Shelly_Sapir
 bleach,1,13.12,2.642,Shupersal-Shelly_Sapir
 bleach,2,10.2,20.4,Shupersal-Shelly_Sapir
-pasta,0,6.89787234043,1.50127659574,Shupersal-Shelly_Sapir
-pasta,1,12.8857142857,4.73571428571,Shupersal-Shelly_Sapir
+pasta,0,6.91041666667,1.65604166667,Shupersal-Shelly_Sapir
+pasta,1,13.3,4.41307692308,Shupersal-Shelly_Sapir
 pasta,2,20.09,5.395,Shupersal-Shelly_Sapir
 fabric softener,0,10.0,1.11,Shupersal-Shelly_Sapir
 fabric softener,1,19.6272727273,4.38272727273,Shupersal-Shelly_Sapir
@@ -1484,8 +1280,8 @@ carrot,0,4.9,4.9,Shupersal-Express_Marganit
 carrot,1,4.9,4.9,Shupersal-Express_Marganit
 carrot,2,4.9,4.9,Shupersal-Express_Marganit
 milk,0,5.53125,5.11125,Shupersal-Express_Marganit
-milk,1,8.79111111111,7.19444444444,Shupersal-Express_Marganit
-milk,2,14.2,10.3,Shupersal-Express_Marganit
+milk,1,8.01714285714,7.60714285714,Shupersal-Express_Marganit
+milk,2,12.85,8.025,Shupersal-Express_Marganit
 white cheese,0,4.6,1.84,Shupersal-Express_Marganit
 white cheese,1,10.0333333333,3.63666666667,Shupersal-Express_Marganit
 white cheese,2,15.5333333333,6.64,Shupersal-Express_Marganit
@@ -1573,8 +1369,8 @@ deodorant,2,27.2625,48.50875,Shupersal-Shelly_Vardia
 Dish soap,0,8.21428571429,1.15428571429,Shupersal-Shelly_Vardia
 Dish soap,1,12.22,2.032,Shupersal-Shelly_Vardia
 Dish soap,2,10.0,10.0,Shupersal-Shelly_Vardia
-coffee,0,15.55,8.618,Shupersal-Shelly_Vardia
-coffee,1,28.1636363636,15.6472727273,Shupersal-Shelly_Vardia
+coffee,0,16.275,9.835,Shupersal-Shelly_Vardia
+coffee,1,30.0,15.5866666667,Shupersal-Shelly_Vardia
 coffee,2,18.3777777778,28.7688888889,Shupersal-Shelly_Vardia
 lettuce,0,10.74,3.67,Shupersal-Shelly_Vardia
 lettuce,1,7.8,7.8,Shupersal-Shelly_Vardia
@@ -1795,8 +1591,8 @@ toothpaste,2,23.3,46.6,Shupersal-Shelly_Denia
 coconut cream,0,6.5,1.63,Shupersal-Shelly_Denia
 coconut cream,1,7.7,1.93,Shupersal-Shelly_Denia
 coconut cream,2,10.8,2.7,Shupersal-Shelly_Denia
-peanut snack,0,15.575,6.935,Shupersal-Shelly_Denia
-peanut snack,1,4.8,7.30545454545,Shupersal-Shelly_Denia
+peanut snack,0,17.1333333333,6.61333333333,Shupersal-Shelly_Denia
+peanut snack,1,5.30833333333,7.355,Shupersal-Shelly_Denia
 peanut snack,2,25.9,8.63,Shupersal-Shelly_Denia
 orange,0,5.9,5.9,Shupersal-Shelly_Denia
 orange,1,6.4,6.4,Shupersal-Shelly_Denia
@@ -1825,9 +1621,9 @@ toilet paper,2,17.4,17.4,Shupersal-Shelly_Denia
 bleach,0,9.43333333333,2.45333333333,Shupersal-Shelly_Denia
 bleach,1,12.8,2.70333333333,Shupersal-Shelly_Denia
 bleach,2,10.2,20.4,Shupersal-Shelly_Denia
-pasta,0,7.07906976744,1.54651162791,Shupersal-Shelly_Denia
+pasta,0,6.89268292683,1.4887804878,Shupersal-Shelly_Denia
 pasta,1,20.63,4.989,Shupersal-Shelly_Denia
-pasta,2,13.85,5.669,Shupersal-Shelly_Denia
+pasta,2,13.3583333333,5.17916666667,Shupersal-Shelly_Denia
 fabric softener,0,10.0,1.11,Shupersal-Shelly_Denia
 fabric softener,1,20.2166666667,4.81666666667,Shupersal-Shelly_Denia
 fabric softener,2,15.58,15.58,Shupersal-Shelly_Denia
@@ -1867,8 +1663,8 @@ apple,2,15.4,15.4,Shuk_Haifa
 fats remover,0,12.9333333333,1.72333333333,Shuk_Haifa
 fats remover,1,20.9,3.515,Shuk_Haifa
 fats remover,2,21.4,21.4,Shuk_Haifa
-deodorant,0,13.65,8.50822580645,Shuk_Haifa
-deodorant,1,17.5446808511,20.6742553191,Shuk_Haifa
+deodorant,0,13.6890625,8.70796875,Shuk_Haifa
+deodorant,1,17.6622222222,20.9308888889,Shuk_Haifa
 deodorant,2,23.2333333333,42.9744444444,Shuk_Haifa
 Dish soap,0,8.22307692308,1.21461538462,Shuk_Haifa
 Dish soap,1,39.9,5.7,Shuk_Haifa
@@ -1909,12 +1705,12 @@ orange,2,4.9,4.9,Shuk_Haifa
 banana,0,6.9,6.9,Shuk_Haifa
 banana,1,6.9,6.9,Shuk_Haifa
 banana,2,6.9,6.9,Shuk_Haifa
-coffee,0,23.0914285714,12.1702857143,Shuk_Haifa
-coffee,1,15.3285714286,30.6571428571,Shuk_Haifa
+coffee,0,22.6972222222,12.3266666667,Shuk_Haifa
+coffee,1,16.4,32.8,Shuk_Haifa
 coffee,2,46.9,38.4166666667,Shuk_Haifa
 oil,0,6.7,0.74,Shuk_Haifa
-oil,1,10.0,4.0,Shuk_Haifa
-oil,2,12.2666666667,8.61333333333,Shuk_Haifa
+oil,1,11.45,5.225,Shuk_Haifa
+oil,2,11.95,9.695,Shuk_Haifa
 tampons,0,17.9,0.763333333333,Shuk_Haifa
 tampons,1,24.1333333333,24.1333333333,Shuk_Haifa
 tampons,2,33.9,33.9,Shuk_Haifa
@@ -1924,8 +1720,8 @@ yellow cheese,2,42.35,42.35,Shuk_Haifa
 cucumber,0,4.9,4.9,Shuk_Haifa
 cucumber,1,7.4,7.4,Shuk_Haifa
 cucumber,2,9.9,9.9,Shuk_Haifa
-toilet paper,0,38.7571428571,0.79,Shuk_Haifa
-toilet paper,1,27.1,0.829090909091,Shuk_Haifa
+toilet paper,0,28.1461538462,0.771538461538,Shuk_Haifa
+toilet paper,1,40.7,0.924,Shuk_Haifa
 toilet paper,2,10.6,4.65666666667,Shuk_Haifa
 bleach,0,11.225,2.04916666667,Shuk_Haifa
 bleach,1,7.375,7.375,Shuk_Haifa
@@ -1990,8 +1786,8 @@ carrot,2,4.9,4.9,Shupersal-Express_Raul
 milk,0,5.6,5.0,Shupersal-Express_Raul
 milk,1,12.8666666667,6.43333333333,Shupersal-Express_Raul
 milk,2,7.8025,7.44375,Shupersal-Express_Raul
-white cheese,0,9.2,1.84,Shupersal-Express_Raul
-white cheese,1,4.6,1.84,Shupersal-Express_Raul
+white cheese,0,4.6,1.84,Shupersal-Express_Raul
+white cheese,1,9.2,1.84,Shupersal-Express_Raul
 white cheese,2,12.7333333333,6.24166666667,Shupersal-Express_Raul
 lemon,0,7.9,7.9,Shupersal-Express_Raul
 lemon,1,7.9,7.9,Shupersal-Express_Raul
@@ -2065,3 +1861,210 @@ bag,2,11.5,11.5,Shupersal-Express_Raul
 stain remover,0,27.9,9.3,Shupersal-Express_Raul
 stain remover,1,27.9,9.3,Shupersal-Express_Raul
 stain remover,2,27.9,9.3,Shupersal-Express_Raul
+hamburger,0,12.9,2.58,Yesh_France
+hamburger,1,19.3,3.86,Yesh_France
+hamburger,2,19.3,3.86,Yesh_France
+apple,0,9.9,9.9,Yesh_France
+apple,1,9.9,9.9,Yesh_France
+apple,2,14.9,14.9,Yesh_France
+fats remover,0,15.9,2.12,Yesh_France
+fats remover,1,17.4,10.51,Yesh_France
+fats remover,2,18.9,18.9,Yesh_France
+deodorant,0,13.4,6.7025,Yesh_France
+deodorant,1,20.9,13.9366666667,Yesh_France
+deodorant,2,15.9,23.605,Yesh_France
+Dish soap,0,9.7,1.536,Yesh_France
+Dish soap,1,19.9,4.98,Yesh_France
+Dish soap,2,14.0666666667,12.185,Yesh_France
+pepper,0,7.9,7.9,Yesh_France
+pepper,1,7.9,7.9,Yesh_France
+pepper,2,7.9,7.9,Yesh_France
+carrot,0,2.9,2.9,Yesh_France
+carrot,1,2.9,2.9,Yesh_France
+carrot,2,2.9,2.9,Yesh_France
+milk,0,5.74375,4.54375,Yesh_France
+milk,1,12.6,6.3,Yesh_France
+milk,2,7.7,7.38555555556,Yesh_France
+white cheese,0,4.7,1.88,Yesh_France
+white cheese,1,9.1,2.948,Yesh_France
+white cheese,2,15.45,4.005,Yesh_France
+lemon,0,6.9,6.9,Yesh_France
+lemon,1,6.9,6.9,Yesh_France
+lemon,2,6.9,6.9,Yesh_France
+cabbage,0,1.9,1.9,Yesh_France
+cabbage,1,2.9,2.9,Yesh_France
+cabbage,2,3.9,3.9,Yesh_France
+toothpaste,0,11.0666666667,7.435,Yesh_France
+toothpaste,1,20.0666666667,16.9033333333,Yesh_France
+toothpaste,2,16.9,33.8,Yesh_France
+coconut cream,0,10.9,1.45,Yesh_France
+coconut cream,1,11.9,2.98,Yesh_France
+coconut cream,2,14.9,9.93,Yesh_France
+peanut snack,0,4.0,6.8225,Yesh_France
+peanut snack,1,15.4333333333,7.33333333333,Yesh_France
+peanut snack,2,24.2,8.07,Yesh_France
+orange,0,3.9,3.9,Yesh_France
+orange,1,4.9,4.9,Yesh_France
+orange,2,5.9,5.9,Yesh_France
+banana,0,7.9,7.9,Yesh_France
+banana,1,7.9,7.9,Yesh_France
+banana,2,7.9,7.9,Yesh_France
+coffee,0,15.2545454545,8.97090909091,Yesh_France
+coffee,1,27.85,12.9,Yesh_France
+coffee,2,37.3666666667,18.6833333333,Yesh_France
+oil,0,17.2,8.6,Yesh_France
+oil,1,17.2,8.6,Yesh_France
+oil,2,17.2,8.6,Yesh_France
+tampons,0,17.9,17.9,Yesh_France
+tampons,1,17.9,17.9,Yesh_France
+tampons,2,17.9,17.9,Yesh_France
+yellow cheese,0,19.9,5.255,Yesh_France
+yellow cheese,1,30.9,5.68,Yesh_France
+yellow cheese,2,15.5666666667,7.78333333333,Yesh_France
+cucumber,0,4.9,4.9,Yesh_France
+cucumber,1,4.9,4.9,Yesh_France
+cucumber,2,4.9,4.9,Yesh_France
+toilet paper,0,33.65,4.7825,Yesh_France
+toilet paper,1,46.9,8.73,Yesh_France
+toilet paper,2,29.9,29.9,Yesh_France
+bleach,0,6.9,1.73,Yesh_France
+bleach,1,11.4,1.925,Yesh_France
+bleach,2,15.9,2.12,Yesh_France
+pasta,0,5.87368421053,1.34263157895,Yesh_France
+pasta,1,20.4,5.105,Yesh_France
+pasta,2,9.9,7.62,Yesh_France
+fabric softener,0,12.9,1.43,Yesh_France
+fabric softener,1,19.6222222222,4.42555555556,Yesh_France
+fabric softener,2,15.9,15.9,Yesh_France
+bread,0,5.1,0.7625,Yesh_France
+bread,1,10.0,1.906,Yesh_France
+bread,2,10.15,10.15,Yesh_France
+tomato,0,3.9,3.9,Yesh_France
+tomato,1,3.9,3.9,Yesh_France
+tomato,2,3.9,3.9,Yesh_France
+onion,0,2.9,2.9,Yesh_France
+onion,1,3.9,3.9,Yesh_France
+onion,2,4.9,4.9,Yesh_France
+potato,0,2.9,2.9,Yesh_France
+potato,1,3.9,3.9,Yesh_France
+potato,2,14.9,14.9,Yesh_France
+frozen,0,12.72,2.228,Yesh_France
+frozen,1,18.9,3.70666666667,Yesh_France
+frozen,2,16.1,11.596,Yesh_France
+garbage bag,0,15.2333333333,15.2333333333,Yesh_France
+garbage bag,1,22.2333333333,22.2333333333,Yesh_France
+garbage bag,2,24.9,24.9,Yesh_France
+frozen ,0,19.9,2.49,Yesh_France
+frozen ,1,19.9,2.905,Yesh_France
+frozen ,2,19.9,3.32,Yesh_France
+bag,0,9.9,9.9,Yesh_France
+bag,1,12.9,12.9,Yesh_France
+bag,2,12.9,12.9,Yesh_France
+stain remover,0,20.9,3.39,Yesh_France
+stain remover,1,29.4,8.43,Yesh_France
+stain remover,2,32.9,24.37,Yesh_France
+hamburger,0,18.7166666667,4.14333333333,Yesh_Hanita
+hamburger,1,35.9,4.79,Yesh_Hanita
+hamburger,2,7.6,15.2,Yesh_Hanita
+apple,0,8.9,8.9,Yesh_Hanita
+apple,1,8.9,8.9,Yesh_Hanita
+apple,2,14.9,14.9,Yesh_Hanita
+fats remover,0,15.9,2.12,Yesh_Hanita
+fats remover,1,17.4,10.51,Yesh_Hanita
+fats remover,2,18.9,18.9,Yesh_Hanita
+deodorant,0,12.3285714286,6.16571428571,Yesh_Hanita
+deodorant,1,20.1857142857,17.4985714286,Yesh_Hanita
+deodorant,2,19.9,39.8,Yesh_Hanita
+Dish soap,0,9.9,1.678,Yesh_Hanita
+Dish soap,1,19.9,4.98,Yesh_Hanita
+Dish soap,2,14.0666666667,12.185,Yesh_Hanita
+pepper,0,7.9,7.9,Yesh_Hanita
+pepper,1,9.9,9.9,Yesh_Hanita
+pepper,2,9.9,9.9,Yesh_Hanita
+lettuce,0,7.9,7.9,Yesh_Hanita
+lettuce,1,7.9,7.9,Yesh_Hanita
+lettuce,2,7.9,7.9,Yesh_Hanita
+carrot,0,3.5,3.5,Yesh_Hanita
+carrot,1,3.5,3.5,Yesh_Hanita
+carrot,2,3.5,3.5,Yesh_Hanita
+fabric softener,0,15.1222222222,2.98555555556,Yesh_Hanita
+fabric softener,1,20.68,4.91933333333,Yesh_Hanita
+fabric softener,2,15.9,15.9,Yesh_Hanita
+yellow cheese,0,19.9,5.255,Yesh_Hanita
+yellow cheese,1,29.1,6.022,Yesh_Hanita
+yellow cheese,2,15.4,7.7,Yesh_Hanita
+lemon,0,5.9,5.9,Yesh_Hanita
+lemon,1,5.9,5.9,Yesh_Hanita
+lemon,2,5.9,5.9,Yesh_Hanita
+toothpaste,0,10.6142857143,5.97857142857,Yesh_Hanita
+toothpaste,1,11.5,15.454,Yesh_Hanita
+toothpaste,2,22.8333333333,26.8483333333,Yesh_Hanita
+milk,0,5.26666666667,2.79555555556,Yesh_Hanita
+milk,1,6.96785714286,6.76571428571,Yesh_Hanita
+milk,2,12.2571428571,7.14,Yesh_Hanita
+coconut cream,0,7.1,1.78,Yesh_Hanita
+coconut cream,1,11.4,2.215,Yesh_Hanita
+coconut cream,2,14.9,9.93,Yesh_Hanita
+peanut snack,0,18.1,6.25,Yesh_Hanita
+peanut snack,1,3.7,7.458,Yesh_Hanita
+peanut snack,2,24.2,8.07,Yesh_Hanita
+orange,0,4.9,4.9,Yesh_Hanita
+orange,1,5.4,5.4,Yesh_Hanita
+orange,2,5.9,5.9,Yesh_Hanita
+banana,0,7.9,7.9,Yesh_Hanita
+banana,1,7.9,7.9,Yesh_Hanita
+banana,2,7.9,7.9,Yesh_Hanita
+coffee,0,16.4416666667,8.2775,Yesh_Hanita
+coffee,1,29.3384615385,14.3861538462,Yesh_Hanita
+coffee,2,15.9,31.8,Yesh_Hanita
+oil,0,17.2,8.6,Yesh_Hanita
+oil,1,15.5,15.5,Yesh_Hanita
+oil,2,16.55,16.55,Yesh_Hanita
+tampons,0,17.9,17.9,Yesh_Hanita
+tampons,1,23.9,23.9,Yesh_Hanita
+tampons,2,28.6,28.6,Yesh_Hanita
+white cheese,0,6.89375,2.238125,Yesh_Hanita
+white cheese,1,21.425,3.335,Yesh_Hanita
+white cheese,2,13.1714285714,4.96714285714,Yesh_Hanita
+cucumber,0,5.9,5.9,Yesh_Hanita
+cucumber,1,7.9,7.9,Yesh_Hanita
+cucumber,2,9.9,9.9,Yesh_Hanita
+toilet paper,0,36.2333333333,5.30833333333,Yesh_Hanita
+toilet paper,1,16.9,16.9,Yesh_Hanita
+toilet paper,2,29.9,29.9,Yesh_Hanita
+bleach,0,6.9,1.73,Yesh_Hanita
+bleach,1,13.8333333333,1.84666666667,Yesh_Hanita
+bleach,2,8.9,17.8,Yesh_Hanita
+pasta,0,6.14666666667,1.38166666667,Yesh_Hanita
+pasta,1,17.79,4.308,Yesh_Hanita
+pasta,2,8.4,8.23,Yesh_Hanita
+cabbage,0,2.9,2.9,Yesh_Hanita
+cabbage,1,3.9,3.9,Yesh_Hanita
+cabbage,2,13.9,13.9,Yesh_Hanita
+bread,0,9.49,1.673,Yesh_Hanita
+bread,1,15.53125,2.551875,Yesh_Hanita
+bread,2,12.075,11.3825,Yesh_Hanita
+tomato,0,5.9,5.9,Yesh_Hanita
+tomato,1,5.9,5.9,Yesh_Hanita
+tomato,2,5.9,5.9,Yesh_Hanita
+onion,0,3.5,3.5,Yesh_Hanita
+onion,1,4.2,4.2,Yesh_Hanita
+onion,2,4.9,4.9,Yesh_Hanita
+potato,0,3.9,3.9,Yesh_Hanita
+potato,1,4.9,4.9,Yesh_Hanita
+potato,2,14.9,14.9,Yesh_Hanita
+frozen,0,10.95,2.1,Yesh_Hanita
+frozen,1,16.65,3.19,Yesh_Hanita
+frozen,2,16.1,11.596,Yesh_Hanita
+garbage bag,0,14.4,14.4,Yesh_Hanita
+garbage bag,1,18.4,18.4,Yesh_Hanita
+garbage bag,2,22.9,22.9,Yesh_Hanita
+frozen ,0,19.9,2.49,Yesh_Hanita
+frozen ,1,20.0,2.5,Yesh_Hanita
+frozen ,2,19.9,3.32,Yesh_Hanita
+bag,0,4.9,4.9,Yesh_Hanita
+bag,1,9.9,9.9,Yesh_Hanita
+bag,2,12.9,12.9,Yesh_Hanita
+stain remover,0,19.9,2.12,Yesh_Hanita
+stain remover,1,28.2333333333,8.49666666667,Yesh_Hanita
+stain remover,2,32.9,24.37,Yesh_Hanita
