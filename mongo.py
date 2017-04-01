@@ -90,18 +90,19 @@ class Database:
         return self.db.barcode_super_category_position.find()
 
 
-    def write_super_category_cluster_centers(self, super_category_cluster_centers):
-        self.db.cluster.update_one(
-            {"name": "super_category_cluster_centers"},
+    def write_super_category_cluster_centers(self, super_category_cluster_centers, branch_code):
+        node = {"_id": branch_code, "data": super_category_cluster_centers}
+        self.db.super_category_cluster_centers.update_one(
+            {"_id": node["_id"]},
             {
-                "$set": {"data": super_category_cluster_centers}
+                "$set": node
             },
             upsert=True
         )
 
 
     def read_super_category_cluster_centers(self):
-        return self.db.cluster.find_one({"name":"super_category_cluster_centers"})["data"]
+        return self.db.super_category_cluster_centers.find()
 
 
 
