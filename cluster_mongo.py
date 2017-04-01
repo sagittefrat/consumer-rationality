@@ -14,7 +14,6 @@ class Cluster:
 	def __init__ (self, data,categories=None):
 
 		self.data=data
-		self.chosen_categories=('cucumber','milk','toothpaste')
 		#categories is a tuple of strings
 		self.categories=categories
 		if self.categories==None:
@@ -113,8 +112,6 @@ class Cluster:
 		for category_name in categories:
 			super_name=self.data.super_name
 			self.cluster_category(category_name,super_name)
-
-			#return
 	
 
 def cluster_the_supermarkets_by_category_and_position():
@@ -153,7 +150,6 @@ def cluster_the_supermarkets_by_category_and_position():
 		for super_name in super_category_cluster_centers[category]:
 			if super_name==s:
 				x=super_category_cluster_centers[category][super_name]
-				#print category,x
 				#raw_input()
 				j=count
 
@@ -184,10 +180,7 @@ def cluster_the_supermarkets_by_category_and_position():
 
 		for i in xrange(0, len(datush_X[:,0])-1):
 			temp_list.append((category,datush_Y[i], pred[y_pred[i]],datush_X[i, 0],datush_X[i, 1]))
-			#pprint(temp_dict)
-			#if datush_Y[i]=='Shupersal-Deal_Haifa-mall':	
-			#writer1.writerow([category[0],int(category[1]),datush_Y[i], pred[y_pred[i]],datush_X[i, 0],datush_X[i, 1]])
-
+			
 		# number of features, in our case 2:price per unit and price for product
 		if category[0] in ('tomato','toothpaste','coffee'):
 			plt.scatter(datush_X[:, 0],datush_X[:, 1], c=y_pred,s=200)
@@ -203,6 +196,32 @@ def cluster_the_supermarkets_by_category_and_position():
 		writer= csv.writer(csvfile)
 		for row in temp_list:
 			writer.writerow(row)
+
+def cluster_on_all_files(path_name):
+	tasks_list = []
+	# a folder was sepcified:
+	if os.path.isdir(path_name):
+		for filename in os.listdir(path_name):
+			# create all the files to convert:
+			tasks_list.append(os.path.join(path_name, filename))
+
+	else:
+		tasks_list.append(path_name)
+
+	super_barcode_category = {}
+	super_category_cluster_centers = {}
+
+	db = mongo.Database()
+	for task in tasks_list:
+		data = Data(task)
+		clusti = Cluster(data)
+		super_name = data.get_super_name()
+		if super_barcode_category.has_key(super_name) == None:
+			super_barcode_category[super_name] = {}
+
+		clusti.cluster()
+		db.write_barcode_super_category_position(clusti.barcode_category,super_name)
+		db.write_super_category_cluster_centers(clusti.category_cluster_centers,super_name)
 
 if __name__ == '__main__' :
 	'''file_name=sys.argv[1]

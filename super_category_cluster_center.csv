@@ -61,8 +61,8 @@ yellow cheese,2,63.0,63.0,Shupersal-Shelly_Nativ-Hen
 cabbage,0,4.5,4.5,Shupersal-Shelly_Nativ-Hen
 cabbage,1,5.9,5.9,Shupersal-Shelly_Nativ-Hen
 cabbage,2,6.9,6.9,Shupersal-Shelly_Nativ-Hen
-toothpaste,0,12.3444444444,11.3222222222,Shupersal-Shelly_Nativ-Hen
-toothpaste,1,18.47,25.433,Shupersal-Shelly_Nativ-Hen
+toothpaste,0,13.3545454545,12.5181818182,Shupersal-Shelly_Nativ-Hen
+toothpaste,1,18.6125,27.31625,Shupersal-Shelly_Nativ-Hen
 toothpaste,2,23.3,46.6,Shupersal-Shelly_Nativ-Hen
 coconut cream,0,7.0,1.755,Shupersal-Shelly_Nativ-Hen
 coconut cream,1,9.4,1.825,Shupersal-Shelly_Nativ-Hen
@@ -124,8 +124,8 @@ apple,2,13.9,13.9,Shupersal-Express_Marganit
 deodorant,0,22.9,15.27,Shupersal-Express_Marganit
 deodorant,1,22.9,15.27,Shupersal-Express_Marganit
 deodorant,2,26.9,53.8,Shupersal-Express_Marganit
-milk,0,5.53125,5.11125,Shupersal-Express_Marganit
-milk,1,8.79111111111,7.19444444444,Shupersal-Express_Marganit
+milk,0,5.68333333333,5.31,Shupersal-Express_Marganit
+milk,1,9.0275,7.23125,Shupersal-Express_Marganit
 milk,2,14.2,10.3,Shupersal-Express_Marganit
 white cheese,0,4.6,1.84,Shupersal-Express_Marganit
 white cheese,1,10.0333333333,3.63666666667,Shupersal-Express_Marganit
@@ -173,8 +173,8 @@ fats remover,0,10.0,1.33,Shupersal-Deal_Haifa-mall
 fats remover,1,14.8,2.96,Shupersal-Deal_Haifa-mall
 fats remover,2,15.0,15.0,Shupersal-Deal_Haifa-mall
 deodorant,0,13.8891304348,9.5,Shupersal-Deal_Haifa-mall
-deodorant,1,15.2428571429,27.0785714286,Shupersal-Deal_Haifa-mall
-deodorant,2,24.1,41.4114285714,Shupersal-Deal_Haifa-mall
+deodorant,1,14.4692307692,26.8723076923,Shupersal-Deal_Haifa-mall
+deodorant,2,24.18,40.6346666667,Shupersal-Deal_Haifa-mall
 Dish soap,0,8.88333333333,1.32666666667,Shupersal-Deal_Haifa-mall
 Dish soap,1,11.2833333333,9.41,Shupersal-Deal_Haifa-mall
 Dish soap,2,15.9,15.74,Shupersal-Deal_Haifa-mall
@@ -220,9 +220,9 @@ toilet paper,2,13.2,13.2,Shupersal-Deal_Haifa-mall
 bleach,0,10.7222222222,2.28333333333,Shupersal-Deal_Haifa-mall
 bleach,1,6.9,3.45,Shupersal-Deal_Haifa-mall
 bleach,2,8.9,17.8,Shupersal-Deal_Haifa-mall
-pasta,0,6.17878787879,1.26484848485,Shupersal-Deal_Haifa-mall
-pasta,1,20.2571428571,4.63285714286,Shupersal-Deal_Haifa-mall
-pasta,2,12.66,4.866,Shupersal-Deal_Haifa-mall
+pasta,0,6.28823529412,1.30058823529,Shupersal-Deal_Haifa-mall
+pasta,1,21.6,4.794,Shupersal-Deal_Haifa-mall
+pasta,2,13.6818181818,4.96727272727,Shupersal-Deal_Haifa-mall
 fabric softener,0,13.0923076923,2.49923076923,Shupersal-Deal_Haifa-mall
 fabric softener,1,20.3,4.528,Shupersal-Deal_Haifa-mall
 fabric softener,2,15.1285714286,15.1285714286,Shupersal-Deal_Haifa-mall
@@ -265,8 +265,8 @@ deodorant,2,20.4451612903,36.0551612903,Shupersal-Deal_Grand-mall
 Dish soap,0,9.6,1.36785714286,Shupersal-Deal_Grand-mall
 Dish soap,1,11.9833333333,9.65666666667,Shupersal-Deal_Grand-mall
 Dish soap,2,16.4,16.32,Shupersal-Deal_Grand-mall
-pepper,0,8.9,8.9,Shupersal-Deal_Grand-mall
-pepper,1,10.15,10.15,Shupersal-Deal_Grand-mall
+pepper,0,9.65,9.65,Shupersal-Deal_Grand-mall
+pepper,1,10.9,10.9,Shupersal-Deal_Grand-mall
 pepper,2,12.9,12.9,Shupersal-Deal_Grand-mall
 lettuce,0,9.9,3.376,Shupersal-Deal_Grand-mall
 lettuce,1,7.12,7.12,Shupersal-Deal_Grand-mall
@@ -352,8 +352,8 @@ apple,2,15.4,15.4,Shuk_Haifa
 fats remover,0,12.9333333333,1.72333333333,Shuk_Haifa
 fats remover,1,17.9,17.9,Shuk_Haifa
 fats remover,2,24.9,24.9,Shuk_Haifa
-deodorant,0,13.6890625,8.70796875,Shuk_Haifa
-deodorant,1,17.6622222222,20.9308888889,Shuk_Haifa
+deodorant,0,13.65,8.50822580645,Shuk_Haifa
+deodorant,1,17.5446808511,20.6742553191,Shuk_Haifa
 deodorant,2,23.2333333333,42.9744444444,Shuk_Haifa
 Dish soap,0,8.22307692308,1.21461538462,Shuk_Haifa
 Dish soap,1,39.9,5.7,Shuk_Haifa
@@ -379,20 +379,20 @@ toothpaste,2,21.2125,26.77625,Shuk_Haifa
 coconut cream,0,4.9,1.23,Shuk_Haifa
 coconut cream,1,10.9,1.45,Shuk_Haifa
 coconut cream,2,13.95,11.45,Shuk_Haifa
-peanut snack,0,14.7333333333,5.86833333333,Shuk_Haifa
-peanut snack,1,4.08333333333,5.97916666667,Shuk_Haifa
-peanut snack,2,2.9,10.3133333333,Shuk_Haifa
+peanut snack,0,13.65,4.295,Shuk_Haifa
+peanut snack,1,3.84666666667,6.846,Shuk_Haifa
+peanut snack,2,16.9,9.015,Shuk_Haifa
 pepper,0,7.26,7.26,Shuk_Haifa
 pepper,1,10.9,10.9,Shuk_Haifa
 pepper,2,14.9,14.9,Shuk_Haifa
 oil,0,6.7,0.74,Shuk_Haifa
-oil,1,10.0,4.0,Shuk_Haifa
-oil,2,12.2666666667,8.61333333333,Shuk_Haifa
+oil,1,11.45,5.225,Shuk_Haifa
+oil,2,11.95,9.695,Shuk_Haifa
 tampons,0,17.9,0.763333333333,Shuk_Haifa
 tampons,1,24.1333333333,24.1333333333,Shuk_Haifa
 tampons,2,33.9,33.9,Shuk_Haifa
-yellow cheese,0,56.9366666667,5.69333333333,Shuk_Haifa
-yellow cheese,1,19.4260869565,6.57173913043,Shuk_Haifa
+yellow cheese,0,20.25,6.46125,Shuk_Haifa
+yellow cheese,1,65.805,6.58,Shuk_Haifa
 yellow cheese,2,42.35,42.35,Shuk_Haifa
 toilet paper,0,38.7571428571,0.79,Shuk_Haifa
 toilet paper,1,27.1,0.829090909091,Shuk_Haifa
@@ -685,21 +685,21 @@ apple,2,13.9,13.9,Shupersal-Shelly_Vardia
 fats remover,0,10.0,1.33,Shupersal-Shelly_Vardia
 fats remover,1,10.0,1.33,Shupersal-Shelly_Vardia
 fats remover,2,15.0,15.0,Shupersal-Shelly_Vardia
-deodorant,0,18.03,13.414,Shupersal-Shelly_Vardia
-deodorant,1,23.6142857143,39.5585714286,Shupersal-Shelly_Vardia
-deodorant,2,28.2,58.2533333333,Shupersal-Shelly_Vardia
+deodorant,0,12.92,10.558,Shupersal-Shelly_Vardia
+deodorant,1,21.9333333333,18.8583333333,Shupersal-Shelly_Vardia
+deodorant,2,27.2625,48.50875,Shupersal-Shelly_Vardia
 Dish soap,0,8.21428571429,1.15428571429,Shupersal-Shelly_Vardia
 Dish soap,1,12.22,2.032,Shupersal-Shelly_Vardia
 Dish soap,2,10.0,10.0,Shupersal-Shelly_Vardia
-coffee,0,16.275,9.835,Shupersal-Shelly_Vardia
-coffee,1,30.0,15.5866666667,Shupersal-Shelly_Vardia
+coffee,0,16.8615384615,9.99769230769,Shupersal-Shelly_Vardia
+coffee,1,30.7625,16.04125,Shupersal-Shelly_Vardia
 coffee,2,18.3777777778,28.7688888889,Shupersal-Shelly_Vardia
 lettuce,0,10.74,3.67,Shupersal-Shelly_Vardia
 lettuce,1,7.8,7.8,Shupersal-Shelly_Vardia
 lettuce,2,13.0,13.0,Shupersal-Shelly_Vardia
 milk,0,6.2875,1.72375,Shupersal-Shelly_Vardia
-milk,1,5.83571428571,5.83571428571,Shupersal-Shelly_Vardia
-milk,2,9.25333333333,8.10333333333,Shupersal-Shelly_Vardia
+milk,1,6.17625,5.82,Shupersal-Shelly_Vardia
+milk,2,9.32631578947,8.35526315789,Shupersal-Shelly_Vardia
 white cheese,0,5.75294117647,1.85411764706,Shupersal-Shelly_Vardia
 white cheese,1,12.3181818182,5.88272727273,Shupersal-Shelly_Vardia
 white cheese,2,39.3333333333,39.3333333333,Shupersal-Shelly_Vardia
@@ -709,9 +709,9 @@ toothpaste,2,23.3,46.6,Shupersal-Shelly_Vardia
 coconut cream,0,7.0,1.755,Shupersal-Shelly_Vardia
 coconut cream,1,9.9,2.48,Shupersal-Shelly_Vardia
 coconut cream,2,10.8,2.7,Shupersal-Shelly_Vardia
-peanut snack,0,4.13333333333,7.3675,Shupersal-Shelly_Vardia
+peanut snack,0,4.65384615385,7.40846153846,Shupersal-Shelly_Vardia
 peanut snack,1,25.9,8.63,Shupersal-Shelly_Vardia
-peanut snack,2,16.175,8.84,Shupersal-Shelly_Vardia
+peanut snack,2,17.9333333333,9.15333333333,Shupersal-Shelly_Vardia
 pepper,0,10.5666666667,10.5666666667,Shupersal-Shelly_Vardia
 pepper,1,11.9,11.9,Shupersal-Shelly_Vardia
 pepper,2,13.9,13.9,Shupersal-Shelly_Vardia
@@ -730,9 +730,9 @@ toilet paper,2,17.4,17.4,Shupersal-Shelly_Vardia
 bleach,0,9.14,2.164,Shupersal-Shelly_Vardia
 bleach,1,12.275,2.6975,Shupersal-Shelly_Vardia
 bleach,2,10.2,20.4,Shupersal-Shelly_Vardia
-pasta,0,6.88666666667,1.386,Shupersal-Shelly_Vardia
-pasta,1,18.24,4.408,Shupersal-Shelly_Vardia
-pasta,2,11.925,5.0225,Shupersal-Shelly_Vardia
+pasta,0,7.35882352941,1.54411764706,Shupersal-Shelly_Vardia
+pasta,1,17.0,4.47142857143,Shupersal-Shelly_Vardia
+pasta,2,12.0,10.0,Shupersal-Shelly_Vardia
 fabric softener,0,10.0,1.11,Shupersal-Shelly_Vardia
 fabric softener,1,20.275,3.9825,Shupersal-Shelly_Vardia
 fabric softener,2,15.0,15.0,Shupersal-Shelly_Vardia
@@ -782,8 +782,8 @@ lettuce,0,9.9,3.376,Shupersal-Deal_Eliezer
 lettuce,1,6.56666666667,6.56666666667,Shupersal-Deal_Eliezer
 lettuce,2,9.96666666667,9.96666666667,Shupersal-Deal_Eliezer
 milk,0,5.4,3.88047619048,Shupersal-Deal_Eliezer
-milk,1,8.57111111111,7.33148148148,Shupersal-Deal_Eliezer
-milk,2,15.12,8.692,Shupersal-Deal_Eliezer
+milk,1,13.12,7.126,Shupersal-Deal_Eliezer
+milk,2,7.99181818182,7.73409090909,Shupersal-Deal_Eliezer
 white cheese,0,5.71176470588,1.83882352941,Shupersal-Deal_Eliezer
 white cheese,1,13.35,4.951875,Shupersal-Deal_Eliezer
 white cheese,2,35.5,35.5,Shupersal-Deal_Eliezer
@@ -877,12 +877,12 @@ yellow cheese,2,61.75,61.75,Shupersal-Deal-Extra_Tel-Hanan
 toothpaste,0,12.7266666667,11.0926666667,Shupersal-Deal-Extra_Tel-Hanan
 toothpaste,1,17.7409090909,24.5540909091,Shupersal-Deal-Extra_Tel-Hanan
 toothpaste,2,21.9,43.8,Shupersal-Deal-Extra_Tel-Hanan
-coconut cream,0,9.20769230769,2.68846153846,Shupersal-Deal-Extra_Tel-Hanan
+coconut cream,0,8.76666666667,2.24083333333,Shupersal-Deal-Extra_Tel-Hanan
 coconut cream,1,29.6,9.87,Shupersal-Deal-Extra_Tel-Hanan
-coconut cream,2,17.8333333333,16.0666666667,Shupersal-Deal-Extra_Tel-Hanan
-peanut snack,0,12.5428571429,6.28714285714,Shupersal-Deal-Extra_Tel-Hanan
+coconut cream,2,17.0,14.065,Shupersal-Deal-Extra_Tel-Hanan
+peanut snack,0,11.8,6.155,Shupersal-Deal-Extra_Tel-Hanan
 peanut snack,1,4.2,6.85230769231,Shupersal-Deal-Extra_Tel-Hanan
-peanut snack,2,19.9333333333,11.79,Shupersal-Deal-Extra_Tel-Hanan
+peanut snack,2,19.2,10.6125,Shupersal-Deal-Extra_Tel-Hanan
 orange,0,4.9,4.9,Shupersal-Deal-Extra_Tel-Hanan
 orange,1,5.9,5.9,Shupersal-Deal-Extra_Tel-Hanan
 orange,2,6.9,6.9,Shupersal-Deal-Extra_Tel-Hanan
@@ -1090,9 +1090,9 @@ toilet paper,2,16.65,16.65,Shupersal-Shelly_Horev
 bleach,0,9.51428571429,2.29285714286,Shupersal-Shelly_Horev
 bleach,1,13.25,2.515,Shupersal-Shelly_Horev
 bleach,2,10.2,21.1566666667,Shupersal-Shelly_Horev
-pasta,0,7.44651162791,1.60023255814,Shupersal-Shelly_Horev
-pasta,1,19.65,4.91333333333,Shupersal-Shelly_Horev
-pasta,2,13.88,5.034,Shupersal-Shelly_Horev
+pasta,0,7.09230769231,1.48435897436,Shupersal-Shelly_Horev
+pasta,1,13.0285714286,4.37571428571,Shupersal-Shelly_Horev
+pasta,2,19.65,4.91333333333,Shupersal-Shelly_Horev
 fabric softener,0,11.225,1.33,Shupersal-Shelly_Horev
 fabric softener,1,19.4714285714,4.10785714286,Shupersal-Shelly_Horev
 fabric softener,2,15.725,15.725,Shupersal-Shelly_Horev
@@ -1216,8 +1216,8 @@ lettuce,2,7.9,7.9,Shupersal-Express_Raul
 milk,0,5.6,5.0,Shupersal-Express_Raul
 milk,1,12.8666666667,6.43333333333,Shupersal-Express_Raul
 milk,2,7.8025,7.44375,Shupersal-Express_Raul
-white cheese,0,4.6,1.84,Shupersal-Express_Raul
-white cheese,1,9.2,1.84,Shupersal-Express_Raul
+white cheese,0,9.2,1.84,Shupersal-Express_Raul
+white cheese,1,4.6,1.84,Shupersal-Express_Raul
 white cheese,2,12.7333333333,6.24166666667,Shupersal-Express_Raul
 toothpaste,0,17.9,17.9,Shupersal-Express_Raul
 toothpaste,1,17.9,17.9,Shupersal-Express_Raul
@@ -1372,9 +1372,9 @@ milk,2,7.7,7.38555555556,Yesh_France
 white cheese,0,4.7,1.88,Yesh_France
 white cheese,1,9.1,2.948,Yesh_France
 white cheese,2,15.45,4.005,Yesh_France
-toothpaste,0,11.0666666667,7.435,Yesh_France
-toothpaste,1,19.775,16.21625,Yesh_France
-toothpaste,2,16.9,33.8,Yesh_France
+toothpaste,0,11.7,5.762,Yesh_France
+toothpaste,1,18.0,17.333,Yesh_France
+toothpaste,2,19.9,39.8,Yesh_France
 coconut cream,0,10.9,1.45,Yesh_France
 coconut cream,1,11.9,2.98,Yesh_France
 coconut cream,2,14.9,9.93,Yesh_France
@@ -1523,8 +1523,8 @@ lettuce,0,10.74,3.67,Shupersal-Shelly_Sapir
 lettuce,1,8.0,8.0,Shupersal-Shelly_Sapir
 lettuce,2,12.2857142857,12.2857142857,Shupersal-Shelly_Sapir
 milk,0,5.53125,4.091875,Shupersal-Shelly_Sapir
-milk,1,13.2571428571,6.76714285714,Shupersal-Shelly_Sapir
-milk,2,8.41047619048,8.13904761905,Shupersal-Shelly_Sapir
+milk,1,13.0125,7.33375,Shupersal-Shelly_Sapir
+milk,2,8.266,7.981,Shupersal-Shelly_Sapir
 white cheese,0,5.75294117647,1.85411764706,Shupersal-Shelly_Sapir
 white cheese,1,13.35,5.07,Shupersal-Shelly_Sapir
 white cheese,2,39.0,39.0,Shupersal-Shelly_Sapir

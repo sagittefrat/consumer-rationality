@@ -21,12 +21,21 @@ LAHAV_BRANCHES = {30: 'Haifa', 63: 'Remez'}
 class Program_Options:
     def __init__(self, args):
 
+        '''parser = argparse.ArgumentParser(description='Process some integers.')
+        parser.add_argument('--existence-path', default='', help='path for csv files')
+        parser.add_argument('--destination-folder',  default='',help='destination for out csv files')
+        parser.add_argument('--clustering supermarkets',  default='',help='destination for out csv files')
+
+        args = parser.parse_args()
+        print(args.accumulate(args.integers))'''
+
+    
         try:
             opts, args = getopt.getopt(args,
                                        "e:d:p:c:s:b",
                                        ["existence-path=",
                                         "destination-folder=",
-                                        "position-file=",
+                                        "clustering supermarkets=",
                                         "clustering-files_path",
                                         "supermarket-list",
                                         "basket-name"
@@ -38,7 +47,7 @@ class Program_Options:
 
         self.existence_path = None
         self.destination_folder = None
-        self.position_file = None
+        self.clustering_supermarkets = None
         self.csv_file_path = None
         self.supermarkets_dict = None
 
@@ -55,18 +64,18 @@ class Program_Options:
             if opcode in ('-c', '--clustering-files_path'):
                 self.csv_file_path = oparg
 
-            if opcode in ('-p', '--position-file'):
-                self.position_file = oparg
+            if opcode in ('-p', '--clustering supermarkets'):
+                self.clustering_supermarkets = True
 
             if opcode in ('-s', '--supermarket-list'):
                 self.supermarkets_dict = self.get_super_from_list(oparg)
             else:
-                supermarkets_dict = CHAINS
+                self.supermarkets_dict = CHAINS
 
-            if opcode in ('-b', '--basket name'):
+            if opcode in ('-b', '--basket-name'):
                 self.basket_name = oparg
 
-    '''
+    
     this func recieves a text file and names the different supermarkets:
     '''
 
