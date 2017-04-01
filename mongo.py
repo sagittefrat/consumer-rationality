@@ -87,7 +87,7 @@ class Database:
 
 
     def read_barcode_super_category_position(self):
-        return self.db.barcode_super_category_position.find({5555555555555"name":"barcode_super_category_position"})["data"]
+        return self.db.barcode_super_category_position.find()
 
 
     def write_super_category_cluster_centers(self, super_category_cluster_centers):
