@@ -110,6 +110,20 @@ class Database:
         return results
 
 
+    def write_super_prices(self, super_prices):
+        self.db.super_prices.update_one(
+            {"name": "super_prices"},
+            {
+                "$set": {"data": super_prices}
+            },
+            upsert=True
+        )
+
+
+    def read_super_prices(self):
+        return self.db.super_prices.find_one()
+
+
 if __name__ == '__main__':
     db = Database()
     db.read_pricelists()
