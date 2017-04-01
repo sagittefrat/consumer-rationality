@@ -89,6 +89,20 @@ class Database:
         return self.db.cluster.find_one({"name":"barcode_super_category_position"})["data"]
 
 
+    def write_super_category_cluster_centers(self, super_category_cluster_centers):
+        self.db.cluster.update_one(
+            {"name": "super_category_cluster_centers"},
+            {
+                "$set": {"data": super_category_cluster_centers}
+            },
+            upsert=True
+        )
+
+
+    def read_super_category_cluster_centers(self):
+        return self.db.cluster.find_one({"name":"super_category_cluster_centers"})["data"]
+
+
 
 if __name__ == '__main__':
     db = Database()

@@ -66,6 +66,7 @@ def cluster_on_all_files(path_name):
 
     db = mongo.Database()
     db.write_barcode_super_category_position(super_barcode_category)
+    db.write_super_category_cluster_centers(super_category_cluster_centers)
 
 
 if __name__ == '__main__':
