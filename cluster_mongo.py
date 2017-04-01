@@ -85,9 +85,8 @@ class Cluster:
 
 		for i in xrange(0, count):
 
-			temp_dict[int(datush_Y[i,0])]=(y_pred[i], datush_X[i, 0],datush_X[i, 1])
-			#print pred[y_pred[i]], datush_X[i, 0],datush_X[i, 1]
-			self.barcode_category[int(datush_Y[i,0])]=(y_pred[i],category_name)
+			temp_dict[datush_Y[i,0]]=(str(y_pred[i]), str(datush_X[i, 0]),str(datush_X[i, 1]))
+			self.barcode_category[str(int(datush_Y[i,0]))]=(str(y_pred[i]),category_name)
 		
 		if self.super_name=='Shupersal-Shelly_Ziv' and category_name=='coffee':
 			# number of features, in our case 2:price per unit and price for product
@@ -97,9 +96,12 @@ class Cluster:
 			plt.text( 15,30,'Nescafe_Tasters-choice')
 			plt.show()
 
-		#print y.cluster_centers_
-
-		self.category_cluster_centers[category_name]=sorted(y.cluster_centers_, key=lambda t: t[0])
+	
+		sorted_centers=sorted(y.cluster_centers_, key=lambda t: t[0])
+		self.category_cluster_centers[category_name]=[]
+		for i in (0,1,2):
+			self.category_cluster_centers[category_name].append(str(sorted_centers[i]))
+			
 		self.category_barcodes[category_name]=temp_dict
 		
 
@@ -117,73 +119,72 @@ class Cluster:
 def cluster_the_supermarkets_by_category_and_position():
 
 	super_category_cluster_centers={}
-	
+	'''
 	with open('category_position_centers.csv', 'rb') as csvfile:
 		reader = csv.reader(csvfile)
 		for row in reader:
 			if (row[0],row[1]) not in super_category_cluster_centers:
 				super_category_cluster_centers[(row[0],row[1])]={}
-			super_category_cluster_centers[(row[0],row[1])][row[4]]=(row[2],row[3])
+			super_category_cluster_centers[(row[0],row[1])][row[4]]=(row[2],row[3])'''
+	
+	db = mongo.Database()
+	db.read_super_category_cluster_centers()
 		
+	temp_dict={ }
+	for category in super_category_cluster_centers:
+		
+		datush=super_category_cluster_centers[category]
+		if len(datush)<3: return 
 
-	with open('super_scores.csv', 'wb') as csvfile1:
-		writer1 = csv.writer(csvfile1)
-
-		temp_dict={ }
-		for category in super_category_cluster_centers:
+		# this is because SK-learn recieves np array:
+		datush_X=np.zeros((len(datush),2))
+		datush_Y=[]
+		
+		count=0
+		x,j=(0,0),0
+		s='Shupersal-Shelly_Ziv'
+		for super_name in super_category_cluster_centers[category]:
+			if super_name==s:
+				x=super_category_cluster_centers[category][super_name]
+				#print category,x
+				#raw_input()
+				j=count
 			
-			datush=super_category_cluster_centers[category]
-			if len(datush)<3: return 
+			datush_X[count][0]=super_category_cluster_centers[category][super_name][0]
+			datush_X[count][1]=super_category_cluster_centers[category][super_name][1]
+			datush_Y.append(super_name)
+			count+=1
+	
+		y = KMeans(n_clusters=3).fit(datush_X)
 
-			# this is because SK-learn recieves np array:
-			datush_X=np.zeros((len(datush),2))
-			datush_Y=[]
-			
-			count=0
-			x,j=(0,0),0
-			s='Shupersal-Shelly_Ziv'
-			for super_name in super_category_cluster_centers[category]:
-				if super_name==s:
-					x=super_category_cluster_centers[category][super_name]
-					#print category,x
-					#raw_input()
-					j=count
-				
-				datush_X[count][0]=super_category_cluster_centers[category][super_name][0]
-				datush_X[count][1]=super_category_cluster_centers[category][super_name][1]
-				datush_Y.append(super_name)
-				count+=1
-		
-			y = KMeans(n_clusters=3).fit(datush_X)
+		y_pred= y.predict(datush_X)
 
-			y_pred= y.predict(datush_X)
+		#sort the centers so 0-discount, 2-premium:
+		pred=[0,0,0]
+		center=[ 
+		[y.cluster_centers_[0][0],y.cluster_centers_[0][1],0], 
+		[y.cluster_centers_[1][0],y.cluster_centers_[1][1],1],
+		[y.cluster_centers_[2][0],y.cluster_centers_[2][1],2] 
+		]
+	
+		centers=sorted(center, key=lambda t: t[0])
+		for i in xrange(0,3):
+			if centers[0][2]==i : pred[i]=0
+			elif centers[1][2]==i: pred[i]=1
+			else: pred[i]=2
 
-			#sort the centers so 0-discount, 2-premium:
-			pred=[0,0,0]
-			center=[ 
-			[y.cluster_centers_[0][0],y.cluster_centers_[0][1],0], 
-			[y.cluster_centers_[1][0],y.cluster_centers_[1][1],1],
-			[y.cluster_centers_[2][0],y.cluster_centers_[2][1],2] 
-			]
-		
-			centers=sorted(center, key=lambda t: t[0])
-			for i in xrange(0,3):
-				if centers[0][2]==i : pred[i]=0
-				elif centers[1][2]==i: pred[i]=1
-				else: pred[i]=2
+		for i in xrange(0, len(datush_X[:,0])-1):
+			#if datush_Y[i]=='Shupersal-Deal_Haifa-mall':	
+			writer1.writerow([category[0],int(category[1]),datush_Y[i], pred[y_pred[i]],datush_X[i, 0],datush_X[i, 1]])
 
-			for i in xrange(0, len(datush_X[:,0])-1):
-				#if datush_Y[i]=='Shupersal-Deal_Haifa-mall':	
-				writer1.writerow([category[0],int(category[1]),datush_Y[i], pred[y_pred[i]],datush_X[i, 0],datush_X[i, 1]])
-
-			# number of features, in our case 2:price per unit and price for product
-			if category[0] in ('tomato','toothpaste','coffee'):
-				plt.scatter(datush_X[:, 0],datush_X[:, 1], c=y_pred,s=200)
-				title='category:'+category[0]+category[1]
-				plt.title(title)
-				plt.text(x[0], x[1],s)
-				#plt.savefig(' '+title+'.png')
-				plt.show()
+		# number of features, in our case 2:price per unit and price for product
+		if category[0] in ('tomato','toothpaste','coffee'):
+			plt.scatter(datush_X[:, 0],datush_X[:, 1], c=y_pred,s=200)
+			title='category:'+category[0]+category[1]
+			plt.title(title)
+			plt.text(x[0], x[1],s)
+			#plt.savefig(' '+title+'.png')
+			plt.show()
 
 
 if __name__ == '__main__' :

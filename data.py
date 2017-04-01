@@ -61,3 +61,14 @@ class Data:
 			print 'super_name2',super_name
 			return super_name
 
+	def get_super_id(self):
+		
+		# if there are already categories in the file:
+		if 'cat' in self.file_name :
+			task=self.file_name.split('-')
+			task=task[2:5]
+			super_id=(task[0],task[1],task[2])
+
+			print 'super_id',super_id
+			return super_id
+

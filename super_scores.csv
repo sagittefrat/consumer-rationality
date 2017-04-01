@@ -1,27 +1,25 @@
-yellow cheese,1,Shupersal-Shelly_Keler,2,37.974999999999994,37.974999999999994
-yellow cheese,1,Shupersal-Deal_Grand-mall,2,37.810000000000002,37.810000000000002
-yellow cheese,1,Shupersal-Shelly_Vardia,2,39.170000000000002,39.170000000000002
 yellow cheese,1,Shupersal-Shelly_Nativ-Hen,2,39.170000000000002,39.170000000000002
-yellow cheese,1,Shupersal-Express_Raul,0,15.890909090909091,7.9454545454545453
-yellow cheese,1,Yesh_Hanita,0,19.899999999999999,5.2550000000000008
+yellow cheese,1,Shupersal-Express_Marganit,0,15.144444444444444,7.572222222222222
+yellow cheese,1,Shupersal-Shelly_Keler,2,37.974999999999994,37.974999999999994
+yellow cheese,1,Shupersal-Deal-Extra_Tel-Hanan,2,36.825000000000003,36.825000000000003
+yellow cheese,1,Yesh_Hanita,1,19.899999999999999,5.2550000000000008
+yellow cheese,1,Shupersal-Deal_Grand-mall,2,37.810000000000002,37.810000000000002
+yellow cheese,1,Shupersal-Shelly_Denia,2,39.18333333333333,39.18333333333333
+yellow cheese,1,Shupersal-Shelly_Vardia,2,39.170000000000002,39.170000000000002
 yellow cheese,1,Shupersal-Express_Rambam,0,15.471428571428572,7.1471428571428568
 yellow cheese,1,Shupersal-Shelly_Ziv,2,38.157142857142858,38.157142857142858
-yellow cheese,1,Yesh_France,0,19.899999999999999,5.2550000000000008
-yellow cheese,1,Shupersal-Shelly_Carmel,2,39.170000000000002,39.170000000000002
-yellow cheese,1,Lahav_Haifa,1,34.049999999999997,0.053999999999999999
-yellow cheese,1,Shuk_Haifa,2,42.349999999999994,42.350000000000001
-yellow cheese,1,Victory_Haifa,1,30.283333333333331,5.8366666666666669
-yellow cheese,1,Shupersal-Deal-Extra_Tel-Hanan,2,36.825000000000003,36.825000000000003
-yellow cheese,1,Shupersal-Shelly_Sapir,2,39.18333333333333,39.183333333333337
-yellow cheese,1,Shupersal-Shelly_Stela,2,39.170000000000002,39.170000000000002
-yellow cheese,1,Shupersal-Shelly_Horev,2,38.137499999999996,38.137499999999996
-yellow cheese,1,Shupersal-Deal_Eliezer,2,38.514285714285712,38.51428571428572
-yellow cheese,1,Shupersal-Express_Marganit,0,15.144444444444444,7.572222222222222
-yellow cheese,1,Shupersal-Shelly_Denia,2,39.18333333333333,39.18333333333333
 yellow cheese,1,Shupersal-Deal_Admirality,2,37.478571428571428,37.478571428571428
+yellow cheese,1,Shupersal-Shelly_Stela,2,39.170000000000002,39.170000000000002
+yellow cheese,1,Shupersal-Express_Raul,0,15.890909090909091,7.9454545454545453
+yellow cheese,1,Yesh_France,1,19.899999999999999,5.2550000000000008
+yellow cheese,1,Shupersal-Shelly_Sapir,2,39.18333333333333,39.183333333333337
+yellow cheese,1,Shupersal-Shelly_Carmel,2,39.170000000000002,39.170000000000002
+yellow cheese,1,Shupersal-Shelly_Horev,2,38.137499999999996,38.137499999999996
+yellow cheese,1,Shupersal-Deal_Haifa-mall,2,36.341666666666669,36.341666666666669
+yellow cheese,1,Shupersal-Deal_Eliezer,2,38.514285714285712,38.51428571428572
 deodorant,0,Shupersal-Shelly_Nativ-Hen,0,12.113333333333333,7.9899999999999984
 deodorant,0,Shupersal-Express_Marganit,2,22.899999999999999,15.27
-deodorant,0,Victory_Haifa,0,13.90263157894737,9.8821052631578929
+deodorant,0,Shupersal-Shelly_Keler,0,14.327272727272726,11.17939393939394
 deodorant,0,Shupersal-Deal-Extra_Tel-Hanan,0,14.039622641509434,10.867641509433973
 deodorant,0,Yesh_Hanita,0,12.328571428571429,6.1657142857142846
 deodorant,0,Shupersal-Deal_Grand-mall,0,13.503333333333332,10.712499999999995
@@ -31,69 +29,61 @@ deodorant,0,Shupersal-Express_Rambam,1,18.699999999999999,24.93
 deodorant,0,Shupersal-Shelly_Ziv,1,14.550000000000001,27.158750000000001
 deodorant,0,Shupersal-Deal_Admirality,0,12.891764705882357,11.127529411764707
 deodorant,0,Shupersal-Shelly_Stela,0,12.03125,7.6150000000000002
-deodorant,0,Shupersal-Shelly_Keler,0,14.327272727272726,11.17939393939394
 deodorant,0,Yesh_France,0,13.4,6.7025000000000006
 deodorant,0,Shupersal-Shelly_Sapir,0,11.646666666666667,8.4519999999999964
 deodorant,0,Shupersal-Shelly_Carmel,0,11.808333333333334,8.0116666666666667
 deodorant,0,Shupersal-Shelly_Horev,0,15.35,11.603571428571428
 deodorant,0,Shupersal-Deal_Haifa-mall,0,13.889130434782608,9.5000000000000036
 deodorant,0,Shupersal-Deal_Eliezer,0,13.11132075471698,8.6360377358490545
-deodorant,0,Lahav_Haifa,0,14.693333333333332,0.11333333333333329
-hamburger,2,Shupersal-Shelly_Nativ-Hen,1,40.0,5.3300000000000001
-hamburger,2,Victory_Haifa,0,21.899999999999999,5.4350000000000005
-hamburger,2,Shupersal-Deal-Extra_Tel-Hanan,2,49.899999999999999,49.899999999999999
+hamburger,2,Shupersal-Shelly_Nativ-Hen,0,40.0,5.3300000000000001
+hamburger,2,Shupersal-Shelly_Keler,0,40.0,5.3300000000000001
+hamburger,2,Shupersal-Deal-Extra_Tel-Hanan,1,49.899999999999999,49.899999999999999
 hamburger,2,Yesh_Hanita,0,35.899999999999999,4.79
-hamburger,2,Shupersal-Deal_Grand-mall,1,41.799999999999997,5.6400000000000006
-hamburger,2,Shupersal-Shelly_Vardia,1,43.266666666666666,5.8333333333333339
-hamburger,2,Shupersal-Shelly_Denia,1,39.950000000000003,5.7800000000000002
-hamburger,2,Shupersal-Shelly_Ziv,1,39.950000000000003,5.7800000000000002
-hamburger,2,Shupersal-Deal_Admirality,1,49.899999999999999,5.9400000000000004
+hamburger,2,Shupersal-Deal_Grand-mall,0,41.799999999999997,5.6400000000000006
+hamburger,2,Shupersal-Shelly_Vardia,0,43.266666666666666,5.8333333333333339
+hamburger,2,Shupersal-Shelly_Denia,0,39.950000000000003,5.7800000000000002
+hamburger,2,Shupersal-Shelly_Ziv,0,39.950000000000003,5.7800000000000002
+hamburger,2,Shupersal-Deal_Admirality,2,49.899999999999999,5.9400000000000004
 hamburger,2,Shupersal-Shelly_Stela,0,32.600000000000001,6.04
-hamburger,2,Shupersal-Shelly_Keler,1,40.0,5.3300000000000001
-hamburger,2,Shupersal-Shelly_Sapir,1,49.899999999999999,5.9400000000000004
-hamburger,2,Shupersal-Shelly_Carmel,1,40.0,5.3300000000000001
-hamburger,2,Shupersal-Shelly_Horev,1,40.0,5.3300000000000001
-hamburger,2,Shupersal-Deal_Haifa-mall,1,37.75,5.4900000000000002
-hamburger,2,Shupersal-Deal_Eliezer,1,49.899999999999999,5.9400000000000004
-hamburger,2,Lahav_Haifa,0,30.633333333333333,0.056666666666666754
+hamburger,2,Shupersal-Shelly_Sapir,2,49.899999999999999,5.9400000000000004
+hamburger,2,Shupersal-Shelly_Carmel,0,40.0,5.3300000000000001
+hamburger,2,Shupersal-Shelly_Horev,0,40.0,5.3300000000000001
+hamburger,2,Shupersal-Deal_Haifa-mall,0,37.75,5.4900000000000002
+hamburger,2,Shupersal-Deal_Eliezer,2,49.899999999999999,5.9400000000000004
 fats remover,1,Shupersal-Shelly_Nativ-Hen,0,10.0,1.3300000000000001
-fats remover,1,Victory_Haifa,1,9.9000000000000004,9.9000000000000004
-fats remover,1,Shupersal-Deal-Extra_Tel-Hanan,2,14.800000000000001,2.7149999999999999
-fats remover,1,Shupersal-Deal_Grand-mall,2,14.800000000000001,2.96
+fats remover,1,Shupersal-Shelly_Keler,0,10.0,1.3300000000000001
+fats remover,1,Shupersal-Deal-Extra_Tel-Hanan,1,14.800000000000001,2.7149999999999999
+fats remover,1,Shupersal-Deal_Grand-mall,1,14.800000000000001,2.96
 fats remover,1,Shupersal-Shelly_Vardia,0,10.0,1.3300000000000001
 fats remover,1,Shupersal-Shelly_Ziv,0,10.0,1.3300000000000001
-fats remover,1,Shupersal-Deal_Admirality,1,15.0,15.0
+fats remover,1,Shupersal-Deal_Admirality,2,15.0,15.0
 fats remover,1,Shupersal-Shelly_Stela,0,10.0,1.3300000000000001
-fats remover,1,Shupersal-Shelly_Keler,0,10.0,1.3300000000000001
-fats remover,1,Shupersal-Shelly_Sapir,2,15.0,1.6699999999999999
+fats remover,1,Shupersal-Shelly_Sapir,1,15.0,1.6699999999999999
 fats remover,1,Shupersal-Shelly_Carmel,0,10.0,1.3300000000000001
-fats remover,1,Shupersal-Shelly_Horev,1,15.0,15.0
-fats remover,1,Shupersal-Deal_Haifa-mall,2,14.800000000000001,2.96
-fats remover,1,Shupersal-Deal_Eliezer,2,14.800000000000001,2.7149999999999999
-fats remover,1,Lahav_Haifa,2,18.199999999999999,0.024999999999999467
+fats remover,1,Shupersal-Shelly_Horev,2,15.0,15.0
+fats remover,1,Shupersal-Deal_Haifa-mall,1,14.800000000000001,2.96
+fats remover,1,Shupersal-Deal_Eliezer,1,14.800000000000001,2.7149999999999999
+pasta,1,Shupersal-Shelly_Nativ-Hen,2,13.862500000000001,5.5212500000000002
+pasta,1,Shupersal-Express_Marganit,1,13.1,10.08
 pasta,1,Shupersal-Shelly_Keler,2,13.092307692307694,4.4823076923076925
-pasta,1,Shupersal-Deal_Grand-mall,2,13.793749999999999,4.7024999999999997
-pasta,1,Shupersal-Shelly_Vardia,1,12.0,10.0
-pasta,1,Shupersal-Shelly_Nativ-Hen,2,12.875,4.5908333333333333
-pasta,1,Shupersal-Express_Raul,0,7.7000000000000002,1.54
+pasta,1,Shupersal-Deal-Extra_Tel-Hanan,2,15.922222222222221,5.1944444444444446
 pasta,1,Yesh_Hanita,2,13.68,4.29
+pasta,1,Shupersal-Deal_Grand-mall,2,13.793749999999999,4.7024999999999997
+pasta,1,Shupersal-Shelly_Denia,2,12.911111111111111,5.3555555555555561
+pasta,1,Shupersal-Shelly_Vardia,2,12.31111111111111,4.8066666666666666
 pasta,1,Shupersal-Express_Rambam,0,7.7999999999999998,1.5600000000000001
 pasta,1,Shupersal-Shelly_Ziv,1,12.525,10.227500000000001
-pasta,1,Yesh_France,1,9.9000000000000004,7.6200000000000001
-pasta,1,Shupersal-Shelly_Carmel,2,13.245454545454546,3.580909090909091
-pasta,1,Lahav_Haifa,2,17.118181818181817,1.990909090909091
-pasta,1,Shuk_Haifa,2,17.846153846153847,4.8546153846153848
-pasta,1,Victory_Haifa,1,11.4,8.1649999999999991
-pasta,1,Shupersal-Deal-Extra_Tel-Hanan,2,15.922222222222221,5.1944444444444446
-pasta,1,Shupersal-Shelly_Sapir,2,13.072727272727272,4.749090909090909
-pasta,1,Shupersal-Shelly_Stela,2,13.208333333333334,4.7675000000000001
-pasta,1,Shupersal-Shelly_Horev,2,13.028571428571428,4.3757142857142863
-pasta,1,Shupersal-Deal_Eliezer,2,12.663636363636364,5.7799999999999994
-pasta,1,Shupersal-Express_Marganit,1,13.1,10.08
-pasta,1,Shupersal-Shelly_Denia,2,12.911111111111111,5.3555555555555561
 pasta,1,Shupersal-Deal_Admirality,2,12.528571428571428,5.9414285714285722
+pasta,1,Shupersal-Shelly_Stela,2,13.208333333333334,4.7675000000000001
+pasta,1,Shupersal-Express_Raul,0,7.7000000000000002,1.54
+pasta,1,Yesh_France,1,9.9000000000000004,7.6200000000000001
+pasta,1,Shupersal-Shelly_Sapir,2,12.780000000000001,4.9039999999999999
+pasta,1,Shupersal-Shelly_Carmel,2,13.245454545454546,3.580909090909091
+pasta,1,Shupersal-Shelly_Horev,2,13.028571428571428,4.3757142857142863
+pasta,1,Shupersal-Deal_Haifa-mall,2,13.681818181818182,4.9672727272727268
+pasta,1,Shupersal-Deal_Eliezer,2,12.663636363636364,5.7799999999999994
 Dish soap,2,Shupersal-Shelly_Nativ-Hen,0,12.266666666666667,2.0133333333333332
-Dish soap,2,Victory_Haifa,2,69.900000000000006,1.0
+Dish soap,2,Shupersal-Shelly_Keler,0,12.266666666666667,2.0133333333333336
 Dish soap,2,Shupersal-Deal-Extra_Tel-Hanan,1,16.399999999999999,16.32
 Dish soap,2,Yesh_Hanita,0,19.899999999999999,4.9800000000000004
 Dish soap,2,Shupersal-Deal_Grand-mall,1,16.399999999999999,16.32
@@ -102,18 +92,16 @@ Dish soap,2,Shupersal-Shelly_Denia,0,12.483333333333334,1.915
 Dish soap,2,Shupersal-Shelly_Ziv,0,12.266666666666667,2.0133333333333336
 Dish soap,2,Shupersal-Deal_Admirality,1,16.399999999999999,16.32
 Dish soap,2,Shupersal-Shelly_Stela,0,12.266666666666667,2.0133333333333332
-Dish soap,2,Shupersal-Shelly_Keler,0,12.266666666666667,2.0133333333333336
-Dish soap,2,Yesh_France,0,19.899999999999999,4.9800000000000004
 Dish soap,2,Shupersal-Express_Raul,1,12.9,12.900000000000002
+Dish soap,2,Yesh_France,0,19.899999999999999,4.9800000000000004
 Dish soap,2,Shupersal-Shelly_Sapir,0,12.6,2.0383333333333331
 Dish soap,2,Shupersal-Shelly_Carmel,0,12.6,2.0383333333333336
 Dish soap,2,Shupersal-Shelly_Horev,1,16.899999999999999,16.899999999999999
 Dish soap,2,Shupersal-Deal_Haifa-mall,1,15.9,15.740000000000002
 Dish soap,2,Shupersal-Deal_Eliezer,1,15.9,15.74
-Dish soap,2,Lahav_Haifa,1,23.699999999999996,9.9000000000000004
 frozen ,2,Shupersal-Shelly_Nativ-Hen,2,26.183333333333334,3.4550000000000001
 frozen ,2,Shupersal-Express_Marganit,0,21.699999999999999,2.71
-frozen ,2,Victory_Haifa,1,23.174999999999997,3.375
+frozen ,2,Shupersal-Shelly_Keler,2,26.66,3.5499999999999998
 frozen ,2,Shupersal-Deal-Extra_Tel-Hanan,1,23.662499999999998,3.2012499999999999
 frozen ,2,Yesh_Hanita,0,20.0,2.5
 frozen ,2,Shupersal-Deal_Grand-mall,1,23.662499999999998,3.2012499999999999
@@ -123,55 +111,49 @@ frozen ,2,Shupersal-Express_Rambam,0,20.600000000000001,2.5800000000000001
 frozen ,2,Shupersal-Shelly_Ziv,2,26.183333333333334,3.4550000000000001
 frozen ,2,Shupersal-Deal_Admirality,1,24.083333333333332,3.335
 frozen ,2,Shupersal-Shelly_Stela,2,26.183333333333334,3.4550000000000001
-frozen ,2,Shupersal-Shelly_Keler,2,26.66,3.5499999999999998
 frozen ,2,Shupersal-Express_Raul,2,28.899999999999999,3.6099999999999999
 frozen ,2,Shupersal-Shelly_Sapir,2,25.31111111111111,3.3955555555555557
 frozen ,2,Shupersal-Shelly_Carmel,2,26.183333333333334,3.4550000000000001
 frozen ,2,Shupersal-Shelly_Horev,2,25.612500000000001,3.4624999999999999
 frozen ,2,Shupersal-Deal_Haifa-mall,1,24.32,3.238
 frozen ,2,Shupersal-Deal_Eliezer,1,24.32,3.238
-frozen ,2,Lahav_Haifa,0,21.219999999999999,0.028000000000000136
 onion,0,Shupersal-Shelly_Nativ-Hen,2,5.9000000000000004,5.9000000000000004
 onion,0,Shupersal-Express_Marganit,2,5.9000000000000004,5.9000000000000004
-onion,0,Victory_Haifa,0,3.8999999999999999,3.8999999999999999
+onion,0,Shupersal-Shelly_Keler,2,5.9000000000000004,5.9000000000000004
 onion,0,Shupersal-Deal-Extra_Tel-Hanan,2,5.5666666666666664,5.5666666666666664
 onion,0,Shupersal-Deal_Grand-mall,2,5.5666666666666664,5.5666666666666664
 onion,0,Shupersal-Shelly_Vardia,2,5.9000000000000004,5.9000000000000004
 onion,0,Shupersal-Shelly_Denia,2,5.9000000000000004,5.9000000000000004
 onion,0,Shupersal-Shelly_Ziv,2,5.9000000000000004,5.9000000000000004
-onion,0,Shupersal-Deal_Admirality,2,5.5666666666666664,5.5666666666666664
+onion,0,Shupersal-Deal_Admirality,1,4.9000000000000004,4.9000000000000004
 onion,0,Shupersal-Shelly_Stela,2,5.9000000000000004,5.9000000000000004
-onion,0,Shupersal-Shelly_Keler,2,5.9000000000000004,5.9000000000000004
-onion,0,Shupersal-Express_Raul,2,4.9000000000000004,4.9000000000000004
+onion,0,Shupersal-Express_Raul,1,4.9000000000000004,4.9000000000000004
 onion,0,Shupersal-Shelly_Sapir,2,6.5666666666666664,6.5666666666666664
 onion,0,Shupersal-Shelly_Carmel,2,5.9000000000000004,5.9000000000000004
 onion,0,Shupersal-Shelly_Horev,2,6.5666666666666664,6.5666666666666664
-onion,0,Shupersal-Deal_Haifa-mall,2,4.9000000000000004,4.9000000000000004
-onion,0,Shupersal-Deal_Eliezer,2,4.9000000000000004,4.9000000000000004
-onion,0,Lahav_Haifa,1,4.2666666666666675,0.013333333333333419
-yellow cheese,0,Shupersal-Shelly_Keler,2,18.229166666666668,6.9470833333333282
-yellow cheese,0,Shupersal-Deal_Grand-mall,2,17.944827586206898,6.4796551724137963
-yellow cheese,0,Shupersal-Shelly_Vardia,2,17.206249999999997,7.1525000000000034
+onion,0,Shupersal-Deal_Haifa-mall,1,4.9000000000000004,4.9000000000000004
+onion,0,Shupersal-Deal_Eliezer,1,4.9000000000000004,4.9000000000000004
 yellow cheese,0,Shupersal-Shelly_Nativ-Hen,2,17.805000000000003,6.8269999999999982
-yellow cheese,0,Shupersal-Express_Raul,0,9.9666666666666686,5.9399999999999995
-yellow cheese,0,Yesh_Hanita,2,15.399999999999999,7.7000000000000002
+yellow cheese,0,Shupersal-Express_Marganit,0,6.2999999999999989,4.2000000000000002
+yellow cheese,0,Shupersal-Shelly_Keler,2,18.229166666666668,6.9470833333333282
+yellow cheese,0,Shupersal-Deal-Extra_Tel-Hanan,2,17.767741935483873,6.3874193548387073
+yellow cheese,0,Yesh_Hanita,1,15.399999999999999,7.7000000000000002
+yellow cheese,0,Shupersal-Deal_Grand-mall,2,17.944827586206898,6.4796551724137963
+yellow cheese,0,Shupersal-Shelly_Denia,2,16.990476190476187,6.8561904761904735
+yellow cheese,0,Shupersal-Shelly_Vardia,2,17.206249999999997,7.1525000000000034
 yellow cheese,0,Shupersal-Express_Rambam,0,6.2999999999999989,4.2000000000000002
 yellow cheese,0,Shupersal-Shelly_Ziv,2,17.583333333333336,6.8895833333333343
-yellow cheese,0,Yesh_France,2,15.566666666666666,7.7833333333333332
-yellow cheese,0,Shupersal-Shelly_Carmel,2,18.077272727272724,6.8945454545454581
-yellow cheese,0,Lahav_Haifa,1,16.529411764705884,0.075294117647058817
-yellow cheese,0,Shuk_Haifa,2,20.25,6.4612500000000006
-yellow cheese,0,Victory_Haifa,2,16.199999999999999,6.9850000000000003
-yellow cheese,0,Shupersal-Deal-Extra_Tel-Hanan,2,17.767741935483873,6.3874193548387073
-yellow cheese,0,Shupersal-Shelly_Sapir,2,18.461904761904762,6.9847619047619034
-yellow cheese,0,Shupersal-Shelly_Stela,2,18.156521739130433,6.8352173913043437
-yellow cheese,0,Shupersal-Shelly_Horev,2,17.424999999999997,6.8275000000000006
-yellow cheese,0,Shupersal-Deal_Eliezer,2,17.480769230769226,6.5207692307692273
-yellow cheese,0,Shupersal-Express_Marganit,0,6.2999999999999989,4.2000000000000002
-yellow cheese,0,Shupersal-Shelly_Denia,2,16.990476190476187,6.8561904761904735
 yellow cheese,0,Shupersal-Deal_Admirality,2,17.776923076923076,6.6957692307692334
+yellow cheese,0,Shupersal-Shelly_Stela,2,18.156521739130433,6.8352173913043437
+yellow cheese,0,Shupersal-Express_Raul,0,9.9666666666666686,5.9399999999999995
+yellow cheese,0,Yesh_France,1,15.566666666666666,7.7833333333333332
+yellow cheese,0,Shupersal-Shelly_Sapir,2,18.461904761904762,6.9847619047619034
+yellow cheese,0,Shupersal-Shelly_Carmel,2,18.077272727272724,6.8945454545454581
+yellow cheese,0,Shupersal-Shelly_Horev,2,17.424999999999997,6.8275000000000006
+yellow cheese,0,Shupersal-Deal_Haifa-mall,2,17.656521739130433,6.6995652173913101
+yellow cheese,0,Shupersal-Deal_Eliezer,2,17.480769230769226,6.5207692307692273
 lettuce,2,Shupersal-Shelly_Nativ-Hen,1,10.9,4.1166666666666671
-lettuce,2,Victory_Haifa,0,10.0,10.0
+lettuce,2,Shupersal-Shelly_Keler,2,12.24,12.24
 lettuce,2,Shupersal-Deal-Extra_Tel-Hanan,2,11.800000000000001,11.800000000000001
 lettuce,2,Shupersal-Deal_Grand-mall,2,11.85,11.850000000000001
 lettuce,2,Shupersal-Shelly_Vardia,2,13.0,13.0
@@ -179,77 +161,69 @@ lettuce,2,Shupersal-Shelly_Denia,2,12.24,12.24
 lettuce,2,Shupersal-Shelly_Ziv,2,12.75,12.75
 lettuce,2,Shupersal-Deal_Admirality,2,12.039999999999999,12.039999999999999
 lettuce,2,Shupersal-Shelly_Stela,2,11.9,11.9
-lettuce,2,Shupersal-Shelly_Keler,2,12.24,12.24
 lettuce,2,Shupersal-Express_Raul,1,9.9000000000000004,3.96
 lettuce,2,Shupersal-Shelly_Sapir,2,12.285714285714286,12.285714285714286
 lettuce,2,Shupersal-Shelly_Carmel,2,12.175000000000001,12.175000000000001
 lettuce,2,Shupersal-Shelly_Horev,2,12.285714285714286,12.285714285714286
 lettuce,2,Shupersal-Deal_Haifa-mall,2,12.25,12.25
-lettuce,2,Shupersal-Deal_Eliezer,1,9.9000000000000004,3.3759999999999999
-lettuce,2,Lahav_Haifa,0,7.6000000000000005,7.5999999999999996
-pasta,0,Shupersal-Shelly_Keler,1,6.9375,1.3996875
-pasta,0,Shupersal-Deal_Grand-mall,1,6.6863636363636383,1.4311363636363643
-pasta,0,Shupersal-Shelly_Vardia,1,7.3588235294117652,1.5441176470588238
-pasta,0,Shupersal-Shelly_Nativ-Hen,1,6.7933333333333339,1.3803333333333334
-pasta,0,Shupersal-Express_Raul,0,5.7000000000000011,1.1400000000000001
-pasta,0,Yesh_Hanita,0,6.0565217391304351,1.2713043478260866
-pasta,0,Shupersal-Express_Rambam,0,5.125,1.0249999999999999
-pasta,0,Shupersal-Shelly_Ziv,1,7.3916666666666675,1.5566666666666671
-pasta,0,Yesh_France,0,5.7230769230769223,1.1446153846153846
-pasta,0,Shupersal-Shelly_Carmel,1,6.968571428571428,1.4345714285714291
-pasta,0,Lahav_Haifa,2,6.9395833333333332,0.016666666666666163
-pasta,0,Shuk_Haifa,1,6.6227272727272748,1.655909090909091
-pasta,0,Victory_Haifa,1,6.68139534883721,1.4613953488372087
-pasta,0,Shupersal-Deal-Extra_Tel-Hanan,1,6.4958333333333309,1.3433333333333333
-pasta,0,Shupersal-Shelly_Sapir,1,6.9437500000000014,1.4131249999999997
-pasta,0,Shupersal-Shelly_Stela,1,6.9567567567567572,1.4194594594594594
-pasta,0,Shupersal-Shelly_Horev,1,7.092307692307692,1.4843589743589742
-pasta,0,Shupersal-Deal_Eliezer,1,6.6347826086956516,1.4102173913043481
+lettuce,2,Shupersal-Deal_Eliezer,0,9.9666666666666668,9.9666666666666668
+pasta,0,Shupersal-Shelly_Nativ-Hen,2,7.2764705882352949,1.5391176470588237
 pasta,0,Shupersal-Express_Marganit,1,6.4000000000000004,1.355
-pasta,0,Shupersal-Shelly_Denia,1,6.9933333333333332,1.4203333333333334
+pasta,0,Shupersal-Shelly_Keler,2,6.9375,1.3996875
+pasta,0,Shupersal-Deal-Extra_Tel-Hanan,1,6.4958333333333309,1.3433333333333333
+pasta,0,Yesh_Hanita,1,6.0565217391304351,1.2713043478260866
+pasta,0,Shupersal-Deal_Grand-mall,1,6.6863636363636383,1.4311363636363643
+pasta,0,Shupersal-Shelly_Denia,2,6.9933333333333332,1.4203333333333334
+pasta,0,Shupersal-Shelly_Vardia,2,6.8866666666666676,1.3860000000000003
+pasta,0,Shupersal-Express_Rambam,0,5.125,1.0249999999999999
+pasta,0,Shupersal-Shelly_Ziv,2,7.3916666666666675,1.5566666666666671
 pasta,0,Shupersal-Deal_Admirality,1,6.5875000000000004,1.4306250000000009
-apple,0,Shupersal-Shelly_Keler,1,9.9000000000000004,9.9000000000000004
-apple,0,Shupersal-Deal_Grand-mall,1,8.9000000000000004,8.9000000000000004
-apple,0,Shupersal-Shelly_Vardia,1,9.9000000000000004,9.9000000000000004
-apple,0,Shupersal-Shelly_Nativ-Hen,1,9.9000000000000004,9.9000000000000004
-apple,0,Shupersal-Express_Raul,1,9.9000000000000004,9.9000000000000004
-apple,0,Yesh_Hanita,1,8.9000000000000004,8.9000000000000004
-apple,0,Shupersal-Express_Rambam,1,9.9000000000000004,9.9000000000000004
-apple,0,Shupersal-Shelly_Ziv,1,9.9000000000000004,9.9000000000000004
-apple,0,Yesh_France,1,9.9000000000000004,9.9000000000000004
-apple,0,Shupersal-Shelly_Carmel,1,9.9000000000000004,9.9000000000000004
-apple,0,Lahav_Haifa,2,10.4,0.0099999999999997868
-apple,0,Shuk_Haifa,0,5.9000000000000004,5.9000000000000004
-apple,0,Victory_Haifa,0,5.9000000000000004,5.9000000000000004
+pasta,0,Shupersal-Shelly_Stela,2,6.9567567567567572,1.4194594594594594
+pasta,0,Shupersal-Express_Raul,0,5.7000000000000011,1.1400000000000001
+pasta,0,Yesh_France,0,5.7230769230769223,1.1446153846153846
+pasta,0,Shupersal-Shelly_Sapir,2,6.9437500000000014,1.4131249999999997
+pasta,0,Shupersal-Shelly_Carmel,2,6.968571428571428,1.4345714285714291
+pasta,0,Shupersal-Shelly_Horev,2,7.092307692307692,1.4843589743589742
+pasta,0,Shupersal-Deal_Haifa-mall,1,6.2882352941176469,1.3005882352941178
+pasta,0,Shupersal-Deal_Eliezer,1,6.6347826086956516,1.4102173913043481
+apple,0,Shupersal-Shelly_Nativ-Hen,2,9.9000000000000004,9.9000000000000004
+apple,0,Shupersal-Express_Marganit,2,9.9000000000000004,9.9000000000000004
+apple,0,Shupersal-Shelly_Keler,2,9.9000000000000004,9.9000000000000004
 apple,0,Shupersal-Deal-Extra_Tel-Hanan,1,8.9000000000000004,8.9000000000000004
-apple,0,Shupersal-Shelly_Sapir,1,9.9000000000000004,9.9000000000000004
-apple,0,Shupersal-Shelly_Stela,1,9.9000000000000004,9.9000000000000004
-apple,0,Shupersal-Shelly_Horev,1,9.9000000000000004,9.9000000000000004
-apple,0,Shupersal-Deal_Eliezer,1,8.9000000000000004,8.9000000000000004
-apple,0,Shupersal-Express_Marganit,1,9.9000000000000004,9.9000000000000004
-apple,0,Shupersal-Shelly_Denia,1,9.9000000000000004,9.9000000000000004
+apple,0,Yesh_Hanita,1,8.9000000000000004,8.9000000000000004
+apple,0,Shupersal-Deal_Grand-mall,1,8.9000000000000004,8.9000000000000004
+apple,0,Shupersal-Shelly_Denia,2,9.9000000000000004,9.9000000000000004
+apple,0,Shupersal-Shelly_Vardia,2,9.9000000000000004,9.9000000000000004
+apple,0,Shupersal-Express_Rambam,2,9.9000000000000004,9.9000000000000004
+apple,0,Shupersal-Shelly_Ziv,2,9.9000000000000004,9.9000000000000004
 apple,0,Shupersal-Deal_Admirality,1,8.9000000000000004,8.9000000000000004
+apple,0,Shupersal-Shelly_Stela,2,9.9000000000000004,9.9000000000000004
+apple,0,Shupersal-Express_Raul,2,9.9000000000000004,9.9000000000000004
+apple,0,Yesh_France,2,9.9000000000000004,9.9000000000000004
+apple,0,Shupersal-Shelly_Sapir,2,9.9000000000000004,9.9000000000000004
+apple,0,Shupersal-Shelly_Carmel,2,9.9000000000000004,9.9000000000000004
+apple,0,Shupersal-Shelly_Horev,2,9.9000000000000004,9.9000000000000004
+apple,0,Shupersal-Deal_Haifa-mall,1,8.9000000000000004,8.9000000000000004
+apple,0,Shupersal-Deal_Eliezer,1,8.9000000000000004,8.9000000000000004
 onion,1,Shupersal-Shelly_Nativ-Hen,1,6.9000000000000004,6.9000000000000004
 onion,1,Shupersal-Express_Marganit,1,6.9000000000000004,6.9000000000000004
-onion,1,Victory_Haifa,0,5.9500000000000002,5.9500000000000002
+onion,1,Shupersal-Shelly_Keler,1,6.9000000000000004,6.9000000000000004
 onion,1,Shupersal-Deal-Extra_Tel-Hanan,1,6.9000000000000004,6.9000000000000004
 onion,1,Shupersal-Deal_Grand-mall,1,6.9000000000000004,6.9000000000000004
 onion,1,Shupersal-Shelly_Vardia,1,6.9000000000000004,6.9000000000000004
 onion,1,Shupersal-Shelly_Denia,1,6.9000000000000004,6.9000000000000004
 onion,1,Shupersal-Shelly_Ziv,1,6.9000000000000004,6.9000000000000004
-onion,1,Shupersal-Deal_Admirality,1,6.9000000000000004,6.9000000000000004
+onion,1,Shupersal-Deal_Admirality,0,6.2333333333333343,6.2333333333333343
 onion,1,Shupersal-Shelly_Stela,1,6.9000000000000004,6.9000000000000004
-onion,1,Shupersal-Shelly_Keler,1,6.9000000000000004,6.9000000000000004
 onion,1,Shupersal-Express_Raul,1,6.9000000000000004,6.9000000000000004
 onion,1,Shupersal-Shelly_Sapir,2,7.9000000000000004,7.9000000000000004
 onion,1,Shupersal-Shelly_Carmel,1,6.9000000000000004,6.9000000000000004
 onion,1,Shupersal-Shelly_Horev,2,8.2333333333333343,8.2333333333333343
 onion,1,Shupersal-Deal_Haifa-mall,0,5.9000000000000004,5.9000000000000004
 onion,1,Shupersal-Deal_Eliezer,0,5.9000000000000004,5.9000000000000004
-onion,1,Lahav_Haifa,0,4.9000000000000004,4.9000000000000004
 garbage bag,2,Shupersal-Shelly_Nativ-Hen,2,28.5,28.5
 garbage bag,2,Shupersal-Express_Marganit,2,28.199999999999999,28.199999999999999
-garbage bag,2,Victory_Haifa,0,23.199999999999999,23.199999999999996
+garbage bag,2,Shupersal-Shelly_Keler,2,28.866666666666667,28.866666666666667
 garbage bag,2,Shupersal-Deal-Extra_Tel-Hanan,1,25.857142857142858,25.857142857142858
 garbage bag,2,Yesh_Hanita,0,22.899999999999999,22.899999999999999
 garbage bag,2,Shupersal-Deal_Grand-mall,1,26.016666666666666,26.016666666666666
@@ -258,17 +232,15 @@ garbage bag,2,Shupersal-Shelly_Denia,2,28.5,28.5
 garbage bag,2,Shupersal-Shelly_Ziv,2,28.866666666666667,28.866666666666667
 garbage bag,2,Shupersal-Deal_Admirality,1,25.857142857142854,25.857142857142854
 garbage bag,2,Shupersal-Shelly_Stela,2,29.233333333333334,29.233333333333334
-garbage bag,2,Shupersal-Shelly_Keler,2,28.866666666666667,28.866666666666667
-garbage bag,2,Yesh_France,1,24.899999999999999,24.899999999999999
 garbage bag,2,Shupersal-Express_Raul,0,23.899999999999999,23.899999999999999
+garbage bag,2,Yesh_France,1,24.899999999999999,24.899999999999999
 garbage bag,2,Shupersal-Shelly_Sapir,2,28.866666666666667,28.866666666666667
 garbage bag,2,Shupersal-Shelly_Carmel,2,29.050000000000001,29.050000000000001
 garbage bag,2,Shupersal-Shelly_Horev,2,29.050000000000001,29.050000000000001
 garbage bag,2,Shupersal-Deal_Haifa-mall,1,25.149999999999999,25.149999999999999
 garbage bag,2,Shupersal-Deal_Eliezer,1,26.183333333333334,26.183333333333334
-garbage bag,2,Lahav_Haifa,2,30.566666666666663,30.566666666666663
 toothpaste,0,Shupersal-Shelly_Nativ-Hen,1,13.354545454545455,12.518181818181818
-toothpaste,0,Victory_Haifa,0,9.3000000000000007,5.5809999999999995
+toothpaste,0,Shupersal-Shelly_Keler,1,13.909090909090908,11.676363636363634
 toothpaste,0,Shupersal-Deal-Extra_Tel-Hanan,1,12.726666666666667,11.092666666666666
 toothpaste,0,Yesh_Hanita,0,10.614285714285714,5.9785714285714286
 toothpaste,0,Shupersal-Deal_Grand-mall,1,11.645833333333332,11.105416666666663
@@ -278,35 +250,31 @@ toothpaste,0,Shupersal-Express_Rambam,1,11.350000000000001,12.664999999999999
 toothpaste,0,Shupersal-Shelly_Ziv,1,14.607142857142858,13.216428571428571
 toothpaste,0,Shupersal-Deal_Admirality,1,11.632,11.2728
 toothpaste,0,Shupersal-Shelly_Stela,1,12.877777777777778,13.377777777777778
-toothpaste,0,Shupersal-Shelly_Keler,1,13.909090909090908,11.676363636363634
-toothpaste,0,Yesh_France,0,11.700000000000001,5.7620000000000005
 toothpaste,0,Shupersal-Express_Raul,2,17.899999999999999,17.899999999999999
-toothpaste,0,Shupersal-Shelly_Sapir,1,12.899999999999999,12.258181818181818
+toothpaste,0,Yesh_France,0,11.700000000000001,5.7620000000000005
+toothpaste,0,Shupersal-Shelly_Sapir,1,11.788888888888888,11.004444444444445
 toothpaste,0,Shupersal-Shelly_Carmel,1,11.44,10.037000000000001
 toothpaste,0,Shupersal-Shelly_Horev,1,13.346153846153847,12.803846153846155
 toothpaste,0,Shupersal-Deal_Haifa-mall,1,11.572727272727272,11.561818181818181
 toothpaste,0,Shupersal-Deal_Eliezer,1,11.652380952380952,11.249999999999998
-toothpaste,0,Lahav_Haifa,0,10.991666666666667,0.57708333333333317
-cabbage,1,Shupersal-Shelly_Nativ-Hen,2,5.9000000000000004,5.9000000000000004
-cabbage,1,Victory_Haifa,2,5.9000000000000004,5.9000000000000004
-cabbage,1,Shupersal-Deal-Extra_Tel-Hanan,1,4.9000000000000004,4.9000000000000004
-cabbage,1,Shupersal-Deal_Grand-mall,1,5.2333333333333334,5.2333333333333334
+cabbage,1,Shupersal-Shelly_Nativ-Hen,1,5.9000000000000004,5.9000000000000004
+cabbage,1,Shupersal-Shelly_Keler,1,5.9000000000000004,5.9000000000000004
+cabbage,1,Shupersal-Deal-Extra_Tel-Hanan,0,4.9000000000000004,4.9000000000000004
+cabbage,1,Shupersal-Deal_Grand-mall,0,5.2333333333333334,5.2333333333333334
 cabbage,1,Shupersal-Shelly_Denia,2,6.4000000000000004,6.4000000000000004
-cabbage,1,Shupersal-Shelly_Ziv,2,5.9000000000000004,5.9000000000000004
-cabbage,1,Shupersal-Deal_Admirality,1,5.4000000000000004,5.4000000000000004
-cabbage,1,Shupersal-Shelly_Stela,2,5.9000000000000004,5.9000000000000004
-cabbage,1,Shupersal-Shelly_Keler,2,5.9000000000000004,5.9000000000000004
+cabbage,1,Shupersal-Shelly_Ziv,1,5.9000000000000004,5.9000000000000004
+cabbage,1,Shupersal-Deal_Admirality,0,5.4000000000000004,5.4000000000000004
+cabbage,1,Shupersal-Shelly_Stela,1,5.9000000000000004,5.9000000000000004
 cabbage,1,Shupersal-Shelly_Sapir,2,6.2333333333333334,6.2333333333333334
 cabbage,1,Shupersal-Shelly_Carmel,2,6.4000000000000004,6.4000000000000004
 cabbage,1,Shupersal-Shelly_Horev,2,6.2333333333333334,6.2333333333333334
-cabbage,1,Shupersal-Deal_Haifa-mall,1,4.9000000000000004,4.9000000000000004
-cabbage,1,Shupersal-Deal_Eliezer,1,4.9000000000000004,4.9000000000000004
-cabbage,1,Lahav_Haifa,0,4.9000000000000004,0.0
+cabbage,1,Shupersal-Deal_Haifa-mall,0,4.9000000000000004,4.9000000000000004
+cabbage,1,Shupersal-Deal_Eliezer,0,4.9000000000000004,4.9000000000000004
 deodorant,2,Shupersal-Shelly_Nativ-Hen,1,29.699999999999999,46.293999999999997
 deodorant,2,Shupersal-Express_Marganit,1,26.899999999999999,53.799999999999997
-deodorant,2,Victory_Haifa,1,26.674999999999997,44.667500000000004
+deodorant,2,Shupersal-Shelly_Keler,1,33.25,61.8125
 deodorant,2,Shupersal-Deal-Extra_Tel-Hanan,2,59.540000000000006,60.309000000000012
-deodorant,2,Yesh_Hanita,0,20.185714285714283,17.498571428571427
+deodorant,2,Yesh_Hanita,0,21.566666666666666,16.448333333333334
 deodorant,2,Shupersal-Deal_Grand-mall,2,69.900000000000006,27.960000000000001
 deodorant,2,Shupersal-Shelly_Denia,1,30.475000000000001,62.594999999999999
 deodorant,2,Shupersal-Shelly_Vardia,1,27.262499999999999,48.508749999999999
@@ -314,35 +282,31 @@ deodorant,2,Shupersal-Express_Rambam,1,35.0,41.18
 deodorant,2,Shupersal-Shelly_Ziv,1,29.990000000000002,52.552000000000007
 deodorant,2,Shupersal-Deal_Admirality,2,69.900000000000006,27.960000000000001
 deodorant,2,Shupersal-Shelly_Stela,1,29.814285714285717,50.30714285714285
-deodorant,2,Shupersal-Shelly_Keler,1,33.25,61.8125
 deodorant,2,Yesh_France,0,20.899999999999999,13.936666666666666
 deodorant,2,Shupersal-Shelly_Sapir,1,29.100000000000001,53.183333333333337
 deodorant,2,Shupersal-Shelly_Carmel,1,28.560000000000002,48.231999999999999
 deodorant,2,Shupersal-Shelly_Horev,1,28.800000000000001,49.820999999999998
-deodorant,2,Shupersal-Deal_Haifa-mall,1,24.18,40.634666666666661
+deodorant,2,Shupersal-Deal_Haifa-mall,1,24.100000000000001,41.411428571428573
 deodorant,2,Shupersal-Deal_Eliezer,1,24.641176470588235,41.128823529411761
-deodorant,2,Lahav_Haifa,0,22.206666666666667,0.31799999999999962
 pepper,2,Shupersal-Shelly_Nativ-Hen,2,13.9,13.9
-pepper,2,Victory_Haifa,2,12.566666666666666,12.566666666666663
-pepper,2,Shupersal-Deal-Extra_Tel-Hanan,2,12.9,12.9
+pepper,2,Shupersal-Shelly_Keler,2,13.9,13.9
+pepper,2,Shupersal-Deal-Extra_Tel-Hanan,1,12.9,12.9
 pepper,2,Yesh_Hanita,0,9.9000000000000004,9.9000000000000004
-pepper,2,Shupersal-Deal_Grand-mall,2,12.9,12.9
+pepper,2,Shupersal-Deal_Grand-mall,1,12.9,12.9
 pepper,2,Shupersal-Shelly_Vardia,2,13.9,13.9
 pepper,2,Shupersal-Shelly_Denia,2,13.9,13.9
 pepper,2,Shupersal-Shelly_Ziv,2,13.9,13.9
-pepper,2,Shupersal-Deal_Admirality,2,12.9,12.9
+pepper,2,Shupersal-Deal_Admirality,1,12.9,12.9
 pepper,2,Shupersal-Shelly_Stela,2,13.9,13.9
-pepper,2,Shupersal-Shelly_Keler,2,13.9,13.9
 pepper,2,Yesh_France,0,7.9000000000000004,7.9000000000000004
 pepper,2,Shupersal-Shelly_Sapir,2,13.9,13.9
 pepper,2,Shupersal-Shelly_Carmel,2,13.9,13.9
 pepper,2,Shupersal-Shelly_Horev,2,13.9,13.9
-pepper,2,Shupersal-Deal_Haifa-mall,2,12.9,12.9
-pepper,2,Shupersal-Deal_Eliezer,2,12.9,12.9
-pepper,2,Lahav_Haifa,1,10.471428571428572,0.0099999999999988987
+pepper,2,Shupersal-Deal_Haifa-mall,1,12.9,12.9
+pepper,2,Shupersal-Deal_Eliezer,1,12.9,12.9
 frozen ,0,Shupersal-Shelly_Nativ-Hen,1,15.899999999999999,1.9849999999999999
 frozen ,0,Shupersal-Express_Marganit,2,19.899999999999999,2.4900000000000002
-frozen ,0,Victory_Haifa,1,13.566666666666668,1.6966666666666665
+frozen ,0,Shupersal-Shelly_Keler,2,19.219999999999999,2.653
 frozen ,0,Shupersal-Deal-Extra_Tel-Hanan,2,18.023076923076921,2.4269230769230772
 frozen ,0,Yesh_Hanita,2,19.899999999999999,2.4900000000000002
 frozen ,0,Shupersal-Deal_Grand-mall,2,17.859999999999999,2.3100000000000001
@@ -352,36 +316,32 @@ frozen ,0,Shupersal-Express_Rambam,1,14.9,1.8600000000000001
 frozen ,0,Shupersal-Shelly_Ziv,2,19.445454545454545,2.6581818181818182
 frozen ,0,Shupersal-Deal_Admirality,2,18.023076923076921,2.4269230769230767
 frozen ,0,Shupersal-Shelly_Stela,2,19.599999999999998,2.5340000000000003
-frozen ,0,Shupersal-Shelly_Keler,2,19.219999999999999,2.653
 frozen ,0,Shupersal-Express_Raul,2,20.359999999999999,2.714
 frozen ,0,Shupersal-Shelly_Sapir,2,19.399999999999999,2.5920000000000001
 frozen ,0,Shupersal-Shelly_Carmel,1,14.9,1.8600000000000001
 frozen ,0,Shupersal-Shelly_Horev,2,19.445454545454545,2.6581818181818182
 frozen ,0,Shupersal-Deal_Haifa-mall,2,18.045454545454547,2.3263636363636362
 frozen ,0,Shupersal-Deal_Eliezer,2,18.354545454545455,2.4327272727272726
-frozen ,0,Lahav_Haifa,0,11.011111111111109,0.012222222222222245
-toothpaste,1,Shupersal-Shelly_Nativ-Hen,1,18.612500000000001,27.31625
-toothpaste,1,Victory_Haifa,0,13.578947368421053,15.106315789473685
-toothpaste,1,Shupersal-Deal-Extra_Tel-Hanan,1,17.740909090909092,24.55409090909091
+toothpaste,1,Shupersal-Shelly_Nativ-Hen,2,18.612500000000001,27.31625
+toothpaste,1,Shupersal-Shelly_Keler,2,18.899999999999999,27.517777777777781
+toothpaste,1,Shupersal-Deal-Extra_Tel-Hanan,2,17.740909090909092,24.55409090909091
 toothpaste,1,Yesh_Hanita,0,11.5,15.454000000000001
-toothpaste,1,Shupersal-Deal_Grand-mall,1,17.264285714285712,24.280000000000001
-toothpaste,1,Shupersal-Shelly_Denia,1,20.5,24.555
-toothpaste,1,Shupersal-Shelly_Vardia,1,19.68,25.045999999999999
-toothpaste,1,Shupersal-Express_Rambam,1,18.850000000000001,22.149999999999999
-toothpaste,1,Shupersal-Shelly_Ziv,1,17.512499999999999,27.175000000000001
-toothpaste,1,Shupersal-Deal_Admirality,1,18.133333333333333,23.359999999999999
-toothpaste,1,Shupersal-Shelly_Stela,1,16.677777777777777,26.655555555555555
-toothpaste,1,Shupersal-Shelly_Keler,1,18.899999999999999,27.517777777777781
-toothpaste,1,Yesh_France,1,16.899999999999999,33.799999999999997
+toothpaste,1,Shupersal-Deal_Grand-mall,2,17.264285714285712,24.280000000000001
+toothpaste,1,Shupersal-Shelly_Denia,2,20.5,24.555
+toothpaste,1,Shupersal-Shelly_Vardia,2,19.68,25.045999999999999
+toothpaste,1,Shupersal-Express_Rambam,2,18.850000000000001,22.149999999999999
+toothpaste,1,Shupersal-Shelly_Ziv,2,17.512499999999999,27.175000000000001
+toothpaste,1,Shupersal-Deal_Admirality,2,18.133333333333333,23.359999999999999
+toothpaste,1,Shupersal-Shelly_Stela,2,16.677777777777777,26.655555555555555
 toothpaste,1,Shupersal-Express_Raul,0,17.899999999999999,17.899999999999999
-toothpaste,1,Shupersal-Shelly_Sapir,1,18.737500000000001,27.56625
-toothpaste,1,Shupersal-Shelly_Carmel,1,19.288888888888888,23.658888888888889
-toothpaste,1,Shupersal-Shelly_Horev,1,19.442857142857143,27.561428571428571
-toothpaste,1,Shupersal-Deal_Haifa-mall,1,20.537500000000001,23.6325
-toothpaste,1,Shupersal-Deal_Eliezer,1,17.626666666666665,23.197333333333333
-toothpaste,1,Lahav_Haifa,2,20.686666666666664,0.2113333333333336
+toothpaste,1,Yesh_France,1,16.899999999999999,33.799999999999997
+toothpaste,1,Shupersal-Shelly_Sapir,2,18.57,25.633000000000003
+toothpaste,1,Shupersal-Shelly_Carmel,2,19.829999999999998,24.585999999999999
+toothpaste,1,Shupersal-Shelly_Horev,2,19.442857142857143,27.561428571428571
+toothpaste,1,Shupersal-Deal_Haifa-mall,2,20.537500000000001,23.6325
+toothpaste,1,Shupersal-Deal_Eliezer,2,17.626666666666665,23.197333333333333
 coconut cream,2,Shupersal-Shelly_Nativ-Hen,0,14.9,8.2799999999999994
-coconut cream,2,Victory_Haifa,0,13.5,13.5
+coconut cream,2,Shupersal-Shelly_Keler,1,19.899999999999999,19.899999999999999
 coconut cream,2,Shupersal-Deal-Extra_Tel-Hanan,2,29.600000000000001,9.8699999999999992
 coconut cream,2,Yesh_Hanita,0,14.9,9.9299999999999997
 coconut cream,2,Shupersal-Deal_Grand-mall,2,29.600000000000001,9.8699999999999992
@@ -390,137 +350,122 @@ coconut cream,2,Shupersal-Shelly_Denia,0,10.800000000000001,2.7000000000000002
 coconut cream,2,Shupersal-Shelly_Ziv,1,19.699999999999999,19.699999999999999
 coconut cream,2,Shupersal-Deal_Admirality,2,29.600000000000001,9.8699999999999992
 coconut cream,2,Shupersal-Shelly_Stela,0,14.9,8.2799999999999994
-coconut cream,2,Shupersal-Shelly_Keler,1,19.899999999999999,19.899999999999999
 coconut cream,2,Yesh_France,0,14.9,9.9299999999999997
 coconut cream,2,Shupersal-Shelly_Sapir,2,30.600000000000001,10.199999999999999
 coconut cream,2,Shupersal-Shelly_Carmel,0,13.4,13.399999999999999
 coconut cream,2,Shupersal-Shelly_Horev,2,30.600000000000001,10.199999999999999
 coconut cream,2,Shupersal-Deal_Haifa-mall,1,18.699999999999999,18.699999999999999
 coconut cream,2,Shupersal-Deal_Eliezer,0,14.5,8.0600000000000005
-coconut cream,2,Lahav_Haifa,1,22.899999999999999,15.27
-lettuce,0,Shupersal-Shelly_Nativ-Hen,2,7.2333333333333343,7.2333333333333334
-lettuce,0,Victory_Haifa,1,5.4250000000000007,5.4250000000000007
-lettuce,0,Shupersal-Deal-Extra_Tel-Hanan,2,7.25,7.25
-lettuce,0,Shupersal-Deal_Grand-mall,2,7.1200000000000001,7.1200000000000001
+lettuce,0,Shupersal-Shelly_Nativ-Hen,1,7.2333333333333343,7.2333333333333334
+lettuce,0,Shupersal-Shelly_Keler,2,8.2200000000000006,8.2200000000000006
+lettuce,0,Shupersal-Deal-Extra_Tel-Hanan,1,7.25,7.25
+lettuce,0,Shupersal-Deal_Grand-mall,1,7.1200000000000001,7.1200000000000001
 lettuce,0,Shupersal-Shelly_Vardia,2,7.8000000000000007,7.8000000000000007
 lettuce,0,Shupersal-Shelly_Denia,2,7.8000000000000007,7.8000000000000007
 lettuce,0,Shupersal-Shelly_Ziv,2,8.2200000000000006,8.2200000000000006
-lettuce,0,Shupersal-Deal_Admirality,2,6.9000000000000004,6.9000000000000004
+lettuce,0,Shupersal-Deal_Admirality,1,6.9000000000000004,6.9000000000000004
 lettuce,0,Shupersal-Shelly_Stela,2,7.8000000000000007,7.8000000000000007
-lettuce,0,Shupersal-Shelly_Keler,2,8.2200000000000006,8.2200000000000006
 lettuce,0,Shupersal-Express_Raul,1,5.9000000000000004,5.9000000000000004
 lettuce,0,Shupersal-Shelly_Sapir,2,8.0,8.0
-lettuce,0,Shupersal-Shelly_Carmel,2,7.2333333333333343,7.2333333333333334
+lettuce,0,Shupersal-Shelly_Carmel,1,7.2333333333333343,7.2333333333333334
 lettuce,0,Shupersal-Shelly_Horev,2,8.0,8.0
-lettuce,0,Shupersal-Deal_Haifa-mall,2,6.9000000000000004,6.9000000000000004
-lettuce,0,Shupersal-Deal_Eliezer,1,5.9000000000000004,5.9000000000000004
-lettuce,0,Lahav_Haifa,1,4.9199999999999999,4.9199999999999999
-cucumber,1,Shupersal-Deal-Extra_Tel-Hanan,0,9.9000000000000004,9.9000000000000004
-cucumber,1,Shupersal-Deal_Grand-mall,0,9.9000000000000004,9.9000000000000004
-cucumber,1,Shupersal-Shelly_Sapir,0,9.9000000000000004,9.9000000000000004
+lettuce,0,Shupersal-Deal_Haifa-mall,1,6.9000000000000004,6.9000000000000004
+lettuce,0,Shupersal-Deal_Eliezer,1,6.5666666666666664,6.5666666666666673
+cucumber,1,Shupersal-Shelly_Horev,2,10.4,10.4
 cucumber,1,Shupersal-Deal_Admirality,0,9.9000000000000004,9.9000000000000004
-cucumber,1,Shupersal-Shelly_Horev,1,10.4,10.4
+cucumber,1,Shupersal-Shelly_Sapir,0,9.9000000000000004,9.9000000000000004
+cucumber,1,Shupersal-Deal-Extra_Tel-Hanan,0,9.9000000000000004,9.9000000000000004
 pepper,1,Shupersal-Shelly_Nativ-Hen,2,11.9,11.9
-pepper,1,Victory_Haifa,1,9.9000000000000004,990.0
-pepper,1,Shupersal-Deal-Extra_Tel-Hanan,2,10.9,10.9
-pepper,1,Yesh_Hanita,0,9.9000000000000004,9.9000000000000004
-pepper,1,Shupersal-Deal_Grand-mall,0,10.15,10.15
+pepper,1,Shupersal-Shelly_Keler,2,11.9,11.9
+pepper,1,Shupersal-Deal-Extra_Tel-Hanan,1,10.9,10.9
+pepper,1,Yesh_Hanita,1,9.9000000000000004,9.9000000000000004
+pepper,1,Shupersal-Deal_Grand-mall,1,10.9,10.9
 pepper,1,Shupersal-Shelly_Vardia,2,11.9,11.9
 pepper,1,Shupersal-Shelly_Denia,2,11.9,11.9
 pepper,1,Shupersal-Shelly_Ziv,2,11.9,11.9
-pepper,1,Shupersal-Deal_Admirality,2,10.9,10.9
+pepper,1,Shupersal-Deal_Admirality,1,10.9,10.9
 pepper,1,Shupersal-Shelly_Stela,2,11.9,11.9
-pepper,1,Shupersal-Shelly_Keler,2,11.9,11.9
 pepper,1,Yesh_France,0,7.9000000000000004,7.9000000000000004
 pepper,1,Shupersal-Shelly_Sapir,2,11.9,11.9
 pepper,1,Shupersal-Shelly_Carmel,2,11.9,11.9
 pepper,1,Shupersal-Shelly_Horev,2,11.9,11.9
-pepper,1,Shupersal-Deal_Haifa-mall,2,10.9,10.9
-pepper,1,Shupersal-Deal_Eliezer,2,10.9,10.9
-pepper,1,Lahav_Haifa,0,9.5250000000000004,9.5249999999999986
-pasta,2,Shupersal-Shelly_Keler,0,19.299999999999997,4.827
-pasta,2,Shupersal-Deal_Grand-mall,0,21.172727272727276,4.8290909090909082
-pasta,2,Shupersal-Shelly_Vardia,0,17.0,4.4714285714285715
+pepper,1,Shupersal-Deal_Haifa-mall,1,10.9,10.9
+pepper,1,Shupersal-Deal_Eliezer,1,10.9,10.9
 pasta,2,Shupersal-Shelly_Nativ-Hen,0,19.579999999999998,4.8959999999999999
-pasta,2,Shupersal-Express_Raul,0,13.533333333333333,3.9399999999999999
+pasta,2,Shupersal-Express_Marganit,0,14.15,4.4050000000000002
+pasta,2,Shupersal-Shelly_Keler,0,19.299999999999997,4.827
+pasta,2,Shupersal-Deal-Extra_Tel-Hanan,1,60.0,120.0
 pasta,2,Yesh_Hanita,0,19.899999999999999,4.9800000000000004
+pasta,2,Shupersal-Deal_Grand-mall,0,21.172727272727276,4.8290909090909082
+pasta,2,Shupersal-Shelly_Denia,0,19.649999999999999,4.9133333333333331
+pasta,2,Shupersal-Shelly_Vardia,0,18.949999999999999,4.7400000000000002
 pasta,2,Shupersal-Express_Rambam,0,13.9,4.6299999999999999
 pasta,2,Shupersal-Shelly_Ziv,0,16.225000000000001,4.1643749999999997
-pasta,2,Yesh_France,0,20.399999999999999,5.1050000000000004
-pasta,2,Shupersal-Shelly_Carmel,0,19.399999999999999,4.8514285714285723
-pasta,2,Lahav_Haifa,2,90.0,90.0
-pasta,2,Shuk_Haifa,2,69.0,69.0
-pasta,2,Victory_Haifa,0,22.774999999999999,5.6987500000000004
-pasta,2,Shupersal-Deal-Extra_Tel-Hanan,1,60.0,120.0
-pasta,2,Shupersal-Shelly_Sapir,0,19.475000000000001,4.8699999999999992
-pasta,2,Shupersal-Shelly_Stela,0,19.666666666666664,4.918333333333333
-pasta,2,Shupersal-Shelly_Horev,0,19.649999999999999,4.9133333333333331
-pasta,2,Shupersal-Deal_Eliezer,0,19.837499999999999,4.7012499999999999
-pasta,2,Shupersal-Express_Marganit,0,14.15,4.4050000000000002
-pasta,2,Shupersal-Shelly_Denia,0,19.649999999999999,4.9133333333333331
 pasta,2,Shupersal-Deal_Admirality,0,20.327272727272728,4.6190909090909091
-white cheese,2,Shupersal-Shelly_Keler,2,41.200000000000003,41.200000000000003
-white cheese,2,Shupersal-Deal_Grand-mall,2,35.0,35.0
-white cheese,2,Shupersal-Shelly_Vardia,2,39.333333333333329,39.333333333333343
+pasta,2,Shupersal-Shelly_Stela,0,19.666666666666664,4.918333333333333
+pasta,2,Shupersal-Express_Raul,0,13.533333333333333,3.9399999999999999
+pasta,2,Yesh_France,0,20.399999999999999,5.1050000000000004
+pasta,2,Shupersal-Shelly_Sapir,0,19.088888888888889,4.6844444444444449
+pasta,2,Shupersal-Shelly_Carmel,0,19.399999999999999,4.8514285714285723
+pasta,2,Shupersal-Shelly_Horev,0,19.649999999999999,4.9133333333333331
+pasta,2,Shupersal-Deal_Haifa-mall,0,21.600000000000001,4.7940000000000005
+pasta,2,Shupersal-Deal_Eliezer,0,19.837499999999999,4.7012499999999999
 white cheese,2,Shupersal-Shelly_Nativ-Hen,2,39.333333333333329,39.333333333333329
-white cheese,2,Shupersal-Express_Raul,0,12.733333333333334,6.2416666666666671
+white cheese,2,Shupersal-Express_Marganit,0,15.533333333333335,6.6400000000000006
+white cheese,2,Shupersal-Shelly_Keler,2,41.200000000000003,41.200000000000003
+white cheese,2,Shupersal-Deal-Extra_Tel-Hanan,0,17.5,5.0540000000000003
 white cheese,2,Yesh_Hanita,0,21.424999999999997,3.335
+white cheese,2,Shupersal-Deal_Grand-mall,1,35.0,35.0
+white cheese,2,Shupersal-Shelly_Denia,2,39.333333333333336,39.333333333333343
+white cheese,2,Shupersal-Shelly_Vardia,2,39.333333333333329,39.333333333333343
 white cheese,2,Shupersal-Express_Rambam,0,13.15,6.1699999999999999
 white cheese,2,Shupersal-Shelly_Ziv,2,38.5,38.5
-white cheese,2,Yesh_France,0,15.450000000000003,4.0049999999999999
-white cheese,2,Shupersal-Shelly_Carmel,2,39.0,39.0
-white cheese,2,Lahav_Haifa,1,32.5,0.035000000000000003
-white cheese,2,Shuk_Haifa,2,36.162500000000001,36.162500000000001
-white cheese,2,Victory_Haifa,1,36.266666666666659,3.6266666666666669
-white cheese,2,Shupersal-Deal-Extra_Tel-Hanan,0,17.5,5.0540000000000003
-white cheese,2,Shupersal-Shelly_Sapir,2,39.0,39.0
+white cheese,2,Shupersal-Deal_Admirality,1,35.444444444444443,35.444444444444443
 white cheese,2,Shupersal-Shelly_Stela,2,40.25,40.25
+white cheese,2,Shupersal-Express_Raul,0,12.733333333333334,6.2416666666666671
+white cheese,2,Yesh_France,0,15.450000000000003,4.0049999999999999
+white cheese,2,Shupersal-Shelly_Sapir,2,39.0,39.0
+white cheese,2,Shupersal-Shelly_Carmel,2,39.0,39.0
 white cheese,2,Shupersal-Shelly_Horev,2,40.25,40.25
-white cheese,2,Shupersal-Deal_Eliezer,2,35.5,35.5
-white cheese,2,Shupersal-Express_Marganit,0,15.533333333333335,6.6400000000000006
-white cheese,2,Shupersal-Shelly_Denia,2,39.333333333333336,39.333333333333343
-white cheese,2,Shupersal-Deal_Admirality,2,35.444444444444443,35.444444444444443
-milk,2,Shupersal-Shelly_Keler,1,12.949999999999999,6.5962500000000004
-milk,2,Shupersal-Deal_Grand-mall,1,12.970000000000001,7.0510000000000002
+white cheese,2,Shupersal-Deal_Haifa-mall,1,35.666666666666671,35.666666666666664
+white cheese,2,Shupersal-Deal_Eliezer,1,35.5,35.5
+milk,2,Shupersal-Shelly_Nativ-Hen,0,12.442857142857143,6.4985714285714282
+milk,2,Shupersal-Express_Marganit,1,14.199999999999999,10.300000000000001
+milk,2,Shupersal-Shelly_Keler,0,12.949999999999999,6.5962500000000004
+milk,2,Shupersal-Deal-Extra_Tel-Hanan,0,12.0,7.6287500000000001
+milk,2,Yesh_Hanita,0,12.257142857142856,7.1400000000000006
+milk,2,Shupersal-Deal_Grand-mall,0,12.178571428571429,7.9507142857142856
+milk,2,Shupersal-Shelly_Denia,0,12.260000000000002,6.3239999999999998
 milk,2,Shupersal-Shelly_Vardia,0,9.3263157894736839,8.3552631578947363
-milk,2,Shupersal-Shelly_Nativ-Hen,1,12.442857142857143,6.4985714285714282
-milk,2,Shupersal-Express_Raul,1,12.866666666666667,6.4333333333333336
-milk,2,Yesh_Hanita,1,12.257142857142856,7.1400000000000006
-milk,2,Shupersal-Express_Rambam,2,12.800000000000001,12.800000000000001
-milk,2,Shupersal-Shelly_Ziv,1,13.300000000000001,6.8925000000000001
-milk,2,Yesh_France,1,12.6,6.2999999999999998
-milk,2,Shupersal-Shelly_Carmel,1,12.149999999999999,6.3174999999999999
-milk,2,Lahav_Haifa,2,14.112500000000001,11.359999999999999
-milk,2,Shuk_Haifa,2,12.833333333333334,10.531666666666666
-milk,2,Victory_Haifa,1,12.100000000000001,4.2485714285714291
-milk,2,Shupersal-Deal-Extra_Tel-Hanan,2,14.959999999999999,8.6120000000000001
-milk,2,Shupersal-Shelly_Sapir,1,13.257142857142856,6.7671428571428569
-milk,2,Shupersal-Shelly_Stela,1,12.260000000000002,6.3239999999999998
-milk,2,Shupersal-Shelly_Horev,1,13.137499999999999,6.6900000000000004
-milk,2,Shupersal-Deal_Eliezer,2,15.119999999999999,8.6920000000000002
-milk,2,Shupersal-Express_Marganit,2,14.199999999999999,10.300000000000001
-milk,2,Shupersal-Shelly_Denia,1,12.260000000000002,6.3239999999999998
-milk,2,Shupersal-Deal_Admirality,1,12.0,7.8566666666666665
+milk,2,Shupersal-Express_Rambam,1,12.800000000000001,12.800000000000001
+milk,2,Shupersal-Shelly_Ziv,0,13.300000000000001,6.8925000000000001
+milk,2,Shupersal-Deal_Admirality,0,12.0,7.8566666666666665
+milk,2,Shupersal-Shelly_Stela,0,12.260000000000002,6.3239999999999998
+milk,2,Shupersal-Express_Raul,0,12.866666666666667,6.4333333333333336
+milk,2,Yesh_France,0,12.6,6.2999999999999998
+milk,2,Shupersal-Shelly_Sapir,0,13.257142857142856,6.7671428571428569
+milk,2,Shupersal-Shelly_Carmel,0,12.149999999999999,6.3174999999999999
+milk,2,Shupersal-Shelly_Horev,2,21.5,10.75
+milk,2,Shupersal-Deal_Haifa-mall,0,11.74,7.3819999999999997
+milk,2,Shupersal-Deal_Eliezer,1,15.119999999999999,8.6920000000000002
 coconut cream,1,Shupersal-Shelly_Nativ-Hen,0,9.4000000000000004,1.8250000000000002
-coconut cream,1,Victory_Haifa,0,9.9000000000000004,5.5
-coconut cream,1,Shupersal-Deal-Extra_Tel-Hanan,1,17.0,14.064999999999998
+coconut cream,1,Shupersal-Shelly_Keler,0,10.075000000000001,2.52
+coconut cream,1,Shupersal-Deal-Extra_Tel-Hanan,2,17.0,14.064999999999998
 coconut cream,1,Yesh_Hanita,0,11.4,2.2149999999999999
 coconut cream,1,Shupersal-Deal_Grand-mall,1,13.35,10.129999999999999
 coconut cream,1,Shupersal-Shelly_Vardia,0,9.9000000000000004,2.48
 coconut cream,1,Shupersal-Shelly_Denia,0,7.7000000000000002,1.9299999999999999
 coconut cream,1,Shupersal-Shelly_Ziv,0,9.8200000000000003,2.7200000000000002
-coconut cream,1,Shupersal-Deal_Admirality,1,15.449999999999999,15.449999999999999
+coconut cream,1,Shupersal-Deal_Admirality,2,15.449999999999999,15.449999999999999
 coconut cream,1,Shupersal-Shelly_Stela,0,9.4499999999999993,1.8399999999999999
-coconut cream,1,Shupersal-Shelly_Keler,0,10.075000000000001,2.52
 coconut cream,1,Yesh_France,0,11.9,2.98
 coconut cream,1,Shupersal-Shelly_Sapir,1,13.4,13.4
 coconut cream,1,Shupersal-Shelly_Carmel,0,10.350000000000001,2.5899999999999999
-coconut cream,1,Shupersal-Shelly_Horev,1,16.066666666666666,13.859999999999999
+coconut cream,1,Shupersal-Shelly_Horev,2,16.066666666666666,13.859999999999999
 coconut cream,1,Shupersal-Deal_Haifa-mall,1,12.199999999999999,12.199999999999999
 coconut cream,1,Shupersal-Deal_Eliezer,0,10.1,2.2920000000000003
-coconut cream,1,Lahav_Haifa,2,15.233333333333333,0.080000000000000071
 potato,0,Shupersal-Shelly_Nativ-Hen,2,4.9000000000000004,4.9000000000000004
-potato,0,Victory_Haifa,1,3.8999999999999999,3.8999999999999999
+potato,0,Shupersal-Shelly_Keler,2,4.9000000000000004,4.9000000000000004
 potato,0,Shupersal-Deal-Extra_Tel-Hanan,2,4.8200000000000003,4.8200000000000003
 potato,0,Yesh_Hanita,1,3.8999999999999995,3.8999999999999995
 potato,0,Shupersal-Deal_Grand-mall,2,4.8200000000000003,4.8200000000000003
@@ -529,51 +474,45 @@ potato,0,Shupersal-Shelly_Denia,2,4.9000000000000004,4.9000000000000004
 potato,0,Shupersal-Shelly_Ziv,2,4.9000000000000004,4.9000000000000004
 potato,0,Shupersal-Deal_Admirality,2,4.8200000000000003,4.8200000000000003
 potato,0,Shupersal-Shelly_Stela,2,4.9000000000000004,4.9000000000000004
-potato,0,Shupersal-Shelly_Keler,2,4.9000000000000004,4.9000000000000004
 potato,0,Yesh_France,0,2.8999999999999995,2.8999999999999995
 potato,0,Shupersal-Shelly_Sapir,2,4.9000000000000004,4.9000000000000004
 potato,0,Shupersal-Shelly_Carmel,2,4.9000000000000004,4.9000000000000004
 potato,0,Shupersal-Shelly_Horev,2,4.9000000000000004,4.9000000000000004
 potato,0,Shupersal-Deal_Haifa-mall,1,3.8999999999999999,3.8999999999999999
 potato,0,Shupersal-Deal_Eliezer,1,3.8999999999999999,3.8999999999999999
-potato,0,Lahav_Haifa,0,3.4333333333333336,3.4333333333333331
-lettuce,1,Shupersal-Shelly_Nativ-Hen,1,10.800000000000001,10.800000000000001
-lettuce,1,Victory_Haifa,2,9.9000000000000004,3.96
-lettuce,1,Shupersal-Deal-Extra_Tel-Hanan,2,9.9000000000000004,3.3760000000000003
-lettuce,1,Shupersal-Deal_Grand-mall,2,9.9000000000000004,3.3760000000000003
-lettuce,1,Shupersal-Shelly_Vardia,2,10.74,3.6699999999999999
-lettuce,1,Shupersal-Shelly_Denia,2,10.74,3.6699999999999999
-lettuce,1,Shupersal-Shelly_Ziv,2,10.74,3.6700000000000004
-lettuce,1,Shupersal-Deal_Admirality,2,9.9000000000000004,3.3759999999999994
-lettuce,1,Shupersal-Shelly_Stela,2,10.800000000000001,3.8374999999999999
-lettuce,1,Shupersal-Shelly_Keler,2,10.74,3.6699999999999999
+lettuce,1,Shupersal-Shelly_Nativ-Hen,2,10.800000000000001,10.800000000000001
+lettuce,1,Shupersal-Shelly_Keler,1,10.74,3.6699999999999999
+lettuce,1,Shupersal-Deal-Extra_Tel-Hanan,1,9.9000000000000004,3.3760000000000003
+lettuce,1,Shupersal-Deal_Grand-mall,1,9.9000000000000004,3.3760000000000003
+lettuce,1,Shupersal-Shelly_Vardia,1,10.74,3.6699999999999999
+lettuce,1,Shupersal-Shelly_Denia,1,10.74,3.6699999999999999
+lettuce,1,Shupersal-Shelly_Ziv,1,10.74,3.6700000000000004
+lettuce,1,Shupersal-Deal_Admirality,1,9.9000000000000004,3.3759999999999994
+lettuce,1,Shupersal-Shelly_Stela,1,10.800000000000001,3.8374999999999999
 lettuce,1,Shupersal-Express_Raul,0,7.9000000000000004,7.9000000000000004
-lettuce,1,Shupersal-Shelly_Sapir,2,10.74,3.6699999999999999
-lettuce,1,Shupersal-Shelly_Carmel,2,10.74,3.6699999999999995
-lettuce,1,Shupersal-Shelly_Horev,2,10.74,3.6699999999999999
-lettuce,1,Shupersal-Deal_Haifa-mall,2,9.9000000000000004,3.3760000000000003
-lettuce,1,Shupersal-Deal_Eliezer,1,9.4499999999999993,9.4499999999999993
-lettuce,1,Lahav_Haifa,2,7.4000000000000004,0.019999999999999574
+lettuce,1,Shupersal-Shelly_Sapir,1,10.74,3.6699999999999999
+lettuce,1,Shupersal-Shelly_Carmel,1,10.74,3.6699999999999995
+lettuce,1,Shupersal-Shelly_Horev,1,10.74,3.6699999999999999
+lettuce,1,Shupersal-Deal_Haifa-mall,1,9.9000000000000004,3.3760000000000003
+lettuce,1,Shupersal-Deal_Eliezer,1,9.9000000000000004,3.3759999999999999
 pepper,0,Shupersal-Shelly_Nativ-Hen,2,10.9,10.9
-pepper,0,Victory_Haifa,1,8.9000000000000004,8.9000000000000057
-pepper,0,Shupersal-Deal-Extra_Tel-Hanan,2,9.9000000000000004,9.9000000000000004
-pepper,0,Yesh_Hanita,1,7.9000000000000004,7.9000000000000004
-pepper,0,Shupersal-Deal_Grand-mall,1,8.9000000000000004,8.9000000000000004
+pepper,0,Shupersal-Shelly_Keler,2,10.9,10.9
+pepper,0,Shupersal-Deal-Extra_Tel-Hanan,1,9.9000000000000004,9.9000000000000004
+pepper,0,Yesh_Hanita,0,7.9000000000000004,7.9000000000000004
+pepper,0,Shupersal-Deal_Grand-mall,1,9.6500000000000004,9.6500000000000004
 pepper,0,Shupersal-Shelly_Vardia,2,10.566666666666666,10.566666666666666
 pepper,0,Shupersal-Shelly_Denia,2,10.9,10.9
 pepper,0,Shupersal-Shelly_Ziv,2,10.9,10.9
-pepper,0,Shupersal-Deal_Admirality,2,9.9000000000000004,9.9000000000000004
+pepper,0,Shupersal-Deal_Admirality,1,9.9000000000000004,9.9000000000000004
 pepper,0,Shupersal-Shelly_Stela,2,10.9,10.9
-pepper,0,Shupersal-Shelly_Keler,2,10.9,10.9
-pepper,0,Yesh_France,1,7.9000000000000004,7.9000000000000004
+pepper,0,Yesh_France,0,7.9000000000000004,7.9000000000000004
 pepper,0,Shupersal-Shelly_Sapir,2,10.9,10.9
 pepper,0,Shupersal-Shelly_Carmel,2,10.9,10.9
 pepper,0,Shupersal-Shelly_Horev,2,10.733333333333334,10.733333333333334
-pepper,0,Shupersal-Deal_Haifa-mall,2,9.9000000000000004,9.9000000000000004
+pepper,0,Shupersal-Deal_Haifa-mall,1,9.9000000000000004,9.9000000000000004
 pepper,0,Shupersal-Deal_Eliezer,1,9.4000000000000004,9.4000000000000004
-pepper,0,Lahav_Haifa,0,6.7000000000000002,0.040000000000000036
 coconut cream,0,Shupersal-Shelly_Nativ-Hen,0,7.0,1.7549999999999999
-coconut cream,0,Victory_Haifa,1,9.1750000000000007,2.0075000000000003
+coconut cream,0,Shupersal-Shelly_Keler,1,8.8000000000000007,3.52
 coconut cream,0,Shupersal-Deal-Extra_Tel-Hanan,1,8.7666666666666675,2.2408333333333332
 coconut cream,0,Yesh_Hanita,0,7.0999999999999996,1.7800000000000002
 coconut cream,0,Shupersal-Deal_Grand-mall,1,8.6363636363636367,2.1699999999999999
@@ -582,99 +521,88 @@ coconut cream,0,Shupersal-Shelly_Denia,0,6.5,1.6299999999999999
 coconut cream,0,Shupersal-Shelly_Ziv,0,7.2333333333333343,1.813333333333333
 coconut cream,0,Shupersal-Deal_Admirality,1,9.0555555555555571,2.2755555555555556
 coconut cream,0,Shupersal-Shelly_Stela,0,7.2333333333333334,1.8133333333333332
-coconut cream,0,Shupersal-Shelly_Keler,1,8.8000000000000007,3.52
 coconut cream,0,Yesh_France,2,10.9,1.4500000000000002
 coconut cream,0,Shupersal-Shelly_Sapir,1,7.9666666666666677,1.9966666666666666
 coconut cream,0,Shupersal-Shelly_Carmel,0,7.0,1.7549999999999999
 coconut cream,0,Shupersal-Shelly_Horev,1,8.3000000000000007,2.1840000000000002
 coconut cream,0,Shupersal-Deal_Haifa-mall,1,8.9857142857142858,2.2614285714285716
 coconut cream,0,Shupersal-Deal_Eliezer,0,6.9000000000000004,1.73
-coconut cream,0,Lahav_Haifa,1,8.4333333333333336,0.020000000000000018
 bag,1,Shupersal-Shelly_Nativ-Hen,2,14.5,14.5
-bag,1,Victory_Haifa,0,12.9,9.1750000000000007
+bag,1,Shupersal-Shelly_Keler,1,12.1,12.1
 bag,1,Shupersal-Deal-Extra_Tel-Hanan,2,13.6,13.6
 bag,1,Yesh_Hanita,0,9.9000000000000004,9.9000000000000004
 bag,1,Shupersal-Deal_Grand-mall,2,13.775,13.775
-bag,1,Shupersal-Shelly_Vardia,0,11.5,11.5
-bag,1,Shupersal-Shelly_Denia,0,11.5,11.5
-bag,1,Shupersal-Shelly_Ziv,0,11.199999999999999,11.199999999999999
+bag,1,Shupersal-Shelly_Vardia,1,11.5,11.5
+bag,1,Shupersal-Shelly_Denia,1,11.5,11.5
+bag,1,Shupersal-Shelly_Ziv,1,11.199999999999999,11.199999999999999
 bag,1,Shupersal-Deal_Admirality,2,13.6,13.6
 bag,1,Shupersal-Shelly_Stela,2,14.5,14.5
-bag,1,Shupersal-Shelly_Keler,0,12.1,12.1
 bag,1,Yesh_France,2,12.9,12.9
-bag,1,Shupersal-Shelly_Sapir,0,11.5,11.5
-bag,1,Shupersal-Shelly_Carmel,0,11.199999999999999,11.199999999999999
+bag,1,Shupersal-Shelly_Sapir,1,11.5,11.5
+bag,1,Shupersal-Shelly_Carmel,1,11.199999999999999,11.199999999999999
 bag,1,Shupersal-Shelly_Horev,2,14.5,14.5
 bag,1,Shupersal-Deal_Haifa-mall,0,9.9000000000000004,9.9000000000000004
 bag,1,Shupersal-Deal_Eliezer,2,13.6,13.6
-bag,1,Lahav_Haifa,1,12.75,0.099999999999999645
-white cheese,0,Shupersal-Shelly_Keler,1,5.7529411764705873,1.854117647058823
-white cheese,0,Shupersal-Deal_Grand-mall,1,5.7117647058823531,1.8388235294117647
-white cheese,0,Shupersal-Shelly_Vardia,1,5.7529411764705891,1.854117647058823
 white cheese,0,Shupersal-Shelly_Nativ-Hen,1,5.7529411764705882,1.8541176470588239
-white cheese,0,Shupersal-Express_Raul,0,4.5999999999999996,1.8400000000000001
+white cheese,0,Shupersal-Express_Marganit,0,4.5999999999999996,1.8400000000000001
+white cheese,0,Shupersal-Shelly_Keler,1,5.7529411764705873,1.854117647058823
+white cheese,0,Shupersal-Deal-Extra_Tel-Hanan,1,5.711764705882354,1.8388235294117647
 white cheese,0,Yesh_Hanita,1,6.8937499999999998,2.2381250000000001
+white cheese,0,Shupersal-Deal_Grand-mall,1,5.7117647058823531,1.8388235294117647
+white cheese,0,Shupersal-Shelly_Denia,1,5.96875,1.8549999999999995
+white cheese,0,Shupersal-Shelly_Vardia,1,5.7529411764705891,1.854117647058823
 white cheese,0,Shupersal-Express_Rambam,0,4.5749999999999993,1.9450000000000003
 white cheese,0,Shupersal-Shelly_Ziv,1,5.7529411764705891,1.854117647058823
-white cheese,0,Yesh_France,0,4.7000000000000002,1.8800000000000003
-white cheese,0,Shupersal-Shelly_Carmel,1,5.7529411764705891,1.8541176470588234
-white cheese,0,Lahav_Haifa,0,4.6444444444444448,0.021111111111111112
-white cheese,0,Shuk_Haifa,2,8.8033333333333328,3.766
-white cheese,0,Victory_Haifa,1,5.9529411764705875,1.8858823529411763
-white cheese,0,Shupersal-Deal-Extra_Tel-Hanan,1,5.711764705882354,1.8388235294117647
-white cheese,0,Shupersal-Shelly_Sapir,1,5.7529411764705891,1.8541176470588239
-white cheese,0,Shupersal-Shelly_Stela,1,5.7529411764705882,1.8541176470588239
-white cheese,0,Shupersal-Shelly_Horev,1,5.7529411764705873,1.8541176470588239
-white cheese,0,Shupersal-Deal_Eliezer,1,5.7117647058823504,1.8388235294117639
-white cheese,0,Shupersal-Express_Marganit,0,4.5999999999999996,1.8400000000000001
-white cheese,0,Shupersal-Shelly_Denia,1,5.96875,1.8549999999999995
 white cheese,0,Shupersal-Deal_Admirality,1,5.7117647058823557,1.8388235294117656
-milk,0,Shupersal-Shelly_Keler,0,5.9236842105263161,3.7926315789473684
-milk,0,Shupersal-Deal_Grand-mall,0,5.6804347826086961,3.3004347826086957
-milk,0,Shupersal-Shelly_Vardia,1,6.1762499999999996,5.8200000000000003
+white cheese,0,Shupersal-Shelly_Stela,1,5.7529411764705882,1.8541176470588239
+white cheese,0,Shupersal-Express_Raul,0,4.5999999999999996,1.8400000000000001
+white cheese,0,Yesh_France,0,4.7000000000000002,1.8800000000000003
+white cheese,0,Shupersal-Shelly_Sapir,1,5.7529411764705891,1.8541176470588239
+white cheese,0,Shupersal-Shelly_Carmel,1,5.7529411764705891,1.8541176470588234
+white cheese,0,Shupersal-Shelly_Horev,1,5.7529411764705873,1.8541176470588239
+white cheese,0,Shupersal-Deal_Haifa-mall,1,5.7117647058823549,1.8388235294117639
+white cheese,0,Shupersal-Deal_Eliezer,1,5.7117647058823504,1.8388235294117639
 milk,0,Shupersal-Shelly_Nativ-Hen,0,5.5406250000000004,4.3112500000000002
-milk,0,Shupersal-Express_Raul,1,5.5999999999999996,5.0
+milk,0,Shupersal-Express_Marganit,1,5.53125,5.1112500000000001
+milk,0,Shupersal-Shelly_Keler,0,5.9236842105263161,3.7926315789473684
+milk,0,Shupersal-Deal-Extra_Tel-Hanan,2,6.4199999999999999,1.4880000000000004
 milk,0,Yesh_Hanita,0,5.2666666666666657,2.7955555555555551
+milk,0,Shupersal-Deal_Grand-mall,2,5.9833333333333334,1.4216666666666669
+milk,0,Shupersal-Shelly_Denia,0,5.7400000000000002,3.960666666666667
+milk,0,Shupersal-Shelly_Vardia,1,6.1762499999999996,5.8200000000000003
 milk,0,Shupersal-Express_Rambam,2,6.9833333333333334,1.7849999999999997
 milk,0,Shupersal-Shelly_Ziv,0,5.6875,3.8620000000000001
-milk,0,Yesh_France,1,5.7437500000000004,4.5437500000000002
-milk,0,Shupersal-Shelly_Carmel,0,5.6400000000000006,3.8415000000000004
-milk,0,Lahav_Haifa,2,5.5499999999999998,0.01625000000000032
-milk,0,Shuk_Haifa,0,4.9468750000000004,3.9387500000000002
-milk,0,Victory_Haifa,0,5.884615384615385,2.8176923076923077
-milk,0,Shupersal-Deal-Extra_Tel-Hanan,0,5.8190476190476197,3.4704761904761909
-milk,0,Shupersal-Shelly_Sapir,0,5.53125,4.0918749999999999
-milk,0,Shupersal-Shelly_Stela,0,5.4466666666666654,4.2313333333333336
-milk,0,Shupersal-Shelly_Horev,0,5.8065217391304351,3.8513043478260864
-milk,0,Shupersal-Deal_Eliezer,0,5.4000000000000004,3.8804761904761911
-milk,0,Shupersal-Express_Marganit,1,5.53125,5.1112500000000001
-milk,0,Shupersal-Shelly_Denia,0,5.7400000000000002,3.960666666666667
 milk,0,Shupersal-Deal_Admirality,2,6.1199999999999992,1.4810000000000008
-orange,1,Shupersal-Deal-Extra_Tel-Hanan,1,5.9000000000000004,5.9000000000000004
-orange,1,Shupersal-Deal_Grand-mall,1,5.9000000000000004,5.9000000000000004
-orange,1,Shupersal-Shelly_Sapir,2,6.9000000000000004,6.9000000000000004
-orange,1,Shupersal-Deal_Admirality,1,5.9000000000000004,5.9000000000000004
+milk,0,Shupersal-Shelly_Stela,0,5.4466666666666654,4.2313333333333336
+milk,0,Shupersal-Express_Raul,1,5.5999999999999996,5.0
+milk,0,Yesh_France,1,5.7437500000000004,4.5437500000000002
+milk,0,Shupersal-Shelly_Sapir,0,5.53125,4.0918749999999999
+milk,0,Shupersal-Shelly_Carmel,0,5.6400000000000006,3.8415000000000004
+milk,0,Shupersal-Shelly_Horev,0,5.8065217391304351,3.8513043478260864
+milk,0,Shupersal-Deal_Haifa-mall,2,5.9124999999999996,1.5125000000000002
+milk,0,Shupersal-Deal_Eliezer,0,5.4000000000000004,3.8804761904761911
 orange,1,Shupersal-Shelly_Horev,2,6.9000000000000004,6.9000000000000004
+orange,1,Shupersal-Deal_Admirality,0,5.9000000000000004,5.9000000000000004
+orange,1,Shupersal-Shelly_Sapir,2,6.9000000000000004,6.9000000000000004
+orange,1,Shupersal-Deal-Extra_Tel-Hanan,0,5.9000000000000004,5.9000000000000004
 potato,2,Shupersal-Shelly_Nativ-Hen,0,6.9000000000000004,6.9000000000000004
-potato,2,Victory_Haifa,1,7.9000000000000004,7.9000000000000004
-potato,2,Shupersal-Deal-Extra_Tel-Hanan,2,12.9,12.9
+potato,2,Shupersal-Shelly_Keler,2,13.9,13.9
+potato,2,Shupersal-Deal-Extra_Tel-Hanan,1,12.9,12.9
 potato,2,Yesh_Hanita,2,14.9,14.9
-potato,2,Shupersal-Deal_Grand-mall,2,12.9,12.9
+potato,2,Shupersal-Deal_Grand-mall,1,12.9,12.9
 potato,2,Shupersal-Shelly_Vardia,0,6.9000000000000004,6.9000000000000004
 potato,2,Shupersal-Shelly_Denia,0,6.9000000000000004,6.9000000000000004
 potato,2,Shupersal-Shelly_Ziv,2,13.9,13.9
-potato,2,Shupersal-Deal_Admirality,2,12.9,12.9
+potato,2,Shupersal-Deal_Admirality,1,12.9,12.9
 potato,2,Shupersal-Shelly_Stela,2,13.9,13.9
-potato,2,Shupersal-Shelly_Keler,2,13.9,13.9
 potato,2,Yesh_France,2,14.9,14.9
 potato,2,Shupersal-Shelly_Sapir,2,13.9,13.9
 potato,2,Shupersal-Shelly_Carmel,0,6.9000000000000004,6.9000000000000004
 potato,2,Shupersal-Shelly_Horev,2,13.9,13.9
 potato,2,Shupersal-Deal_Haifa-mall,0,5.7000000000000002,5.7000000000000002
-potato,2,Shupersal-Deal_Eliezer,2,12.9,12.9
-potato,2,Lahav_Haifa,1,8.9000000000000004,8.9000000000000004
+potato,2,Shupersal-Deal_Eliezer,1,12.9,12.9
 Dish soap,1,Shupersal-Shelly_Nativ-Hen,0,10.0,10.0
-Dish soap,1,Victory_Haifa,1,11.243478260869566,3.7247826086956479
+Dish soap,1,Shupersal-Shelly_Keler,0,10.0,10.0
 Dish soap,1,Shupersal-Deal-Extra_Tel-Hanan,0,11.283333333333333,9.4100000000000001
 Dish soap,1,Yesh_Hanita,2,14.066666666666666,12.185
 Dish soap,1,Shupersal-Deal_Grand-mall,0,11.983333333333334,9.6566666666666663
@@ -683,144 +611,128 @@ Dish soap,1,Shupersal-Shelly_Denia,0,10.0,10.0
 Dish soap,1,Shupersal-Shelly_Ziv,0,10.0,10.0
 Dish soap,1,Shupersal-Deal_Admirality,0,11.283333333333333,9.4100000000000001
 Dish soap,1,Shupersal-Shelly_Stela,0,10.0,10.0
-Dish soap,1,Shupersal-Shelly_Keler,0,10.0,10.0
-Dish soap,1,Yesh_France,2,14.066666666666666,12.184999999999999
 Dish soap,1,Shupersal-Express_Raul,1,12.15,1.8049999999999997
+Dish soap,1,Yesh_France,2,14.066666666666666,12.184999999999999
 Dish soap,1,Shupersal-Shelly_Sapir,0,10.0,9.9999999999999982
 Dish soap,1,Shupersal-Shelly_Carmel,0,10.225,9.6799999999999997
 Dish soap,1,Shupersal-Shelly_Horev,1,10.184615384615386,1.5446153846153843
 Dish soap,1,Shupersal-Deal_Haifa-mall,0,11.283333333333333,9.4100000000000001
 Dish soap,1,Shupersal-Deal_Eliezer,0,11.685714285714285,9.4085714285714275
-Dish soap,1,Lahav_Haifa,1,10.050000000000001,0.012999999999999012
-milk,1,Shupersal-Shelly_Keler,2,8.4327272727272735,8.1736363636363638
-milk,1,Shupersal-Deal_Grand-mall,2,8.1174999999999997,7.8812499999999996
-milk,1,Shupersal-Shelly_Vardia,0,6.2874999999999996,1.723749999999999
 milk,1,Shupersal-Shelly_Nativ-Hen,2,8.266,7.9809999999999999
-milk,1,Shupersal-Express_Raul,2,7.8025000000000002,7.4437499999999996
+milk,1,Shupersal-Express_Marganit,2,8.7911111111111104,7.1944444444444446
+milk,1,Shupersal-Shelly_Keler,2,8.4327272727272735,8.1736363636363638
+milk,1,Shupersal-Deal-Extra_Tel-Hanan,1,6.8393548387096779,6.6564516129032256
 milk,1,Yesh_Hanita,1,6.9678571428571434,6.765714285714286
+milk,1,Shupersal-Deal_Grand-mall,1,6.8667741935483875,6.6838709677419352
+milk,1,Shupersal-Shelly_Denia,2,8.0733333333333341,7.7566666666666668
+milk,1,Shupersal-Shelly_Vardia,0,6.2874999999999996,1.723749999999999
 milk,1,Shupersal-Express_Rambam,1,7.1246153846153844,6.4615384615384617
 milk,1,Shupersal-Shelly_Ziv,2,8.3485714285714288,8.0771428571428565
-milk,1,Yesh_France,1,7.7000000000000002,7.3855555555555554
-milk,1,Shupersal-Shelly_Carmel,2,8.2905263157894744,7.9905263157894737
-milk,1,Lahav_Haifa,1,7.8047619047619046,6.8776190476190475
-milk,1,Shuk_Haifa,2,8.6336842105263152,6.7647368421052629
-milk,1,Victory_Haifa,2,9.9199999999999999,9.9199999999999982
-milk,1,Shupersal-Deal-Extra_Tel-Hanan,2,8.749032258064517,7.3338709677419356
-milk,1,Shupersal-Shelly_Sapir,2,8.4104761904761904,8.13904761904762
-milk,1,Shupersal-Shelly_Stela,2,8.3309999999999995,8.0459999999999994
-milk,1,Shupersal-Shelly_Horev,2,8.4199999999999999,8.2833333333333332
-milk,1,Shupersal-Deal_Eliezer,2,8.5711111111111116,7.3314814814814815
-milk,1,Shupersal-Express_Marganit,2,8.7911111111111104,7.1944444444444446
-milk,1,Shupersal-Shelly_Denia,2,8.0733333333333341,7.7566666666666668
 milk,1,Shupersal-Deal_Admirality,1,6.8593103448275867,6.6637931034482758
-coffee,2,Shupersal-Shelly_Keler,0,31.640000000000001,15.145999999999999
-coffee,2,Shupersal-Deal_Grand-mall,0,29.647058823529413,13.201176470588235
-coffee,2,Shupersal-Shelly_Vardia,0,30.0,15.586666666666666
+milk,1,Shupersal-Shelly_Stela,2,8.3309999999999995,8.0459999999999994
+milk,1,Shupersal-Express_Raul,2,7.8025000000000002,7.4437499999999996
+milk,1,Yesh_France,2,7.7000000000000002,7.3855555555555554
+milk,1,Shupersal-Shelly_Sapir,2,8.4104761904761904,8.13904761904762
+milk,1,Shupersal-Shelly_Carmel,2,8.2905263157894744,7.9905263157894737
+milk,1,Shupersal-Shelly_Horev,2,9.3007142857142853,7.7400000000000002
+milk,1,Shupersal-Deal_Haifa-mall,1,6.7050000000000001,6.5854166666666671
+milk,1,Shupersal-Deal_Eliezer,2,8.5711111111111116,7.3314814814814815
 coffee,2,Shupersal-Shelly_Nativ-Hen,0,31.257142857142853,14.574285714285715
-coffee,2,Shupersal-Express_Raul,0,34.060000000000002,17.506
+coffee,2,Shupersal-Express_Marganit,0,29.933333333333334,14.966666666666667
+coffee,2,Shupersal-Shelly_Keler,0,31.640000000000001,15.145999999999999
+coffee,2,Shupersal-Deal-Extra_Tel-Hanan,0,31.414999999999999,13.586
 coffee,2,Yesh_Hanita,0,29.338461538461537,14.386153846153846
+coffee,2,Shupersal-Deal_Grand-mall,0,29.647058823529413,13.201176470588235
+coffee,2,Shupersal-Shelly_Denia,0,32.25,15.389166666666666
+coffee,2,Shupersal-Shelly_Vardia,0,30.0,15.586666666666666
 coffee,2,Shupersal-Express_Rambam,0,29.345454545454544,14.401818181818182
 coffee,2,Shupersal-Shelly_Ziv,0,29.899999999999999,13.830769230769231
-coffee,2,Yesh_France,0,37.366666666666667,18.683333333333334
-coffee,2,Shupersal-Shelly_Carmel,0,32.283333333333331,14.956666666666667
-coffee,2,Lahav_Haifa,2,76.0,0.080000000000000002
-coffee,2,Shuk_Haifa,1,46.899999999999999,38.416666666666664
-coffee,2,Victory_Haifa,1,54.600000000000001,54.600000000000001
-coffee,2,Shupersal-Deal-Extra_Tel-Hanan,0,31.414999999999999,13.586
-coffee,2,Shupersal-Shelly_Sapir,0,29.419999999999998,14.052
+coffee,2,Shupersal-Deal_Admirality,2,75.700000000000003,75.700000000000003
 coffee,2,Shupersal-Shelly_Stela,0,31.225000000000001,15.344166666666666
+coffee,2,Shupersal-Express_Raul,0,34.060000000000002,17.506
+coffee,2,Yesh_France,0,37.366666666666667,18.683333333333334
+coffee,2,Shupersal-Shelly_Sapir,0,29.419999999999998,14.052
+coffee,2,Shupersal-Shelly_Carmel,0,32.776470588235298,15.133529411764707
 coffee,2,Shupersal-Shelly_Horev,0,32.882352941176471,15.347058823529412
+coffee,2,Shupersal-Deal_Haifa-mall,0,29.123809523809527,14.316190476190476
 coffee,2,Shupersal-Deal_Eliezer,0,30.952941176470588,13.854117647058823
-coffee,2,Shupersal-Express_Marganit,0,29.933333333333334,14.966666666666667
-coffee,2,Shupersal-Shelly_Denia,0,32.25,15.389166666666666
-coffee,2,Shupersal-Deal_Admirality,1,75.700000000000003,75.700000000000003
-orange,0,Shupersal-Deal-Extra_Tel-Hanan,1,4.9000000000000004,4.9000000000000004
-orange,0,Shupersal-Deal_Grand-mall,1,4.9000000000000004,4.9000000000000004
-orange,0,Shupersal-Shelly_Sapir,2,5.9000000000000004,5.9000000000000004
-orange,0,Shupersal-Deal_Admirality,1,4.9000000000000004,4.9000000000000004
 orange,0,Shupersal-Shelly_Horev,2,5.9000000000000004,5.9000000000000004
+orange,0,Shupersal-Deal_Admirality,0,4.9000000000000004,4.9000000000000004
+orange,0,Shupersal-Shelly_Sapir,2,5.9000000000000004,5.9000000000000004
+orange,0,Shupersal-Deal-Extra_Tel-Hanan,0,4.9000000000000004,4.9000000000000004
 garbage bag,1,Shupersal-Shelly_Nativ-Hen,2,22.34,22.34
 garbage bag,1,Shupersal-Express_Marganit,2,23.899999999999999,23.899999999999999
-garbage bag,1,Victory_Haifa,1,20.024999999999999,0.54749999999999943
-garbage bag,1,Shupersal-Deal-Extra_Tel-Hanan,0,20.25,20.25
-garbage bag,1,Yesh_Hanita,0,18.399999999999999,18.399999999999999
-garbage bag,1,Shupersal-Deal_Grand-mall,0,20.285714285714285,20.285714285714285
-garbage bag,1,Shupersal-Shelly_Vardia,0,15.0,15.0
+garbage bag,1,Shupersal-Shelly_Keler,2,22.266666666666666,22.266666666666666
+garbage bag,1,Shupersal-Deal-Extra_Tel-Hanan,1,20.25,20.25
+garbage bag,1,Yesh_Hanita,1,18.399999999999999,18.399999999999999
+garbage bag,1,Shupersal-Deal_Grand-mall,1,20.285714285714285,20.285714285714285
+garbage bag,1,Shupersal-Shelly_Vardia,1,15.0,15.0
 garbage bag,1,Shupersal-Shelly_Denia,2,22.266666666666666,22.266666666666666
 garbage bag,1,Shupersal-Shelly_Ziv,2,22.924999999999997,22.924999999999997
-garbage bag,1,Shupersal-Deal_Admirality,0,20.211111111111112,20.211111111111112
+garbage bag,1,Shupersal-Deal_Admirality,1,20.211111111111112,20.211111111111112
 garbage bag,1,Shupersal-Shelly_Stela,2,22.266666666666666,22.266666666666666
-garbage bag,1,Shupersal-Shelly_Keler,2,22.266666666666666,22.266666666666666
+garbage bag,1,Shupersal-Express_Raul,1,19.899999999999999,19.899999999999999
 garbage bag,1,Yesh_France,2,22.233333333333331,22.233333333333331
-garbage bag,1,Shupersal-Express_Raul,0,19.899999999999999,19.899999999999999
 garbage bag,1,Shupersal-Shelly_Sapir,2,22.771428571428569,22.771428571428569
 garbage bag,1,Shupersal-Shelly_Carmel,2,23.071428571428569,23.071428571428569
 garbage bag,1,Shupersal-Shelly_Horev,2,22.266666666666666,22.266666666666666
-garbage bag,1,Shupersal-Deal_Haifa-mall,0,20.237500000000001,20.237500000000001
-garbage bag,1,Shupersal-Deal_Eliezer,0,20.271428571428572,20.271428571428572
-garbage bag,1,Lahav_Haifa,1,25.899999999999999,0.68500000000000227
+garbage bag,1,Shupersal-Deal_Haifa-mall,1,20.237500000000001,20.237500000000001
+garbage bag,1,Shupersal-Deal_Eliezer,1,20.271428571428572,20.271428571428572
 oil,1,Shupersal-Shelly_Nativ-Hen,1,13.9,8.4049999999999994
-oil,1,Victory_Haifa,1,12.266666666666667,8.6133333333333333
+oil,1,Shupersal-Shelly_Keler,1,14.566666666666666,8.7199999999999989
 oil,1,Shupersal-Deal-Extra_Tel-Hanan,2,14.4,14.4
-oil,1,Yesh_Hanita,2,16.899999999999999,16.899999999999999
+oil,1,Yesh_Hanita,2,16.549999999999997,16.549999999999997
 oil,1,Shupersal-Deal_Grand-mall,1,14.233333333333334,8.5233333333333334
 oil,1,Shupersal-Shelly_Vardia,2,15.350000000000001,15.350000000000001
 oil,1,Shupersal-Shelly_Denia,1,13.9,6.9500000000000002
 oil,1,Shupersal-Shelly_Ziv,1,14.566666666666666,8.7199999999999989
 oil,1,Shupersal-Deal_Admirality,1,14.4,8.3949999999999996
 oil,1,Shupersal-Shelly_Stela,1,15.9,9.3499999999999996
-oil,1,Shupersal-Shelly_Keler,1,14.566666666666666,8.7199999999999989
 oil,1,Shupersal-Express_Raul,2,15.9,15.9
 oil,1,Shupersal-Shelly_Sapir,1,13.9,8.4049999999999994
 oil,1,Shupersal-Shelly_Carmel,1,14.566666666666666,8.7199999999999989
 oil,1,Shupersal-Shelly_Horev,1,15.1,10.542
-oil,1,Shupersal-Deal_Haifa-mall,2,14.233333333333334,13.700000000000001
+oil,1,Shupersal-Deal_Haifa-mall,1,13.9,8.4049999999999994
 oil,1,Shupersal-Deal_Eliezer,1,14.233333333333334,8.5233333333333334
-oil,1,Lahav_Haifa,2,16.166666666666664,16.166666666666664
 fats remover,2,Shupersal-Shelly_Nativ-Hen,0,15.0,15.0
-fats remover,2,Victory_Haifa,1,14.766666666666667,1.8533333333333333
+fats remover,2,Shupersal-Shelly_Keler,0,15.0,15.0
 fats remover,2,Shupersal-Deal-Extra_Tel-Hanan,0,15.0,15.0
 fats remover,2,Shupersal-Deal_Grand-mall,0,15.0,15.0
 fats remover,2,Shupersal-Shelly_Vardia,0,15.0,15.0
 fats remover,2,Shupersal-Shelly_Ziv,0,15.0,15.0
 fats remover,2,Shupersal-Deal_Admirality,1,16.233333333333334,2.6600000000000001
 fats remover,2,Shupersal-Shelly_Stela,0,15.0,15.0
-fats remover,2,Shupersal-Shelly_Keler,0,15.0,15.0
 fats remover,2,Shupersal-Shelly_Sapir,0,15.0,15.0
 fats remover,2,Shupersal-Shelly_Carmel,0,15.0,15.0
 fats remover,2,Shupersal-Shelly_Horev,1,15.800000000000001,2.6299999999999999
 fats remover,2,Shupersal-Deal_Haifa-mall,0,15.0,15.0
 fats remover,2,Shupersal-Deal_Eliezer,0,15.0,15.0
-fats remover,2,Lahav_Haifa,2,28.899999999999999,28.899999999999999
-coffee,0,Shupersal-Shelly_Keler,0,15.362499999999997,9.194583333333334
-coffee,0,Shupersal-Deal_Grand-mall,0,14.686206896551727,8.9348275862068967
-coffee,0,Shupersal-Shelly_Vardia,0,16.274999999999999,9.8350000000000009
-coffee,0,Shupersal-Shelly_Nativ-Hen,0,14.965217391304346,9.0143478260869578
-coffee,0,Shupersal-Express_Raul,2,15.900000000000002,31.800000000000001
-coffee,0,Yesh_Hanita,2,15.9,31.800000000000001
-coffee,0,Shupersal-Express_Rambam,0,13.966666666666669,8.1320000000000014
-coffee,0,Shupersal-Shelly_Ziv,0,15.666666666666666,8.9888888888888872
-coffee,0,Yesh_France,0,15.254545454545456,8.9709090909090907
-coffee,0,Shupersal-Shelly_Carmel,0,14.995833333333334,9.8833333333333329
-coffee,0,Lahav_Haifa,1,15.974074074074075,0.13370370370370371
-coffee,0,Shuk_Haifa,2,16.399999999999999,32.799999999999997
-coffee,0,Victory_Haifa,0,16.264285714285716,13.321428571428571
-coffee,0,Shupersal-Deal-Extra_Tel-Hanan,0,14.180645161290322,8.7287096774193529
-coffee,0,Shupersal-Shelly_Sapir,0,15.795833333333333,8.9429166666666653
-coffee,0,Shupersal-Shelly_Stela,0,15.604761904761904,9.0742857142857147
-coffee,0,Shupersal-Shelly_Horev,0,15.865384615384615,9.4026923076923072
-coffee,0,Shupersal-Deal_Eliezer,0,14.157692307692308,9.0253846153846169
+coffee,0,Shupersal-Shelly_Nativ-Hen,1,14.965217391304346,9.0143478260869578
 coffee,0,Shupersal-Express_Marganit,0,14.35,8.2149999999999981
-coffee,0,Shupersal-Shelly_Denia,0,15.831578947368421,9.3289473684210495
+coffee,0,Shupersal-Shelly_Keler,1,15.362499999999997,9.194583333333334
+coffee,0,Shupersal-Deal-Extra_Tel-Hanan,0,14.180645161290322,8.7287096774193529
+coffee,0,Yesh_Hanita,2,15.9,31.800000000000001
+coffee,0,Shupersal-Deal_Grand-mall,0,14.686206896551727,8.9348275862068967
+coffee,0,Shupersal-Shelly_Denia,1,15.831578947368421,9.3289473684210495
+coffee,0,Shupersal-Shelly_Vardia,1,16.274999999999999,9.8350000000000009
+coffee,0,Shupersal-Express_Rambam,0,13.966666666666669,8.1320000000000014
+coffee,0,Shupersal-Shelly_Ziv,1,15.666666666666666,8.9888888888888872
 coffee,0,Shupersal-Deal_Admirality,0,14.364285714285716,8.1907142857142858
-orange,2,Shupersal-Deal-Extra_Tel-Hanan,1,6.9000000000000004,6.9000000000000004
-orange,2,Shupersal-Deal_Grand-mall,1,6.9000000000000004,6.9000000000000004
-orange,2,Shupersal-Shelly_Sapir,2,7.9000000000000004,7.9000000000000004
-orange,2,Shupersal-Deal_Admirality,1,6.9000000000000004,6.9000000000000004
+coffee,0,Shupersal-Shelly_Stela,1,15.604761904761904,9.0742857142857147
+coffee,0,Shupersal-Express_Raul,2,15.900000000000002,31.800000000000001
+coffee,0,Yesh_France,1,15.254545454545456,8.9709090909090907
+coffee,0,Shupersal-Shelly_Sapir,1,15.795833333333333,8.9429166666666653
+coffee,0,Shupersal-Shelly_Carmel,1,15.352,9.9659999999999993
+coffee,0,Shupersal-Shelly_Horev,1,15.865384615384615,9.4026923076923072
+coffee,0,Shupersal-Deal_Haifa-mall,0,13.230434782608697,7.9760869565217369
+coffee,0,Shupersal-Deal_Eliezer,0,14.157692307692308,9.0253846153846169
 orange,2,Shupersal-Shelly_Horev,2,7.9000000000000004,7.9000000000000004
+orange,2,Shupersal-Deal_Admirality,0,6.9000000000000004,6.9000000000000004
+orange,2,Shupersal-Shelly_Sapir,2,7.9000000000000004,7.9000000000000004
+orange,2,Shupersal-Deal-Extra_Tel-Hanan,0,6.9000000000000004,6.9000000000000004
 bleach,0,Shupersal-Shelly_Nativ-Hen,1,9.4499999999999993,2.2616666666666672
 bleach,0,Shupersal-Express_Marganit,1,8.9000000000000004,2.23
-bleach,0,Victory_Haifa,0,9.0500000000000007,9.0500000000000007
+bleach,0,Shupersal-Shelly_Keler,1,9.1600000000000001,2.1680000000000001
 bleach,0,Shupersal-Deal-Extra_Tel-Hanan,2,9.125,18.795000000000002
 bleach,0,Yesh_Hanita,1,6.9000000000000004,1.73
 bleach,0,Shupersal-Deal_Grand-mall,2,9.3500000000000014,19.790000000000003
@@ -829,75 +741,67 @@ bleach,0,Shupersal-Shelly_Denia,1,9.4333333333333336,2.4533333333333327
 bleach,0,Shupersal-Shelly_Ziv,1,9.5142857142857142,2.2928571428571427
 bleach,0,Shupersal-Deal_Admirality,2,9.2000000000000011,19.126666666666665
 bleach,0,Shupersal-Shelly_Stela,1,9.5142857142857142,2.2928571428571431
-bleach,0,Shupersal-Shelly_Keler,1,9.1600000000000001,2.1680000000000001
 bleach,0,Shupersal-Express_Raul,1,9.9000000000000004,2.48
 bleach,0,Shupersal-Shelly_Sapir,1,9.4499999999999993,2.2616666666666672
 bleach,0,Shupersal-Shelly_Carmel,1,9.5142857142857142,2.2928571428571431
 bleach,0,Shupersal-Shelly_Horev,1,9.5142857142857142,2.2928571428571427
 bleach,0,Shupersal-Deal_Haifa-mall,1,6.9000000000000004,3.4500000000000002
 bleach,0,Shupersal-Deal_Eliezer,2,8.9000000000000004,17.800000000000001
-bleach,0,Lahav_Haifa,1,6.4000000000000004,3.085
-peanut snack,1,Shupersal-Shelly_Keler,1,10.633333333333333,5.7366666666666664
-peanut snack,1,Shupersal-Deal_Grand-mall,0,6.5,21.670000000000002
-peanut snack,1,Shupersal-Shelly_Vardia,2,16.175000000000001,8.8399999999999999
 peanut snack,1,Shupersal-Shelly_Nativ-Hen,1,10.633333333333333,5.7366666666666664
-peanut snack,1,Shupersal-Express_Raul,2,16.550000000000001,6.1050000000000004
+peanut snack,1,Shupersal-Express_Marganit,1,4.5333333333333332,5.6699999999999999
+peanut snack,1,Shupersal-Shelly_Keler,1,10.633333333333333,5.7366666666666664
+peanut snack,1,Shupersal-Deal-Extra_Tel-Hanan,2,12.542857142857143,6.2871428571428574
 peanut snack,1,Yesh_Hanita,2,18.099999999999998,6.25
+peanut snack,1,Shupersal-Deal_Grand-mall,0,6.5,21.670000000000002
+peanut snack,1,Shupersal-Shelly_Denia,2,15.575000000000001,6.9350000000000005
+peanut snack,1,Shupersal-Shelly_Vardia,2,17.933333333333334,9.1533333333333324
 peanut snack,1,Shupersal-Express_Rambam,1,4.5250000000000004,6.11625
 peanut snack,1,Shupersal-Shelly_Ziv,1,10.633333333333333,5.7366666666666664
-peanut snack,1,Yesh_France,2,15.433333333333334,7.333333333333333
-peanut snack,1,Shupersal-Shelly_Carmel,1,10.633333333333333,5.7366666666666664
-peanut snack,1,Lahav_Haifa,2,16.82,0.084000000000000075
-peanut snack,1,Shuk_Haifa,1,4.083333333333333,5.979166666666667
-peanut snack,1,Victory_Haifa,1,11.4,6.7750000000000004
-peanut snack,1,Shupersal-Deal-Extra_Tel-Hanan,1,11.800000000000001,6.1549999999999994
-peanut snack,1,Shupersal-Shelly_Sapir,0,6.9000000000000004,23.0
-peanut snack,1,Shupersal-Shelly_Stela,1,10.633333333333333,5.7366666666666664
-peanut snack,1,Shupersal-Shelly_Horev,0,6.9000000000000004,23.0
-peanut snack,1,Shupersal-Deal_Eliezer,2,12.966666666666667,5.7483333333333331
-peanut snack,1,Shupersal-Express_Marganit,1,4.5333333333333332,5.6699999999999999
-peanut snack,1,Shupersal-Shelly_Denia,2,17.133333333333333,6.6133333333333333
 peanut snack,1,Shupersal-Deal_Admirality,0,6.5,21.670000000000002
-cabbage,2,Shupersal-Shelly_Nativ-Hen,0,6.9000000000000004,6.9000000000000004
-cabbage,2,Victory_Haifa,2,12.9,12.9
+peanut snack,1,Shupersal-Shelly_Stela,1,10.633333333333333,5.7366666666666664
+peanut snack,1,Shupersal-Express_Raul,2,16.550000000000001,6.1050000000000004
+peanut snack,1,Yesh_France,2,15.433333333333334,7.333333333333333
+peanut snack,1,Shupersal-Shelly_Sapir,0,6.9000000000000004,23.0
+peanut snack,1,Shupersal-Shelly_Carmel,1,10.633333333333333,5.7366666666666664
+peanut snack,1,Shupersal-Shelly_Horev,0,6.9000000000000004,23.0
+peanut snack,1,Shupersal-Deal_Haifa-mall,2,14.675000000000001,8.0700000000000003
+peanut snack,1,Shupersal-Deal_Eliezer,2,12.966666666666667,5.7483333333333331
+cabbage,2,Shupersal-Shelly_Nativ-Hen,1,6.9000000000000004,6.9000000000000004
+cabbage,2,Shupersal-Shelly_Keler,2,12.9,12.9
 cabbage,2,Shupersal-Deal-Extra_Tel-Hanan,0,5.9000000000000004,5.9000000000000004
 cabbage,2,Shupersal-Deal_Grand-mall,2,12.9,12.9
 cabbage,2,Shupersal-Shelly_Denia,2,12.9,12.9
-cabbage,2,Shupersal-Shelly_Ziv,0,6.9000000000000004,6.9000000000000004
+cabbage,2,Shupersal-Shelly_Ziv,1,6.9000000000000004,6.9000000000000004
 cabbage,2,Shupersal-Deal_Admirality,2,12.9,12.9
 cabbage,2,Shupersal-Shelly_Stela,2,12.9,12.9
-cabbage,2,Shupersal-Shelly_Keler,2,12.9,12.9
 cabbage,2,Shupersal-Shelly_Sapir,2,12.9,12.9
 cabbage,2,Shupersal-Shelly_Carmel,2,12.9,12.9
 cabbage,2,Shupersal-Shelly_Horev,2,12.9,12.9
 cabbage,2,Shupersal-Deal_Haifa-mall,0,5.9000000000000004,5.9000000000000004
 cabbage,2,Shupersal-Deal_Eliezer,0,5.9000000000000004,5.9000000000000004
-cabbage,2,Lahav_Haifa,1,11.0,11.0
-toilet paper,2,Shupersal-Shelly_Nativ-Hen,1,39.066666666666663,7.2866666666666662
+toilet paper,2,Shupersal-Shelly_Nativ-Hen,0,39.066666666666663,7.2866666666666662
 toilet paper,2,Shupersal-Express_Marganit,1,41.899999999999999,4.8700000000000001
-toilet paper,2,Victory_Haifa,0,33.899999999999999,2.0385714285714283
+toilet paper,2,Shupersal-Shelly_Keler,0,38.757142857142853,8.1557142857142857
 toilet paper,2,Shupersal-Deal-Extra_Tel-Hanan,1,42.149999999999999,6.0925000000000002
 toilet paper,2,Yesh_Hanita,0,36.233333333333334,5.3083333333333336
 toilet paper,2,Shupersal-Deal_Grand-mall,2,49.399999999999999,7.3049999999999997
-toilet paper,2,Shupersal-Shelly_Vardia,1,39.233333333333334,8.8499999999999996
-toilet paper,2,Shupersal-Shelly_Denia,1,38.757142857142853,8.1557142857142857
-toilet paper,2,Shupersal-Shelly_Ziv,1,38.757142857142853,8.1557142857142857
+toilet paper,2,Shupersal-Shelly_Vardia,0,39.233333333333334,8.8499999999999996
+toilet paper,2,Shupersal-Shelly_Denia,0,38.757142857142853,8.1557142857142857
+toilet paper,2,Shupersal-Shelly_Ziv,0,38.757142857142853,8.1557142857142857
 toilet paper,2,Shupersal-Deal_Admirality,2,48.566666666666663,7.7800000000000002
-toilet paper,2,Shupersal-Shelly_Stela,1,39.066666666666663,7.2866666666666662
-toilet paper,2,Shupersal-Shelly_Keler,1,38.757142857142853,8.1557142857142857
-toilet paper,2,Yesh_France,2,46.899999999999999,8.7300000000000004
+toilet paper,2,Shupersal-Shelly_Stela,0,39.066666666666663,7.2866666666666662
 toilet paper,2,Shupersal-Express_Raul,2,46.399999999999999,7.1649999999999991
-toilet paper,2,Shupersal-Shelly_Sapir,1,39.066666666666663,7.2866666666666662
-toilet paper,2,Shupersal-Shelly_Carmel,1,40.149999999999999,8.2974999999999994
-toilet paper,2,Shupersal-Shelly_Horev,1,38.757142857142853,8.1557142857142857
-toilet paper,2,Shupersal-Deal_Haifa-mall,1,40.222222222222221,6.6399999999999997
+toilet paper,2,Yesh_France,2,46.899999999999999,8.7300000000000004
+toilet paper,2,Shupersal-Shelly_Sapir,0,39.066666666666663,7.2866666666666662
+toilet paper,2,Shupersal-Shelly_Carmel,0,40.149999999999999,8.2974999999999994
+toilet paper,2,Shupersal-Shelly_Horev,0,38.757142857142853,8.1557142857142857
+toilet paper,2,Shupersal-Deal_Haifa-mall,1,41.012499999999996,5.9350000000000005
 toilet paper,2,Shupersal-Deal_Eliezer,2,48.566666666666663,7.7800000000000002
-toilet paper,2,Lahav_Haifa,0,36.455555555555556,0.18666666666666565
 deodorant,1,Shupersal-Shelly_Nativ-Hen,1,19.557894736842105,19.27315789473684
 deodorant,1,Shupersal-Express_Marganit,1,22.899999999999999,15.27
-deodorant,1,Victory_Haifa,0,15.669230769230769,24.976153846153846
+deodorant,1,Shupersal-Shelly_Keler,2,20.633333333333333,35.092222222222219
 deodorant,1,Shupersal-Deal-Extra_Tel-Hanan,2,21.324999999999999,38.751250000000006
-deodorant,1,Yesh_Hanita,2,19.899999999999999,39.799999999999997
+deodorant,1,Yesh_Hanita,0,15.899999999999999,31.799999999999997
 deodorant,1,Shupersal-Deal_Grand-mall,2,20.445161290322581,36.055161290322587
 deodorant,1,Shupersal-Shelly_Denia,2,28.633333333333333,38.053333333333335
 deodorant,1,Shupersal-Shelly_Vardia,1,21.933333333333334,18.858333333333334
@@ -905,17 +809,15 @@ deodorant,1,Shupersal-Express_Rambam,1,20.233333333333334,15.146666666666665
 deodorant,1,Shupersal-Shelly_Ziv,1,17.623333333333331,12.106999999999999
 deodorant,1,Shupersal-Deal_Admirality,2,22.086046511627906,37.669302325581398
 deodorant,1,Shupersal-Shelly_Stela,1,20.214285714285715,19.632857142857144
-deodorant,1,Shupersal-Shelly_Keler,2,20.633333333333333,35.092222222222219
 deodorant,1,Yesh_France,0,15.899999999999999,23.605
 deodorant,1,Shupersal-Shelly_Sapir,1,18.099999999999998,18.470714285714287
 deodorant,1,Shupersal-Shelly_Carmel,1,19.244444444444444,18.268333333333334
 deodorant,1,Shupersal-Shelly_Horev,0,18.0625,31.517500000000002
-deodorant,1,Shupersal-Deal_Haifa-mall,0,14.469230769230769,26.872307692307693
+deodorant,1,Shupersal-Deal_Haifa-mall,0,15.242857142857144,27.078571428571429
 deodorant,1,Shupersal-Deal_Eliezer,0,13.31904761904762,24.338571428571427
-deodorant,1,Lahav_Haifa,1,19.455555555555556,19.455555555555556
 bleach,1,Shupersal-Shelly_Nativ-Hen,1,10.199999999999999,20.399999999999999
 bleach,1,Shupersal-Express_Marganit,2,10.9,2.73
-bleach,1,Victory_Haifa,2,10.15,1.1424999999999996
+bleach,1,Shupersal-Shelly_Keler,1,10.199999999999999,20.399999999999999
 bleach,1,Shupersal-Deal-Extra_Tel-Hanan,2,10.491666666666667,2.1641666666666666
 bleach,1,Yesh_Hanita,0,8.9000000000000004,17.800000000000001
 bleach,1,Shupersal-Deal_Grand-mall,2,9.7300000000000004,2.1790000000000003
@@ -924,31 +826,27 @@ bleach,1,Shupersal-Shelly_Denia,1,10.199999999999999,20.399999999999999
 bleach,1,Shupersal-Shelly_Ziv,1,10.199999999999999,20.399999999999999
 bleach,1,Shupersal-Deal_Admirality,2,9.7300000000000004,2.1790000000000003
 bleach,1,Shupersal-Shelly_Stela,1,10.199999999999999,21.535000000000004
-bleach,1,Shupersal-Shelly_Keler,1,10.199999999999999,20.399999999999999
 bleach,1,Shupersal-Express_Raul,2,11.5,2.8799999999999999
 bleach,1,Shupersal-Shelly_Sapir,1,10.199999999999999,20.399999999999999
 bleach,1,Shupersal-Shelly_Carmel,1,10.199999999999999,20.399999999999999
 bleach,1,Shupersal-Shelly_Horev,1,10.199999999999999,21.156666666666666
 bleach,1,Shupersal-Deal_Haifa-mall,0,8.9000000000000004,17.800000000000001
 bleach,1,Shupersal-Deal_Eliezer,2,9.7300000000000004,2.1789999999999998
-bleach,1,Lahav_Haifa,2,11.183333333333334,1.0033333333333334
 fats remover,0,Shupersal-Shelly_Nativ-Hen,0,10.0,1.3300000000000001
-fats remover,0,Victory_Haifa,0,9.9000000000000004,1.6949999999999998
+fats remover,0,Shupersal-Shelly_Keler,0,10.0,1.3300000000000001
 fats remover,0,Shupersal-Deal-Extra_Tel-Hanan,0,10.0,1.3300000000000001
 fats remover,0,Shupersal-Deal_Grand-mall,0,10.0,1.3300000000000001
 fats remover,0,Shupersal-Shelly_Vardia,0,10.0,1.3300000000000001
 fats remover,0,Shupersal-Shelly_Ziv,0,10.0,1.3300000000000001
 fats remover,0,Shupersal-Deal_Admirality,0,10.0,1.3300000000000001
 fats remover,0,Shupersal-Shelly_Stela,0,10.0,1.3300000000000001
-fats remover,0,Shupersal-Shelly_Keler,0,10.0,1.3300000000000001
 fats remover,0,Shupersal-Shelly_Sapir,0,10.0,1.3300000000000001
 fats remover,0,Shupersal-Shelly_Carmel,0,10.0,1.3300000000000001
 fats remover,0,Shupersal-Shelly_Horev,0,10.0,1.3300000000000001
 fats remover,0,Shupersal-Deal_Haifa-mall,0,10.0,1.3300000000000001
 fats remover,0,Shupersal-Deal_Eliezer,0,10.0,1.3300000000000001
-fats remover,0,Lahav_Haifa,1,10.899999999999999,0.016666666666666607
-stain remover,1,Shupersal-Shelly_Nativ-Hen,0,14.9,11.92
-stain remover,1,Victory_Haifa,2,24.899999999999999,3.3650000000000002
+stain remover,1,Shupersal-Shelly_Nativ-Hen,1,14.9,11.92
+stain remover,1,Shupersal-Shelly_Keler,0,15.720000000000001,2.04
 stain remover,1,Shupersal-Deal-Extra_Tel-Hanan,1,23.600000000000001,19.103333333333332
 stain remover,1,Yesh_Hanita,2,28.233333333333331,8.4966666666666679
 stain remover,1,Shupersal-Deal_Grand-mall,2,25.98,7.9920000000000009
@@ -957,17 +855,15 @@ stain remover,1,Shupersal-Shelly_Denia,0,17.233333333333334,2.5
 stain remover,1,Shupersal-Shelly_Ziv,0,15.0,2.0633333333333335
 stain remover,1,Shupersal-Deal_Admirality,2,27.083333333333336,8.0183333333333344
 stain remover,1,Shupersal-Shelly_Stela,0,18.350000000000001,2.1550000000000002
-stain remover,1,Shupersal-Shelly_Keler,0,15.720000000000001,2.04
 stain remover,1,Yesh_France,2,29.399999999999999,8.4299999999999997
 stain remover,1,Shupersal-Shelly_Sapir,0,15.0,3.1899999999999995
-stain remover,1,Shupersal-Shelly_Carmel,0,14.9,11.92
+stain remover,1,Shupersal-Shelly_Carmel,1,14.9,11.92
 stain remover,1,Shupersal-Shelly_Horev,0,16.675000000000001,2.125
 stain remover,1,Shupersal-Deal_Haifa-mall,2,25.883333333333333,7.6183333333333332
 stain remover,1,Shupersal-Deal_Eliezer,1,23.600000000000001,19.103333333333335
-stain remover,1,Lahav_Haifa,2,33.825000000000003,13.58
 bleach,2,Shupersal-Shelly_Nativ-Hen,0,13.120000000000001,2.6420000000000003
 bleach,2,Shupersal-Express_Marganit,0,14.6,1.95
-bleach,2,Victory_Haifa,0,12.566666666666666,2.6833333333333336
+bleach,2,Shupersal-Shelly_Keler,0,12.380000000000001,2.7980000000000005
 bleach,2,Shupersal-Deal-Extra_Tel-Hanan,2,23.100000000000001,11.550000000000001
 bleach,2,Yesh_Hanita,0,13.833333333333334,1.8466666666666667
 bleach,2,Shupersal-Deal_Grand-mall,0,13.166666666666666,2.2433333333333332
@@ -976,53 +872,47 @@ bleach,2,Shupersal-Shelly_Denia,0,12.800000000000001,2.7033333333333336
 bleach,2,Shupersal-Shelly_Ziv,0,13.120000000000001,2.6419999999999999
 bleach,2,Shupersal-Deal_Admirality,0,13.0,2.4649999999999999
 bleach,2,Shupersal-Shelly_Stela,0,12.75,2.8150000000000004
-bleach,2,Shupersal-Shelly_Keler,0,12.380000000000001,2.7980000000000005
 bleach,2,Shupersal-Express_Raul,0,12.800000000000001,3.2000000000000002
 bleach,2,Shupersal-Shelly_Sapir,0,13.120000000000001,2.6420000000000003
 bleach,2,Shupersal-Shelly_Carmel,0,13.199999999999999,2.5024999999999999
 bleach,2,Shupersal-Shelly_Horev,0,13.25,2.5150000000000001
 bleach,2,Shupersal-Deal_Haifa-mall,0,10.722222222222223,2.2833333333333332
 bleach,2,Shupersal-Deal_Eliezer,0,13.0,2.4649999999999999
-bleach,2,Lahav_Haifa,1,19.899999999999999,0.030000000000000027
-apple,1,Shupersal-Shelly_Keler,1,12.9,12.9
-apple,1,Shupersal-Deal_Grand-mall,1,12.65,12.65
-apple,1,Shupersal-Shelly_Vardia,1,12.9,12.9
 apple,1,Shupersal-Shelly_Nativ-Hen,1,12.9,12.9
-apple,1,Shupersal-Express_Raul,1,12.9,12.9
+apple,1,Shupersal-Express_Marganit,2,13.9,13.9
+apple,1,Shupersal-Shelly_Keler,1,12.9,12.9
+apple,1,Shupersal-Deal-Extra_Tel-Hanan,1,12.65,12.65
 apple,1,Yesh_Hanita,0,8.9000000000000004,8.9000000000000004
+apple,1,Shupersal-Deal_Grand-mall,1,12.65,12.65
+apple,1,Shupersal-Shelly_Denia,1,12.9,12.9
+apple,1,Shupersal-Shelly_Vardia,1,12.9,12.9
 apple,1,Shupersal-Express_Rambam,1,12.9,12.9
 apple,1,Shupersal-Shelly_Ziv,1,12.9,12.9
-apple,1,Yesh_France,0,9.9000000000000004,9.9000000000000004
-apple,1,Shupersal-Shelly_Carmel,1,12.9,12.9
-apple,1,Lahav_Haifa,0,10.566666666666666,10.566666666666666
-apple,1,Shuk_Haifa,2,13.65,13.65
-apple,1,Victory_Haifa,0,8.9000000000000004,8.9000000000000004
-apple,1,Shupersal-Deal-Extra_Tel-Hanan,1,12.65,12.65
-apple,1,Shupersal-Shelly_Sapir,2,13.65,13.65
-apple,1,Shupersal-Shelly_Stela,1,12.9,12.9
-apple,1,Shupersal-Shelly_Horev,2,13.65,13.65
-apple,1,Shupersal-Deal_Eliezer,1,11.9,11.9
-apple,1,Shupersal-Express_Marganit,2,13.9,13.9
-apple,1,Shupersal-Shelly_Denia,1,12.9,12.9
 apple,1,Shupersal-Deal_Admirality,1,11.9,11.9
+apple,1,Shupersal-Shelly_Stela,1,12.9,12.9
+apple,1,Shupersal-Express_Raul,1,12.9,12.9
+apple,1,Yesh_France,0,9.9000000000000004,9.9000000000000004
+apple,1,Shupersal-Shelly_Sapir,2,13.65,13.65
+apple,1,Shupersal-Shelly_Carmel,1,12.9,12.9
+apple,1,Shupersal-Shelly_Horev,2,13.65,13.65
+apple,1,Shupersal-Deal_Haifa-mall,1,11.9,11.9
+apple,1,Shupersal-Deal_Eliezer,1,11.9,11.9
 cabbage,0,Shupersal-Shelly_Nativ-Hen,2,4.5,4.5
-cabbage,0,Victory_Haifa,1,2.9000000000000004,2.9000000000000004
+cabbage,0,Shupersal-Shelly_Keler,2,4.5,4.5
 cabbage,0,Shupersal-Deal-Extra_Tel-Hanan,1,3.5,3.5
 cabbage,0,Shupersal-Deal_Grand-mall,1,3.5,3.5
 cabbage,0,Shupersal-Shelly_Denia,2,4.5,4.5
 cabbage,0,Shupersal-Shelly_Ziv,2,4.5,4.5
 cabbage,0,Shupersal-Deal_Admirality,1,3.5,3.5
 cabbage,0,Shupersal-Shelly_Stela,2,4.5,4.5
-cabbage,0,Shupersal-Shelly_Keler,2,4.5,4.5
 cabbage,0,Shupersal-Shelly_Sapir,2,4.5,4.5
 cabbage,0,Shupersal-Shelly_Carmel,2,4.5,4.5
 cabbage,0,Shupersal-Shelly_Horev,2,4.5,4.5
 cabbage,0,Shupersal-Deal_Haifa-mall,1,3.5,3.5
 cabbage,0,Shupersal-Deal_Eliezer,1,3.5,3.5
-cabbage,0,Lahav_Haifa,0,2.8999999999999999,0.0
 toilet paper,0,Shupersal-Shelly_Nativ-Hen,1,16.899999999999999,16.899999999999999
 toilet paper,0,Shupersal-Express_Marganit,1,15.9,15.9
-toilet paper,0,Victory_Haifa,1,16.899999999999999,16.079999999999998
+toilet paper,0,Shupersal-Shelly_Keler,1,16.899999999999999,16.899999999999999
 toilet paper,0,Shupersal-Deal-Extra_Tel-Hanan,0,13.625000000000004,13.625
 toilet paper,0,Yesh_Hanita,1,16.899999999999999,16.899999999999999
 toilet paper,0,Shupersal-Deal_Grand-mall,0,13.375,13.375
@@ -1031,17 +921,15 @@ toilet paper,0,Shupersal-Shelly_Denia,1,17.399999999999999,17.399999999999999
 toilet paper,0,Shupersal-Shelly_Ziv,1,16.649999999999999,16.649999999999999
 toilet paper,0,Shupersal-Deal_Admirality,0,13.375,13.375
 toilet paper,0,Shupersal-Shelly_Stela,1,17.399999999999999,17.399999999999999
-toilet paper,0,Shupersal-Shelly_Keler,1,16.899999999999999,16.899999999999999
-toilet paper,0,Yesh_France,2,29.899999999999999,29.899999999999999
 toilet paper,0,Shupersal-Express_Raul,1,18.899999999999999,18.899999999999999
+toilet paper,0,Yesh_France,2,29.899999999999999,29.899999999999999
 toilet paper,0,Shupersal-Shelly_Sapir,1,17.399999999999999,17.399999999999999
 toilet paper,0,Shupersal-Shelly_Carmel,1,16.899999999999999,16.899999999999999
 toilet paper,0,Shupersal-Shelly_Horev,1,16.649999999999999,16.649999999999999
 toilet paper,0,Shupersal-Deal_Haifa-mall,0,13.199999999999999,13.199999999999999
 toilet paper,0,Shupersal-Deal_Eliezer,0,13.880000000000003,13.879999999999999
-toilet paper,0,Lahav_Haifa,0,16.149999999999999,11.704999999999998
 stain remover,0,Shupersal-Shelly_Nativ-Hen,0,13.966666666666667,1.5666666666666669
-stain remover,0,Victory_Haifa,1,13.9,8.1383333333333336
+stain remover,0,Shupersal-Shelly_Keler,1,14.9,11.92
 stain remover,0,Shupersal-Deal-Extra_Tel-Hanan,0,14.012499999999999,2.6100000000000012
 stain remover,0,Yesh_Hanita,2,19.899999999999999,2.120000000000001
 stain remover,0,Shupersal-Deal_Grand-mall,0,15.566666666666666,1.9933333333333332
@@ -1050,17 +938,15 @@ stain remover,0,Shupersal-Shelly_Denia,1,14.9,11.92
 stain remover,0,Shupersal-Shelly_Ziv,1,14.9,11.92
 stain remover,0,Shupersal-Deal_Admirality,0,13.87142857142857,2.8400000000000007
 stain remover,0,Shupersal-Shelly_Stela,1,14.9,11.92
-stain remover,0,Shupersal-Shelly_Keler,1,14.9,11.92
 stain remover,0,Yesh_France,2,20.899999999999999,3.3900000000000006
 stain remover,0,Shupersal-Shelly_Sapir,1,14.9,11.92
 stain remover,0,Shupersal-Shelly_Carmel,0,14.225,1.9725000000000001
 stain remover,0,Shupersal-Shelly_Horev,1,14.9,15.895
 stain remover,0,Shupersal-Deal_Haifa-mall,0,14.533333333333331,2.7283333333333335
 stain remover,0,Shupersal-Deal_Eliezer,0,14.6,2.7942857142857145
-stain remover,0,Lahav_Haifa,0,14.524999999999999,0.042500000000000426
 frozen ,1,Shupersal-Shelly_Nativ-Hen,1,20.274999999999999,2.7437499999999999
 frozen ,1,Shupersal-Express_Marganit,1,19.899999999999999,3.3199999999999998
-frozen ,1,Victory_Haifa,1,18.774999999999999,2.54
+frozen ,1,Shupersal-Shelly_Keler,2,22.300000000000001,22.300000000000004
 frozen ,1,Shupersal-Deal-Extra_Tel-Hanan,2,19.699999999999999,19.699999999999999
 frozen ,1,Yesh_Hanita,1,19.899999999999999,3.3199999999999998
 frozen ,1,Shupersal-Deal_Grand-mall,2,19.699999999999999,19.699999999999999
@@ -1070,104 +956,93 @@ frozen ,1,Shupersal-Express_Rambam,1,19.899999999999999,2.4900000000000002
 frozen ,1,Shupersal-Shelly_Ziv,2,22.300000000000001,22.300000000000001
 frozen ,1,Shupersal-Deal_Admirality,2,19.699999999999999,19.699999999999999
 frozen ,1,Shupersal-Shelly_Stela,2,22.300000000000001,22.300000000000004
-frozen ,1,Shupersal-Shelly_Keler,2,22.300000000000001,22.300000000000004
 frozen ,1,Shupersal-Express_Raul,1,25.699999999999999,4.2800000000000002
 frozen ,1,Shupersal-Shelly_Sapir,2,22.300000000000001,22.300000000000001
 frozen ,1,Shupersal-Shelly_Carmel,1,20.399999999999999,2.8010000000000002
 frozen ,1,Shupersal-Shelly_Horev,2,22.300000000000001,22.300000000000001
 frozen ,1,Shupersal-Deal_Haifa-mall,2,19.699999999999999,19.699999999999999
 frozen ,1,Shupersal-Deal_Eliezer,2,19.699999999999999,19.699999999999999
-frozen ,1,Lahav_Haifa,0,16.899999999999999,16.899999999999999
-bread,0,Shupersal-Shelly_Keler,0,4.4463157894736867,3.0789473684210522
-bread,0,Shupersal-Deal_Grand-mall,0,4.2892857142857146,2.96
-bread,0,Shupersal-Shelly_Vardia,0,4.9237499999999992,3.2999999999999998
-bread,0,Shupersal-Shelly_Nativ-Hen,0,4.6794117647058826,2.8929411764705888
-bread,0,Shupersal-Express_Raul,0,5.0,3.9061538461538463
-bread,0,Yesh_Hanita,2,9.490000000000002,1.673
-bread,0,Shupersal-Express_Rambam,0,4.1592857142857147,3.4571428571428573
-bread,0,Shupersal-Shelly_Ziv,0,4.6276190476190484,3.3904761904761909
-bread,0,Yesh_France,1,5.1000000000000005,0.76250000000000018
-bread,0,Shupersal-Shelly_Carmel,1,6.9661111111111129,3.0583333333333336
-bread,0,Lahav_Haifa,1,6.5736363636363642,0.22318181818181815
-bread,0,Shuk_Haifa,0,4.3769230769230774,2.0676923076923073
-bread,0,Victory_Haifa,1,6.8328571428571427,2.1365714285714281
-bread,0,Shupersal-Deal-Extra_Tel-Hanan,1,6.9565217391304381,2.4408695652173913
-bread,0,Shupersal-Shelly_Sapir,1,6.886874999999999,2.7431249999999996
-bread,0,Shupersal-Shelly_Stela,0,4.6340000000000003,3.3350000000000004
-bread,0,Shupersal-Shelly_Horev,1,6.4965714285714302,2.9348571428571431
-bread,0,Shupersal-Deal_Eliezer,2,9.1416666666666657,1.6499999999999999
+bread,0,Shupersal-Shelly_Nativ-Hen,0,4.6794117647058835,2.8929411764705883
 bread,0,Shupersal-Express_Marganit,0,4.8859999999999992,2.9199999999999999
-bread,0,Shupersal-Shelly_Denia,0,4.6340000000000021,3.335
-bread,0,Shupersal-Deal_Admirality,0,4.3461538461538485,2.9146153846153848
-toilet paper,1,Shupersal-Shelly_Nativ-Hen,1,27.924999999999997,4.2824999999999998
-toilet paper,1,Shupersal-Express_Marganit,1,29.899999999999999,5.0899999999999999
-toilet paper,1,Victory_Haifa,0,23.899999999999999,23.899999999999999
-toilet paper,1,Shupersal-Deal-Extra_Tel-Hanan,1,30.32,5.7889999999999997
-toilet paper,1,Yesh_Hanita,0,29.899999999999999,29.899999999999999
+bread,0,Shupersal-Shelly_Keler,0,4.446315789473684,3.0789473684210527
+bread,0,Shupersal-Deal-Extra_Tel-Hanan,1,6.9565217391304381,2.4408695652173913
+bread,0,Yesh_Hanita,2,9.490000000000002,1.673
+bread,0,Shupersal-Deal_Grand-mall,0,4.2892857142857173,2.96
+bread,0,Shupersal-Shelly_Denia,0,4.6339999999999995,3.335
+bread,0,Shupersal-Shelly_Vardia,0,4.9237500000000001,3.3000000000000003
+bread,0,Shupersal-Express_Rambam,0,4.1592857142857147,3.4571428571428573
+bread,0,Shupersal-Shelly_Ziv,0,4.6276190476190484,3.3904761904761904
+bread,0,Shupersal-Deal_Admirality,0,4.008333333333332,2.7458333333333336
+bread,0,Shupersal-Shelly_Stela,0,4.6339999999999995,3.335
+bread,0,Shupersal-Express_Raul,0,5.0,3.9061538461538463
+bread,0,Yesh_France,1,5.1000000000000005,0.76250000000000018
+bread,0,Shupersal-Shelly_Sapir,1,6.8868749999999999,2.743125
+bread,0,Shupersal-Shelly_Carmel,0,4.632380952380954,3.3952380952380952
+bread,0,Shupersal-Shelly_Horev,0,4.7158333333333333,3.3200000000000003
+bread,0,Shupersal-Deal_Haifa-mall,0,3.9000000000000021,2.831818181818182
+bread,0,Shupersal-Deal_Eliezer,2,9.1416666666666657,1.6499999999999999
+toilet paper,1,Shupersal-Shelly_Nativ-Hen,0,27.924999999999997,4.2824999999999998
+toilet paper,1,Shupersal-Express_Marganit,0,29.899999999999999,5.0899999999999999
+toilet paper,1,Shupersal-Shelly_Keler,0,27.719999999999999,4.3399999999999999
+toilet paper,1,Shupersal-Deal-Extra_Tel-Hanan,0,30.32,5.7889999999999997
+toilet paper,1,Yesh_Hanita,1,29.899999999999999,29.899999999999999
 toilet paper,1,Shupersal-Deal_Grand-mall,2,34.109999999999999,5.4950000000000001
-toilet paper,1,Shupersal-Shelly_Vardia,1,28.424999999999997,4.4850000000000003
-toilet paper,1,Shupersal-Shelly_Denia,1,28.424999999999997,4.4850000000000003
-toilet paper,1,Shupersal-Shelly_Ziv,1,27.583333333333332,4.3983333333333334
+toilet paper,1,Shupersal-Shelly_Vardia,0,28.424999999999997,4.4850000000000003
+toilet paper,1,Shupersal-Shelly_Denia,0,28.424999999999997,4.4850000000000003
+toilet paper,1,Shupersal-Shelly_Ziv,0,27.583333333333332,4.3983333333333334
 toilet paper,1,Shupersal-Deal_Admirality,2,33.574999999999996,5.9450000000000003
-toilet paper,1,Shupersal-Shelly_Stela,1,27.719999999999999,4.3399999999999999
-toilet paper,1,Shupersal-Shelly_Keler,1,27.719999999999999,4.3399999999999999
-toilet paper,1,Yesh_France,2,33.649999999999999,4.7824999999999998
+toilet paper,1,Shupersal-Shelly_Stela,0,27.719999999999999,4.3399999999999999
 toilet paper,1,Shupersal-Express_Raul,2,34.649999999999999,6.4649999999999999
-toilet paper,1,Shupersal-Shelly_Sapir,1,27.719999999999999,4.3399999999999999
-toilet paper,1,Shupersal-Shelly_Carmel,1,27.583333333333332,4.3983333333333334
-toilet paper,1,Shupersal-Shelly_Horev,1,27.719999999999999,4.3399999999999999
-toilet paper,1,Shupersal-Deal_Haifa-mall,1,28.399999999999999,4.2424999999999997
+toilet paper,1,Yesh_France,2,33.649999999999999,4.7824999999999998
+toilet paper,1,Shupersal-Shelly_Sapir,0,27.719999999999999,4.3399999999999999
+toilet paper,1,Shupersal-Shelly_Carmel,0,27.583333333333332,4.3983333333333334
+toilet paper,1,Shupersal-Shelly_Horev,0,27.719999999999999,4.3399999999999999
+toilet paper,1,Shupersal-Deal_Haifa-mall,0,29.5,5.8499999999999996
 toilet paper,1,Shupersal-Deal_Eliezer,2,34.0,5.9716666666666658
-toilet paper,1,Lahav_Haifa,0,27.233333333333331,27.233333333333327
-cucumber,0,Shupersal-Deal-Extra_Tel-Hanan,0,6.9000000000000004,6.9000000000000004
-cucumber,0,Shupersal-Deal_Grand-mall,0,6.9000000000000004,6.9000000000000004
-cucumber,0,Shupersal-Shelly_Sapir,2,7.9000000000000004,7.9000000000000004
-cucumber,0,Shupersal-Deal_Admirality,0,6.9000000000000004,6.9000000000000004
 cucumber,0,Shupersal-Shelly_Horev,2,7.9000000000000004,7.9000000000000004
-white cheese,1,Shupersal-Shelly_Keler,1,13.841176470588236,5.1835294117647059
-white cheese,1,Shupersal-Deal_Grand-mall,1,12.790000000000001,5.1879999999999997
-white cheese,1,Shupersal-Shelly_Vardia,1,12.318181818181818,5.8827272727272728
+cucumber,0,Shupersal-Deal_Admirality,0,6.9000000000000004,6.9000000000000004
+cucumber,0,Shupersal-Shelly_Sapir,2,7.9000000000000004,7.9000000000000004
+cucumber,0,Shupersal-Deal-Extra_Tel-Hanan,0,6.9000000000000004,6.9000000000000004
 white cheese,1,Shupersal-Shelly_Nativ-Hen,1,12.68,5.056
-white cheese,1,Shupersal-Express_Raul,0,9.1999999999999993,1.8400000000000001
+white cheese,1,Shupersal-Express_Marganit,0,10.033333333333333,3.6366666666666667
+white cheese,1,Shupersal-Shelly_Keler,1,13.841176470588236,5.1835294117647059
+white cheese,1,Shupersal-Deal-Extra_Tel-Hanan,1,11.335714285714285,5.2785714285714285
 white cheese,1,Yesh_Hanita,1,13.171428571428573,4.9671428571428571
+white cheese,1,Shupersal-Deal_Grand-mall,1,12.790000000000001,5.1879999999999997
+white cheese,1,Shupersal-Shelly_Denia,1,13.263636363636364,5.6009090909090906
+white cheese,1,Shupersal-Shelly_Vardia,1,12.318181818181818,5.8827272727272728
 white cheese,1,Shupersal-Express_Rambam,0,9.1999999999999993,1.8400000000000001
 white cheese,1,Shupersal-Shelly_Ziv,1,12.546666666666667,5.4140000000000006
-white cheese,1,Yesh_France,0,9.0999999999999996,2.948
-white cheese,1,Shupersal-Shelly_Carmel,1,12.824999999999999,5.42875
-white cheese,1,Lahav_Haifa,0,11.4,0.045238095238095237
-white cheese,1,Shuk_Haifa,2,34.899999999999999,17.449999999999999
-white cheese,1,Victory_Haifa,1,11.693333333333333,5.3779999999999992
-white cheese,1,Shupersal-Deal-Extra_Tel-Hanan,1,11.335714285714285,5.2785714285714285
-white cheese,1,Shupersal-Shelly_Sapir,1,13.350000000000001,5.0700000000000003
-white cheese,1,Shupersal-Shelly_Stela,1,11.700000000000001,5.34375
-white cheese,1,Shupersal-Shelly_Horev,1,13.616666666666667,5.6144444444444446
-white cheese,1,Shupersal-Deal_Eliezer,1,13.35,4.9518750000000002
-white cheese,1,Shupersal-Express_Marganit,0,10.033333333333333,3.6366666666666667
-white cheese,1,Shupersal-Shelly_Denia,1,13.263636363636364,5.6009090909090906
 white cheese,1,Shupersal-Deal_Admirality,1,12.845000000000001,5.1545000000000005
-bread,1,Shupersal-Shelly_Keler,2,13.887719298245614,3.3226315789473682
-bread,1,Shupersal-Deal_Grand-mall,2,13.905333333333335,3.9500000000000002
-bread,1,Shupersal-Shelly_Vardia,2,13.605,3.206
-bread,1,Shupersal-Shelly_Nativ-Hen,2,13.540000000000001,3.4379999999999997
-bread,1,Shupersal-Express_Raul,2,15.126666666666667,2.516
-bread,1,Yesh_Hanita,1,12.075000000000001,11.3825
-bread,1,Shupersal-Express_Rambam,1,14.75,13.275
-bread,1,Shupersal-Shelly_Ziv,2,13.648936170212767,3.8557446808510636
-bread,1,Yesh_France,0,10.0,1.9060000000000001
-bread,1,Shupersal-Shelly_Carmel,2,15.361702127659575,4.3204255319148936
-bread,1,Lahav_Haifa,1,10.50909090909091,10.509090909090908
-bread,1,Shuk_Haifa,1,9.6999999999999993,9.7000000000000011
-bread,1,Victory_Haifa,1,11.845454545454546,11.180909090909092
-bread,1,Shupersal-Deal-Extra_Tel-Hanan,1,12.237500000000001,12.065624999999997
-bread,1,Shupersal-Shelly_Sapir,2,15.532727272727273,4.2289090909090907
-bread,1,Shupersal-Shelly_Stela,2,13.566666666666666,3.5531250000000005
-bread,1,Shupersal-Shelly_Horev,2,15.757407407407408,3.8914814814814815
-bread,1,Shupersal-Deal_Eliezer,1,13.4,12.483333333333334
+white cheese,1,Shupersal-Shelly_Stela,1,11.700000000000001,5.34375
+white cheese,1,Shupersal-Express_Raul,0,9.1999999999999993,1.8400000000000001
+white cheese,1,Yesh_France,0,9.0999999999999996,2.948
+white cheese,1,Shupersal-Shelly_Sapir,1,13.350000000000001,5.0700000000000003
+white cheese,1,Shupersal-Shelly_Carmel,1,12.824999999999999,5.42875
+white cheese,1,Shupersal-Shelly_Horev,1,13.616666666666667,5.6144444444444446
+white cheese,1,Shupersal-Deal_Haifa-mall,1,12.084615384615384,5.0830769230769235
+white cheese,1,Shupersal-Deal_Eliezer,1,13.35,4.9518750000000002
+bread,1,Shupersal-Shelly_Nativ-Hen,2,13.509756097560976,2.4941463414634146
 bread,1,Shupersal-Express_Marganit,1,12.65,12.65
-bread,1,Shupersal-Shelly_Denia,2,13.465116279069768,3.3600000000000003
-bread,1,Shupersal-Deal_Admirality,2,13.319736842105264,4.1665789473684214
+bread,1,Shupersal-Shelly_Keler,1,13.35,12.612500000000001
+bread,1,Shupersal-Deal-Extra_Tel-Hanan,0,12.237500000000001,12.065624999999997
+bread,1,Yesh_Hanita,0,12.075000000000001,11.3825
+bread,1,Shupersal-Deal_Grand-mall,1,13.199999999999999,12.856249999999999
+bread,1,Shupersal-Shelly_Denia,1,12.85,12.112500000000001
+bread,1,Shupersal-Shelly_Vardia,2,13.586486486486486,2.4240540540540541
+bread,1,Shupersal-Express_Rambam,1,14.75,13.275
+bread,1,Shupersal-Shelly_Ziv,2,13.604878048780488,2.4504878048780485
+bread,1,Shupersal-Deal_Admirality,0,12.292857142857143,11.464285714285715
+bread,1,Shupersal-Shelly_Stela,1,13.06,12.469999999999999
+bread,1,Shupersal-Express_Raul,2,15.126666666666667,2.516
+bread,1,Yesh_France,2,10.0,1.9060000000000001
+bread,1,Shupersal-Shelly_Sapir,1,14.5,14.008333333333333
+bread,1,Shupersal-Shelly_Carmel,2,14.020370370370372,2.6409259259259263
+bread,1,Shupersal-Shelly_Horev,2,14.819672131147541,2.8693442622950824
+bread,1,Shupersal-Deal_Haifa-mall,0,11.542857142857143,11.150000000000002
+bread,1,Shupersal-Deal_Eliezer,1,13.4,12.483333333333334
 tomato,1,Shupersal-Shelly_Nativ-Hen,1,10.9,10.9
-tomato,1,Victory_Haifa,0,5.9000000000000004,5.9000000000000004
+tomato,1,Shupersal-Shelly_Keler,1,10.9,10.9
 tomato,1,Shupersal-Deal-Extra_Tel-Hanan,2,12.9,2.5800000000000001
 tomato,1,Shupersal-Deal_Grand-mall,2,12.9,2.5800000000000001
 tomato,1,Shupersal-Shelly_Vardia,0,6.9000000000000004,6.9000000000000004
@@ -1175,71 +1050,63 @@ tomato,1,Shupersal-Shelly_Denia,1,10.9,10.9
 tomato,1,Shupersal-Shelly_Ziv,0,6.9000000000000004,6.9000000000000004
 tomato,1,Shupersal-Deal_Admirality,2,12.9,2.5800000000000001
 tomato,1,Shupersal-Shelly_Stela,1,10.9,10.9
-tomato,1,Shupersal-Shelly_Keler,1,10.9,10.9
 tomato,1,Shupersal-Express_Raul,0,6.9000000000000004,6.9000000000000004
 tomato,1,Shupersal-Shelly_Sapir,2,13.9,2.7799999999999994
 tomato,1,Shupersal-Shelly_Carmel,1,10.9,10.9
 tomato,1,Shupersal-Shelly_Horev,2,13.9,2.7799999999999994
 tomato,1,Shupersal-Deal_Haifa-mall,1,9.9000000000000004,9.9000000000000004
 tomato,1,Shupersal-Deal_Eliezer,1,9.9000000000000004,9.9000000000000004
-tomato,1,Lahav_Haifa,1,9.9000000000000004,9.9000000000000004
-potato,1,Shupersal-Shelly_Nativ-Hen,2,6.5,6.5
-potato,1,Victory_Haifa,1,4.9000000000000004,4.9000000000000004
+potato,1,Shupersal-Shelly_Nativ-Hen,1,6.5,6.5
+potato,1,Shupersal-Shelly_Keler,1,6.7000000000000002,6.7000000000000002
 potato,1,Shupersal-Deal-Extra_Tel-Hanan,2,7.9000000000000004,7.9000000000000004
-potato,1,Yesh_Hanita,1,4.9000000000000004,4.9000000000000004
+potato,1,Yesh_Hanita,0,4.9000000000000004,4.9000000000000004
 potato,1,Shupersal-Deal_Grand-mall,2,7.9000000000000004,7.9000000000000004
-potato,1,Shupersal-Shelly_Vardia,2,6.5,6.5
-potato,1,Shupersal-Shelly_Denia,2,6.5,6.5
-potato,1,Shupersal-Shelly_Ziv,2,6.7000000000000002,6.7000000000000002
+potato,1,Shupersal-Shelly_Vardia,1,6.5,6.5
+potato,1,Shupersal-Shelly_Denia,1,6.5,6.5
+potato,1,Shupersal-Shelly_Ziv,1,6.7000000000000002,6.7000000000000002
 potato,1,Shupersal-Deal_Admirality,2,7.9000000000000004,7.9000000000000004
 potato,1,Shupersal-Shelly_Stela,2,7.4333333333333336,7.4333333333333336
-potato,1,Shupersal-Shelly_Keler,2,6.7000000000000002,6.7000000000000002
-potato,1,Yesh_France,1,3.8999999999999999,3.8999999999999999
+potato,1,Yesh_France,0,3.8999999999999999,3.8999999999999999
 potato,1,Shupersal-Shelly_Sapir,2,7.4333333333333336,7.4333333333333336
-potato,1,Shupersal-Shelly_Carmel,2,6.5,6.5
+potato,1,Shupersal-Shelly_Carmel,1,6.5,6.5
 potato,1,Shupersal-Shelly_Horev,2,7.4333333333333336,7.4333333333333336
-potato,1,Shupersal-Deal_Haifa-mall,1,4.9000000000000004,4.9000000000000004
-potato,1,Shupersal-Deal_Eliezer,1,5.4333333333333336,5.4333333333333336
-potato,1,Lahav_Haifa,0,4.0999999999999996,4.4408920985006262e-16
+potato,1,Shupersal-Deal_Haifa-mall,0,4.9000000000000004,4.9000000000000004
+potato,1,Shupersal-Deal_Eliezer,0,5.4333333333333336,5.4333333333333336
 stain remover,2,Shupersal-Shelly_Nativ-Hen,0,27.899999999999999,9.3000000000000007
-stain remover,2,Victory_Haifa,2,57.900000000000006,11.58
+stain remover,2,Shupersal-Shelly_Keler,0,28.75,9.5824999999999996
 stain remover,2,Shupersal-Deal-Extra_Tel-Hanan,0,25.539999999999999,7.3460000000000001
-stain remover,2,Yesh_Hanita,1,32.899999999999999,24.370000000000001
+stain remover,2,Yesh_Hanita,2,32.899999999999999,24.370000000000001
 stain remover,2,Shupersal-Deal_Grand-mall,1,29.899999999999999,22.149999999999999
 stain remover,2,Shupersal-Shelly_Vardia,0,27.899999999999999,9.3000000000000007
 stain remover,2,Shupersal-Shelly_Denia,0,30.0,10.0
 stain remover,2,Shupersal-Shelly_Ziv,0,27.899999999999999,9.3000000000000007
 stain remover,2,Shupersal-Deal_Admirality,1,27.949999999999999,18.719999999999999
 stain remover,2,Shupersal-Shelly_Stela,0,26.933333333333334,8.9766666666666666
-stain remover,2,Shupersal-Shelly_Keler,0,28.75,9.5824999999999996
-stain remover,2,Yesh_France,1,32.899999999999999,24.370000000000001
+stain remover,2,Yesh_France,2,32.899999999999999,24.370000000000001
 stain remover,2,Shupersal-Shelly_Sapir,0,27.899999999999999,9.3000000000000007
 stain remover,2,Shupersal-Shelly_Carmel,0,30.0,10.0
 stain remover,2,Shupersal-Shelly_Horev,0,29.020000000000003,11.208
 stain remover,2,Shupersal-Deal_Haifa-mall,1,29.899999999999999,22.149999999999999
 stain remover,2,Shupersal-Deal_Eliezer,0,26.457142857142856,7.9542857142857146
-stain remover,2,Lahav_Haifa,0,34.899999999999999,0.0099999999999997868
 tampons,0,Shupersal-Shelly_Nativ-Hen,2,22.899999999999999,22.899999999999999
-tampons,0,Victory_Haifa,0,14.9,14.9
+tampons,0,Shupersal-Shelly_Keler,2,23.057142857142857,23.057142857142857
 tampons,0,Shupersal-Deal-Extra_Tel-Hanan,2,22.833333333333332,22.833333333333332
-tampons,0,Yesh_Hanita,0,17.899999999999999,17.899999999999999
+tampons,0,Yesh_Hanita,1,17.899999999999999,17.899999999999999
 tampons,0,Shupersal-Deal_Grand-mall,2,22.5,22.5
 tampons,0,Shupersal-Shelly_Vardia,2,22.899999999999999,22.899999999999999
 tampons,0,Shupersal-Shelly_Denia,2,22.899999999999999,22.899999999999999
 tampons,0,Shupersal-Shelly_Ziv,2,23.012499999999999,23.012499999999999
 tampons,0,Shupersal-Deal_Admirality,2,22.455555555555556,22.455555555555556
 tampons,0,Shupersal-Shelly_Stela,2,22.842857142857142,22.842857142857142
-tampons,0,Shupersal-Shelly_Keler,2,23.057142857142857,23.057142857142857
-tampons,0,Yesh_France,0,17.899999999999999,17.899999999999999
+tampons,0,Yesh_France,1,17.899999999999999,17.899999999999999
 tampons,0,Shupersal-Shelly_Sapir,2,22.899999999999999,22.899999999999999
 tampons,0,Shupersal-Shelly_Carmel,2,22.977777777777778,22.977777777777778
 tampons,0,Shupersal-Shelly_Horev,2,22.987499999999997,22.987499999999997
 tampons,0,Shupersal-Deal_Haifa-mall,2,22.524999999999999,22.524999999999999
 tampons,0,Shupersal-Deal_Eliezer,2,22.509090909090908,22.509090909090908
-tampons,0,Lahav_Haifa,0,16.899999999999999,16.899999999999999
 fabric softener,2,Shupersal-Shelly_Nativ-Hen,1,20.19230769230769,4.6053846153846152
 fabric softener,2,Shupersal-Express_Marganit,0,19.899999999999999,2.0699999999999998
-fabric softener,2,Victory_Haifa,1,20.185714285714283,4.4923809523809526
+fabric softener,2,Shupersal-Shelly_Keler,1,19.953333333333333,4.4113333333333342
 fabric softener,2,Shupersal-Deal-Extra_Tel-Hanan,1,20.969999999999999,5.0150000000000006
 fabric softener,2,Yesh_Hanita,1,20.68,4.9193333333333333
 fabric softener,2,Shupersal-Deal_Grand-mall,1,20.252941176470586,4.5811764705882352
@@ -1248,38 +1115,34 @@ fabric softener,2,Shupersal-Shelly_Denia,1,20.216666666666665,4.8166666666666682
 fabric softener,2,Shupersal-Shelly_Ziv,1,19.953333333333333,4.4113333333333342
 fabric softener,2,Shupersal-Deal_Admirality,1,20.204999999999998,4.6420000000000012
 fabric softener,2,Shupersal-Shelly_Stela,1,19.299999999999997,4.2480000000000011
-fabric softener,2,Shupersal-Shelly_Keler,1,19.953333333333333,4.4113333333333342
-fabric softener,2,Yesh_France,1,19.62222222222222,4.4255555555555564
 fabric softener,2,Shupersal-Express_Raul,2,24.699999999999999,6.1799999999999997
+fabric softener,2,Yesh_France,1,19.62222222222222,4.4255555555555564
 fabric softener,2,Shupersal-Shelly_Sapir,1,19.627272727272725,4.3827272727272737
 fabric softener,2,Shupersal-Shelly_Carmel,1,19.972727272727273,4.4690909090909097
 fabric softener,2,Shupersal-Shelly_Horev,1,19.471428571428572,4.1078571428571431
 fabric softener,2,Shupersal-Deal_Haifa-mall,1,20.300000000000001,4.5280000000000005
 fabric softener,2,Shupersal-Deal_Eliezer,1,20.212499999999999,4.5406250000000004
-fabric softener,2,Lahav_Haifa,1,20.823529411764703,4.9194117647058819
-bread,2,Shupersal-Shelly_Keler,2,91.0,91.0
-bread,2,Shupersal-Deal_Grand-mall,1,84.0,84.0
-bread,2,Shupersal-Shelly_Vardia,2,91.0,91.0
-bread,2,Shupersal-Shelly_Nativ-Hen,2,91.0,91.0
-bread,2,Shupersal-Express_Raul,0,17.699999999999999,14.75
-bread,2,Yesh_Hanita,0,15.53125,2.5518749999999999
-bread,2,Shupersal-Express_Rambam,0,15.078571428571427,2.697857142857143
-bread,2,Shupersal-Shelly_Ziv,2,91.0,91.0
+bread,2,Shupersal-Shelly_Nativ-Hen,2,13.85,13.112500000000001
+bread,2,Shupersal-Express_Marganit,1,13.720000000000001,2.4200000000000004
+bread,2,Shupersal-Shelly_Keler,1,13.928301886792452,2.621509433962264
+bread,2,Shupersal-Deal-Extra_Tel-Hanan,1,15.614814814814816,3.2238888888888892
+bread,2,Yesh_Hanita,1,15.53125,2.5518749999999999
+bread,2,Shupersal-Deal_Grand-mall,1,13.989552238805972,2.8865671641791044
+bread,2,Shupersal-Shelly_Denia,1,13.528205128205128,2.4623076923076921
+bread,2,Shupersal-Shelly_Vardia,2,13.833333333333334,12.850000000000001
+bread,2,Shupersal-Express_Rambam,1,15.078571428571427,2.697857142857143
+bread,2,Shupersal-Shelly_Ziv,2,13.950000000000001,13.458333333333334
+bread,2,Shupersal-Deal_Admirality,1,13.390625,2.5943750000000003
+bread,2,Shupersal-Shelly_Stela,1,13.625581395348838,2.5162790697674415
+bread,2,Shupersal-Express_Raul,2,17.699999999999999,14.75
 bread,2,Yesh_France,0,10.15,10.15
-bread,2,Shupersal-Shelly_Carmel,2,91.0,91.0
-bread,2,Lahav_Haifa,0,14.74074074074074,0.027407407407407547
-bread,2,Shuk_Haifa,0,12.207692307692309,2.3938461538461535
-bread,2,Victory_Haifa,0,14.381818181818181,2.7418181818181822
-bread,2,Shupersal-Deal-Extra_Tel-Hanan,0,15.614814814814816,3.2238888888888892
-bread,2,Shupersal-Shelly_Sapir,2,91.0,91.0
-bread,2,Shupersal-Shelly_Stela,2,91.0,91.0
-bread,2,Shupersal-Shelly_Horev,2,91.0,91.0
-bread,2,Shupersal-Deal_Eliezer,0,14.34,2.6532
-bread,2,Shupersal-Express_Marganit,0,13.720000000000001,2.4200000000000004
-bread,2,Shupersal-Shelly_Denia,2,91.0,91.0
-bread,2,Shupersal-Deal_Admirality,1,84.0,84.0
+bread,2,Shupersal-Shelly_Sapir,1,15.659183673469387,3.0314285714285716
+bread,2,Shupersal-Shelly_Carmel,2,14.800000000000001,12.40625
+bread,2,Shupersal-Shelly_Horev,2,15.275,14.537500000000001
+bread,2,Shupersal-Deal_Haifa-mall,1,12.516666666666667,2.3309523809523811
+bread,2,Shupersal-Deal_Eliezer,1,14.34,2.6532
 hamburger,1,Shupersal-Shelly_Nativ-Hen,1,32.600000000000001,6.04
-hamburger,1,Victory_Haifa,0,16.675000000000001,4.085
+hamburger,1,Shupersal-Shelly_Keler,0,23.899999999999999,6.2166666666666668
 hamburger,1,Shupersal-Deal-Extra_Tel-Hanan,2,41.799999999999997,5.6400000000000006
 hamburger,1,Yesh_Hanita,0,21.600000000000001,4.9199999999999999
 hamburger,1,Shupersal-Deal_Grand-mall,0,22.853846153846153,6.0200000000000005
@@ -1288,32 +1151,28 @@ hamburger,1,Shupersal-Shelly_Denia,1,32.600000000000001,6.04
 hamburger,1,Shupersal-Shelly_Ziv,1,32.600000000000001,6.04
 hamburger,1,Shupersal-Deal_Admirality,2,37.75,5.4900000000000002
 hamburger,1,Shupersal-Shelly_Stela,0,23.233333333333331,5.8133333333333335
-hamburger,1,Shupersal-Shelly_Keler,0,23.899999999999999,6.2166666666666668
 hamburger,1,Shupersal-Shelly_Sapir,2,37.5,5.8666666666666671
 hamburger,1,Shupersal-Shelly_Carmel,1,32.600000000000001,6.04
 hamburger,1,Shupersal-Shelly_Horev,1,32.600000000000001,6.04
 hamburger,1,Shupersal-Deal_Haifa-mall,0,23.566666666666666,5.4733333333333336
 hamburger,1,Shupersal-Deal_Eliezer,2,39.899999999999999,6.2300000000000004
-hamburger,1,Lahav_Haifa,0,15.733333333333333,0.03833333333333333
-tomato,0,Shupersal-Shelly_Nativ-Hen,0,6.9000000000000004,6.9000000000000004
-tomato,0,Victory_Haifa,0,4.9000000000000004,4.9000000000000004
+tomato,0,Shupersal-Shelly_Nativ-Hen,1,6.9000000000000004,6.9000000000000004
+tomato,0,Shupersal-Shelly_Keler,1,6.9000000000000004,6.9000000000000004
 tomato,0,Shupersal-Deal-Extra_Tel-Hanan,2,9.1857142857142868,9.1857142857142868
 tomato,0,Shupersal-Deal_Grand-mall,2,9.2750000000000004,9.2750000000000004
-tomato,0,Shupersal-Shelly_Vardia,0,6.9000000000000004,6.9000000000000004
-tomato,0,Shupersal-Shelly_Denia,0,6.9000000000000004,6.9000000000000004
-tomato,0,Shupersal-Shelly_Ziv,0,6.9000000000000004,6.9000000000000004
+tomato,0,Shupersal-Shelly_Vardia,1,6.9000000000000004,6.9000000000000004
+tomato,0,Shupersal-Shelly_Denia,1,6.9000000000000004,6.9000000000000004
+tomato,0,Shupersal-Shelly_Ziv,1,6.9000000000000004,6.9000000000000004
 tomato,0,Shupersal-Deal_Admirality,2,9.2750000000000004,9.2750000000000004
-tomato,0,Shupersal-Shelly_Stela,0,6.9000000000000004,6.9000000000000004
-tomato,0,Shupersal-Shelly_Keler,0,6.9000000000000004,6.9000000000000004
-tomato,0,Shupersal-Express_Raul,0,6.9000000000000004,6.9000000000000004
+tomato,0,Shupersal-Shelly_Stela,1,6.9000000000000004,6.9000000000000004
+tomato,0,Shupersal-Express_Raul,1,6.9000000000000004,6.9000000000000004
 tomato,0,Shupersal-Shelly_Sapir,2,10.275,10.275
-tomato,0,Shupersal-Shelly_Carmel,0,6.9000000000000004,6.9000000000000004
+tomato,0,Shupersal-Shelly_Carmel,1,6.9000000000000004,6.9000000000000004
 tomato,0,Shupersal-Shelly_Horev,2,10.275,10.275
-tomato,0,Shupersal-Deal_Haifa-mall,0,5.9000000000000004,5.9000000000000004
-tomato,0,Shupersal-Deal_Eliezer,0,5.9000000000000004,5.9000000000000004
-tomato,0,Lahav_Haifa,1,8.5999999999999996,0.016666666666666829
+tomato,0,Shupersal-Deal_Haifa-mall,1,5.9000000000000004,5.9000000000000004
+tomato,0,Shupersal-Deal_Eliezer,1,5.9000000000000004,5.9000000000000004
 tampons,1,Shupersal-Shelly_Nativ-Hen,2,31.100000000000001,31.100000000000001
-tampons,1,Victory_Haifa,0,20.233333333333331,20.233333333333331
+tampons,1,Shupersal-Shelly_Keler,2,31.100000000000001,31.100000000000001
 tampons,1,Shupersal-Deal-Extra_Tel-Hanan,2,28.033333333333335,28.033333333333335
 tampons,1,Yesh_Hanita,1,23.899999999999999,23.899999999999999
 tampons,1,Shupersal-Deal_Grand-mall,2,27.84,27.84
@@ -1322,22 +1181,19 @@ tampons,1,Shupersal-Shelly_Denia,1,22.899999999999999,22.899999999999999
 tampons,1,Shupersal-Shelly_Ziv,2,31.100000000000001,31.100000000000001
 tampons,1,Shupersal-Deal_Admirality,2,27.066666666666666,27.066666666666666
 tampons,1,Shupersal-Shelly_Stela,2,31.100000000000001,31.100000000000001
-tampons,1,Shupersal-Shelly_Keler,2,31.100000000000001,31.100000000000001
 tampons,1,Yesh_France,0,17.899999999999999,17.899999999999999
 tampons,1,Shupersal-Shelly_Sapir,1,22.899999999999999,22.899999999999999
 tampons,1,Shupersal-Shelly_Carmel,2,29.350000000000001,29.350000000000001
 tampons,1,Shupersal-Shelly_Horev,2,28.766666666666669,28.766666666666669
 tampons,1,Shupersal-Deal_Haifa-mall,1,25.633333333333333,25.633333333333333
 tampons,1,Shupersal-Deal_Eliezer,2,28.033333333333335,28.033333333333335
-tampons,1,Lahav_Haifa,1,24.899999999999999,24.899999999999999
-cucumber,2,Shupersal-Deal-Extra_Tel-Hanan,0,9.9000000000000004,9.9000000000000004
-cucumber,2,Shupersal-Deal_Grand-mall,2,13.9,13.9
-cucumber,2,Shupersal-Shelly_Sapir,2,14.9,14.9
-cucumber,2,Shupersal-Deal_Admirality,2,13.9,13.9
 cucumber,2,Shupersal-Shelly_Horev,2,14.9,14.9
+cucumber,2,Shupersal-Deal_Admirality,1,13.9,13.9
+cucumber,2,Shupersal-Shelly_Sapir,2,14.9,14.9
+cucumber,2,Shupersal-Deal-Extra_Tel-Hanan,0,9.9000000000000004,9.9000000000000004
 fabric softener,1,Shupersal-Shelly_Nativ-Hen,1,15.725,15.724999999999998
 fabric softener,1,Shupersal-Express_Marganit,0,14.9,1.6599999999999999
-fabric softener,1,Victory_Haifa,0,14.9,1.9299999999999997
+fabric softener,1,Shupersal-Shelly_Keler,1,15.725,15.725000000000001
 fabric softener,1,Shupersal-Deal-Extra_Tel-Hanan,1,16.037500000000001,16.037500000000001
 fabric softener,1,Yesh_Hanita,1,15.9,15.899999999999999
 fabric softener,1,Shupersal-Deal_Grand-mall,2,17.350000000000001,17.349999999999998
@@ -1346,56 +1202,50 @@ fabric softener,1,Shupersal-Shelly_Denia,1,15.58,15.579999999999998
 fabric softener,1,Shupersal-Shelly_Ziv,1,15.725,15.725000000000001
 fabric softener,1,Shupersal-Deal_Admirality,1,15.128571428571428,15.12857142857143
 fabric softener,1,Shupersal-Shelly_Stela,1,15.725,15.725
-fabric softener,1,Shupersal-Shelly_Keler,1,15.725,15.725000000000001
-fabric softener,1,Yesh_France,1,15.9,15.9
 fabric softener,1,Shupersal-Express_Raul,0,16.566666666666666,1.7966666666666669
+fabric softener,1,Yesh_France,1,15.9,15.9
 fabric softener,1,Shupersal-Shelly_Sapir,1,15.725,15.725000000000001
 fabric softener,1,Shupersal-Shelly_Carmel,1,15.0,15.0
 fabric softener,1,Shupersal-Shelly_Horev,1,15.725,15.725
 fabric softener,1,Shupersal-Deal_Haifa-mall,1,15.128571428571428,15.12857142857143
 fabric softener,1,Shupersal-Deal_Eliezer,1,15.128571428571428,15.12857142857143
-fabric softener,1,Lahav_Haifa,2,19.337499999999999,19.337499999999999
-oil,0,Shupersal-Shelly_Nativ-Hen,1,10.0,6.6699999999999999
-oil,0,Victory_Haifa,1,9.1666666666666661,6.253333333333333
+oil,0,Shupersal-Shelly_Nativ-Hen,0,10.0,6.6699999999999999
+oil,0,Shupersal-Shelly_Keler,0,10.0,5.0
 oil,0,Shupersal-Deal-Extra_Tel-Hanan,1,14.233333333333334,8.2733333333333334
-oil,0,Yesh_Hanita,2,15.85,15.85
-oil,0,Shupersal-Deal_Grand-mall,1,10.0,6.6699999999999999
+oil,0,Yesh_Hanita,2,15.5,15.5
+oil,0,Shupersal-Deal_Grand-mall,0,10.0,6.6699999999999999
 oil,0,Shupersal-Shelly_Vardia,1,13.9,8.4049999999999994
-oil,0,Shupersal-Shelly_Denia,1,10.0,5.835
-oil,0,Shupersal-Shelly_Ziv,1,10.0,6.6699999999999999
-oil,0,Shupersal-Deal_Admirality,1,10.0,6.6699999999999999
+oil,0,Shupersal-Shelly_Denia,0,10.0,5.835
+oil,0,Shupersal-Shelly_Ziv,0,10.0,6.6699999999999999
+oil,0,Shupersal-Deal_Admirality,0,10.0,6.6699999999999999
 oil,0,Shupersal-Shelly_Stela,2,14.800000000000001,14.800000000000001
-oil,0,Shupersal-Shelly_Keler,1,10.0,5.0
 oil,0,Shupersal-Express_Raul,2,14.800000000000001,14.800000000000001
-oil,0,Shupersal-Shelly_Sapir,1,10.0,6.6699999999999999
-oil,0,Shupersal-Shelly_Carmel,1,10.0,6.6699999999999999
+oil,0,Shupersal-Shelly_Sapir,0,10.0,6.6699999999999999
+oil,0,Shupersal-Shelly_Carmel,0,10.0,6.6699999999999999
 oil,0,Shupersal-Shelly_Horev,1,13.9,6.9500000000000002
-oil,0,Shupersal-Deal_Haifa-mall,1,13.9,8.4049999999999994
+oil,0,Shupersal-Deal_Haifa-mall,2,13.850000000000001,13.050000000000001
 oil,0,Shupersal-Deal_Eliezer,2,13.850000000000001,13.050000000000001
-oil,0,Lahav_Haifa,0,7.9000000000000004,0.0099999999999997868
-peanut snack,2,Shupersal-Shelly_Keler,1,20.466666666666665,9.4866666666666664
-peanut snack,2,Shupersal-Deal_Grand-mall,1,16.983333333333334,7.6950000000000003
-peanut snack,2,Shupersal-Shelly_Vardia,2,25.899999999999999,8.6300000000000008
 peanut snack,2,Shupersal-Shelly_Nativ-Hen,1,19.925000000000001,9.0225000000000009
-peanut snack,2,Shupersal-Express_Raul,2,25.699999999999999,8.5700000000000003
+peanut snack,2,Shupersal-Express_Marganit,0,9.0999999999999996,4.5499999999999998
+peanut snack,2,Shupersal-Shelly_Keler,1,20.466666666666665,9.4866666666666664
+peanut snack,2,Shupersal-Deal-Extra_Tel-Hanan,1,19.93333333333333,11.790000000000001
 peanut snack,2,Yesh_Hanita,2,24.199999999999999,8.0700000000000003
+peanut snack,2,Shupersal-Deal_Grand-mall,1,16.983333333333334,7.6950000000000003
+peanut snack,2,Shupersal-Shelly_Denia,2,25.899999999999999,8.6300000000000008
+peanut snack,2,Shupersal-Shelly_Vardia,2,25.899999999999999,8.6300000000000008
 peanut snack,2,Shupersal-Express_Rambam,0,10.0,6.2249999999999996
 peanut snack,2,Shupersal-Shelly_Ziv,1,19.925000000000001,9.0225000000000009
-peanut snack,2,Yesh_France,2,24.199999999999999,8.0700000000000003
-peanut snack,2,Shupersal-Shelly_Carmel,1,20.600000000000001,7.7666666666666666
-peanut snack,2,Lahav_Haifa,2,27.5,0.089999999999999969
-peanut snack,2,Shuk_Haifa,0,14.733333333333334,5.8683333333333332
-peanut snack,2,Victory_Haifa,1,19.566666666666663,7.3966666666666665
-peanut snack,2,Shupersal-Deal-Extra_Tel-Hanan,1,19.199999999999999,10.612500000000001
-peanut snack,2,Shupersal-Shelly_Sapir,1,20.600000000000001,7.7666666666666675
-peanut snack,2,Shupersal-Shelly_Stela,1,19.925000000000001,9.0225000000000009
-peanut snack,2,Shupersal-Shelly_Horev,1,19.259999999999998,8.8599999999999994
-peanut snack,2,Shupersal-Deal_Eliezer,2,24.899999999999999,8.3000000000000007
-peanut snack,2,Shupersal-Express_Marganit,0,9.0999999999999996,4.5499999999999998
-peanut snack,2,Shupersal-Shelly_Denia,2,25.899999999999999,8.6300000000000008
 peanut snack,2,Shupersal-Deal_Admirality,1,17.816666666666663,8.913333333333334
+peanut snack,2,Shupersal-Shelly_Stela,1,19.925000000000001,9.0225000000000009
+peanut snack,2,Shupersal-Express_Raul,2,25.699999999999999,8.5700000000000003
+peanut snack,2,Yesh_France,2,24.199999999999999,8.0700000000000003
+peanut snack,2,Shupersal-Shelly_Sapir,1,20.600000000000001,7.7666666666666675
+peanut snack,2,Shupersal-Shelly_Carmel,1,20.600000000000001,7.7666666666666666
+peanut snack,2,Shupersal-Shelly_Horev,1,19.259999999999998,8.8599999999999994
+peanut snack,2,Shupersal-Deal_Haifa-mall,2,24.899999999999999,8.3000000000000007
+peanut snack,2,Shupersal-Deal_Eliezer,2,24.899999999999999,8.3000000000000007
 bag,2,Shupersal-Shelly_Nativ-Hen,0,14.5,14.5
-bag,2,Victory_Haifa,0,14.300000000000001,14.300000000000001
+bag,2,Shupersal-Shelly_Keler,0,14.675000000000001,14.675000000000001
 bag,2,Shupersal-Deal-Extra_Tel-Hanan,2,22.699999999999999,22.699999999999999
 bag,2,Yesh_Hanita,0,12.9,12.9
 bag,2,Shupersal-Deal_Grand-mall,2,17.899999999999999,17.899999999999999
@@ -1404,16 +1254,14 @@ bag,2,Shupersal-Shelly_Denia,0,14.5,14.5
 bag,2,Shupersal-Shelly_Ziv,0,14.675000000000001,14.675000000000001
 bag,2,Shupersal-Deal_Admirality,2,17.899999999999999,17.899999999999999
 bag,2,Shupersal-Shelly_Stela,0,15.199999999999999,15.199999999999999
-bag,2,Shupersal-Shelly_Keler,0,14.675000000000001,14.675000000000001
 bag,2,Yesh_France,0,12.9,12.9
 bag,2,Shupersal-Shelly_Sapir,0,14.675000000000001,14.675000000000001
 bag,2,Shupersal-Shelly_Carmel,0,14.5,14.5
 bag,2,Shupersal-Shelly_Horev,0,15.199999999999999,15.199999999999999
 bag,2,Shupersal-Deal_Haifa-mall,0,13.525,13.525
 bag,2,Shupersal-Deal_Eliezer,2,17.899999999999999,17.899999999999999
-bag,2,Lahav_Haifa,0,13.566666666666666,13.566666666666666
 hamburger,0,Shupersal-Shelly_Nativ-Hen,2,23.899999999999999,6.5166666666666666
-hamburger,0,Victory_Haifa,0,12.4,2.8049999999999997
+hamburger,0,Shupersal-Shelly_Keler,1,13.9,13.9
 hamburger,0,Shupersal-Deal-Extra_Tel-Hanan,2,23.099999999999998,5.6925000000000008
 hamburger,0,Yesh_Hanita,0,12.9,2.5800000000000001
 hamburger,0,Shupersal-Deal_Grand-mall,1,12.9,12.9
@@ -1422,15 +1270,13 @@ hamburger,0,Shupersal-Shelly_Denia,2,22.899999999999999,5.7300000000000004
 hamburger,0,Shupersal-Shelly_Ziv,2,24.299999999999997,6.5440000000000005
 hamburger,0,Shupersal-Deal_Admirality,2,22.68,5.7450000000000001
 hamburger,0,Shupersal-Shelly_Stela,1,13.9,13.9
-hamburger,0,Shupersal-Shelly_Keler,1,13.9,13.9
 hamburger,0,Shupersal-Shelly_Sapir,2,24.357142857142854,6.4257142857142862
 hamburger,0,Shupersal-Shelly_Carmel,2,24.299999999999997,6.5440000000000005
 hamburger,0,Shupersal-Shelly_Horev,2,24.099999999999998,6.108888888888889
 hamburger,0,Shupersal-Deal_Haifa-mall,1,12.9,12.9
 hamburger,0,Shupersal-Deal_Eliezer,2,21.649999999999999,5.1600000000000001
-hamburger,0,Lahav_Haifa,1,10.0,10.0
 tampons,2,Shupersal-Shelly_Nativ-Hen,2,38.200000000000003,38.200000000000003
-tampons,2,Victory_Haifa,1,31.899999999999999,31.899999999999999
+tampons,2,Shupersal-Shelly_Keler,2,35.899999999999999,35.899999999999999
 tampons,2,Shupersal-Deal-Extra_Tel-Hanan,1,32.339999999999996,32.339999999999996
 tampons,2,Yesh_Hanita,1,28.600000000000001,28.600000000000001
 tampons,2,Shupersal-Deal_Grand-mall,1,32.549999999999997,32.549999999999997
@@ -1439,36 +1285,32 @@ tampons,2,Shupersal-Shelly_Denia,0,22.899999999999999,22.899999999999999
 tampons,2,Shupersal-Shelly_Ziv,2,36.666666666666664,36.666666666666664
 tampons,2,Shupersal-Deal_Admirality,1,32.339999999999996,32.339999999999996
 tampons,2,Shupersal-Shelly_Stela,2,38.200000000000003,38.200000000000003
-tampons,2,Shupersal-Shelly_Keler,2,35.899999999999999,35.899999999999999
 tampons,2,Yesh_France,0,17.899999999999999,17.899999999999999
 tampons,2,Shupersal-Shelly_Sapir,0,22.899999999999999,22.899999999999999
 tampons,2,Shupersal-Shelly_Carmel,2,35.899999999999999,35.899999999999999
 tampons,2,Shupersal-Shelly_Horev,2,37.433333333333337,37.433333333333337
 tampons,2,Shupersal-Deal_Haifa-mall,1,31.133333333333333,31.133333333333333
 tampons,2,Shupersal-Deal_Eliezer,1,32.339999999999996,32.339999999999996
-tampons,2,Lahav_Haifa,1,27.899999999999999,27.899999999999999
 Dish soap,0,Shupersal-Shelly_Nativ-Hen,0,8.2142857142857153,1.1542857142857139
-Dish soap,0,Victory_Haifa,2,10.9,726.66999999999996
-Dish soap,0,Shupersal-Deal-Extra_Tel-Hanan,0,10.075000000000001,1.4206250000000007
-Dish soap,0,Yesh_Hanita,0,9.9000000000000004,1.6779999999999999
-Dish soap,0,Shupersal-Deal_Grand-mall,0,9.5999999999999996,1.3678571428571429
+Dish soap,0,Shupersal-Shelly_Keler,0,8.4333333333333336,1.1699999999999999
+Dish soap,0,Shupersal-Deal-Extra_Tel-Hanan,1,10.075000000000001,1.4206250000000007
+Dish soap,0,Yesh_Hanita,1,9.9000000000000004,1.6779999999999999
+Dish soap,0,Shupersal-Deal_Grand-mall,1,9.5999999999999996,1.3678571428571429
 Dish soap,0,Shupersal-Shelly_Vardia,0,8.2142857142857153,1.1542857142857141
 Dish soap,0,Shupersal-Shelly_Denia,0,7.9333333333333336,1.1266666666666669
 Dish soap,0,Shupersal-Shelly_Ziv,0,8.2142857142857153,1.1542857142857141
-Dish soap,0,Shupersal-Deal_Admirality,0,9.7937500000000011,1.4131249999999991
+Dish soap,0,Shupersal-Deal_Admirality,1,9.7937500000000011,1.4131249999999991
 Dish soap,0,Shupersal-Shelly_Stela,0,8.4499999999999993,1.1599999999999999
-Dish soap,0,Shupersal-Shelly_Keler,0,8.4333333333333336,1.1699999999999999
-Dish soap,0,Yesh_France,0,9.6999999999999993,1.5359999999999996
 Dish soap,0,Shupersal-Express_Raul,0,8.5,1.1299999999999999
+Dish soap,0,Yesh_France,1,9.6999999999999993,1.5359999999999996
 Dish soap,0,Shupersal-Shelly_Sapir,0,8.4333333333333336,1.1699999999999999
 Dish soap,0,Shupersal-Shelly_Carmel,0,7.9333333333333336,1.1266666666666669
-Dish soap,0,Shupersal-Shelly_Horev,1,10.0,10.0
+Dish soap,0,Shupersal-Shelly_Horev,2,10.0,10.0
 Dish soap,0,Shupersal-Deal_Haifa-mall,0,8.8833333333333329,1.3266666666666667
-Dish soap,0,Shupersal-Deal_Eliezer,0,9.569230769230769,1.448461538461538
-Dish soap,0,Lahav_Haifa,1,8.9000000000000004,8.0907692307692312
+Dish soap,0,Shupersal-Deal_Eliezer,1,9.569230769230769,1.448461538461538
 fabric softener,0,Shupersal-Shelly_Nativ-Hen,0,11.633333333333333,1.4033333333333342
 fabric softener,0,Shupersal-Express_Marganit,1,14.9,1.6599999999999999
-fabric softener,0,Victory_Haifa,0,8.8818181818181827,0.98454545454545483
+fabric softener,0,Shupersal-Shelly_Keler,0,11.225,1.3300000000000001
 fabric softener,0,Shupersal-Deal-Extra_Tel-Hanan,1,13.816666666666666,2.4016666666666664
 fabric softener,0,Yesh_Hanita,1,15.122222222222222,2.985555555555556
 fabric softener,0,Shupersal-Deal_Grand-mall,1,13.292857142857143,2.472142857142857
@@ -1477,77 +1319,69 @@ fabric softener,0,Shupersal-Shelly_Denia,0,10.0,1.1100000000000003
 fabric softener,0,Shupersal-Shelly_Ziv,0,11.225,1.3300000000000001
 fabric softener,0,Shupersal-Deal_Admirality,1,13.137499999999999,2.5687500000000005
 fabric softener,0,Shupersal-Shelly_Stela,0,10.0,1.1100000000000003
-fabric softener,0,Shupersal-Shelly_Keler,0,11.225,1.3300000000000001
-fabric softener,0,Yesh_France,1,12.9,1.4299999999999997
 fabric softener,0,Shupersal-Express_Raul,2,16.449999999999999,16.449999999999999
+fabric softener,0,Yesh_France,1,12.9,1.4299999999999997
 fabric softener,0,Shupersal-Shelly_Sapir,0,10.0,1.1100000000000003
 fabric softener,0,Shupersal-Shelly_Carmel,0,11.225,1.3300000000000001
 fabric softener,0,Shupersal-Shelly_Horev,0,11.225000000000001,1.3300000000000001
 fabric softener,0,Shupersal-Deal_Haifa-mall,1,13.092307692307692,2.4992307692307687
 fabric softener,0,Shupersal-Deal_Eliezer,1,13.228571428571428,2.5885714285714285
-fabric softener,0,Lahav_Haifa,1,11.122222222222222,4.7238888888888884
-onion,2,Shupersal-Shelly_Nativ-Hen,1,15.0,15.0
+onion,2,Shupersal-Shelly_Nativ-Hen,2,15.0,15.0
 onion,2,Shupersal-Express_Marganit,0,6.9000000000000004,6.9000000000000004
-onion,2,Victory_Haifa,1,13.9,13.9
+onion,2,Shupersal-Shelly_Keler,2,15.0,15.0
 onion,2,Shupersal-Deal-Extra_Tel-Hanan,1,13.449999999999999,13.449999999999999
 onion,2,Shupersal-Deal_Grand-mall,1,13.449999999999999,13.449999999999999
 onion,2,Shupersal-Shelly_Vardia,0,6.9000000000000004,6.9000000000000004
-onion,2,Shupersal-Shelly_Denia,1,15.0,15.0
-onion,2,Shupersal-Shelly_Ziv,1,15.0,15.0
+onion,2,Shupersal-Shelly_Denia,2,15.0,15.0
+onion,2,Shupersal-Shelly_Ziv,2,15.0,15.0
 onion,2,Shupersal-Deal_Admirality,1,13.449999999999999,13.449999999999999
 onion,2,Shupersal-Shelly_Stela,0,6.9000000000000004,6.9000000000000004
-onion,2,Shupersal-Shelly_Keler,1,15.0,15.0
 onion,2,Shupersal-Express_Raul,0,6.9000000000000004,6.9000000000000004
-onion,2,Shupersal-Shelly_Sapir,1,14.449999999999999,14.449999999999999
+onion,2,Shupersal-Shelly_Sapir,2,14.449999999999999,14.449999999999999
 onion,2,Shupersal-Shelly_Carmel,0,6.9000000000000004,6.9000000000000004
-onion,2,Shupersal-Shelly_Horev,1,14.449999999999999,14.449999999999999
+onion,2,Shupersal-Shelly_Horev,2,14.449999999999999,14.449999999999999
 onion,2,Shupersal-Deal_Haifa-mall,0,5.9000000000000004,5.9000000000000004
 onion,2,Shupersal-Deal_Eliezer,0,5.9000000000000004,5.9000000000000004
-onion,2,Lahav_Haifa,2,15.900000000000002,0.050000000000000044
-coffee,1,Shupersal-Shelly_Keler,1,18.791666666666668,29.501666666666665
-coffee,1,Shupersal-Deal_Grand-mall,1,19.852631578947367,27.451578947368418
-coffee,1,Shupersal-Shelly_Vardia,1,18.37777777777778,28.768888888888888
 coffee,1,Shupersal-Shelly_Nativ-Hen,1,20.033333333333335,28.809333333333335
-coffee,1,Shupersal-Express_Raul,0,16.449999999999999,7.8337499999999993
+coffee,1,Shupersal-Express_Marganit,1,15.9,31.800000000000001
+coffee,1,Shupersal-Shelly_Keler,1,18.791666666666668,29.501666666666665
+coffee,1,Shupersal-Deal-Extra_Tel-Hanan,1,20.024999999999999,26.996250000000003
 coffee,1,Yesh_Hanita,0,16.441666666666666,8.2774999999999999
+coffee,1,Shupersal-Deal_Grand-mall,1,19.852631578947367,27.451578947368418
+coffee,1,Shupersal-Shelly_Denia,1,20.046666666666667,28.684000000000001
+coffee,1,Shupersal-Shelly_Vardia,1,18.37777777777778,28.768888888888888
 coffee,1,Shupersal-Express_Rambam,1,19.616666666666667,27.253333333333334
 coffee,1,Shupersal-Shelly_Ziv,1,20.629411764705882,28.372941176470587
-coffee,1,Yesh_France,2,27.850000000000001,12.9
-coffee,1,Shupersal-Shelly_Carmel,1,22.347368421052632,29.762105263157899
-coffee,1,Lahav_Haifa,2,32.75,0.155
-coffee,1,Shuk_Haifa,0,22.697222222222223,12.326666666666668
-coffee,1,Victory_Haifa,2,29.166666666666668,12.644
-coffee,1,Shupersal-Deal-Extra_Tel-Hanan,1,20.024999999999999,26.996250000000003
-coffee,1,Shupersal-Shelly_Sapir,1,19.271428571428572,29.741428571428571
+coffee,1,Shupersal-Deal_Admirality,2,25.091428571428573,20.332285714285714
 coffee,1,Shupersal-Shelly_Stela,1,18.772727272727273,28.625454545454545
+coffee,1,Shupersal-Express_Raul,0,16.449999999999999,7.8337499999999993
+coffee,1,Yesh_France,2,27.850000000000001,12.9
+coffee,1,Shupersal-Shelly_Sapir,1,19.271428571428572,29.741428571428571
+coffee,1,Shupersal-Shelly_Carmel,1,22.347368421052632,29.762105263157899
 coffee,1,Shupersal-Shelly_Horev,1,20.152941176470588,30.061176470588236
+coffee,1,Shupersal-Deal_Haifa-mall,1,19.072727272727274,27.665454545454544
 coffee,1,Shupersal-Deal_Eliezer,1,20.293749999999999,27.392499999999998
-coffee,1,Shupersal-Express_Marganit,1,15.9,31.800000000000001
-coffee,1,Shupersal-Shelly_Denia,1,20.046666666666667,28.684000000000001
-coffee,1,Shupersal-Deal_Admirality,1,25.091428571428573,20.332285714285714
-yellow cheese,2,Shupersal-Shelly_Keler,1,63.0,63.0
-yellow cheese,2,Shupersal-Deal_Grand-mall,1,63.142857142857139,63.142857142857153
-yellow cheese,2,Shupersal-Shelly_Vardia,1,63.0,63.0
 yellow cheese,2,Shupersal-Shelly_Nativ-Hen,1,63.0,63.0
-yellow cheese,2,Shupersal-Express_Raul,0,29.350000000000001,7.3399999999999999
+yellow cheese,2,Shupersal-Express_Marganit,0,28.899999999999999,7.2300000000000004
+yellow cheese,2,Shupersal-Shelly_Keler,1,63.0,63.0
+yellow cheese,2,Shupersal-Deal-Extra_Tel-Hanan,1,61.75,61.75
 yellow cheese,2,Yesh_Hanita,0,29.099999999999998,6.0220000000000002
+yellow cheese,2,Shupersal-Deal_Grand-mall,1,63.142857142857139,63.142857142857153
+yellow cheese,2,Shupersal-Shelly_Denia,1,63.5,63.5
+yellow cheese,2,Shupersal-Shelly_Vardia,1,63.0,63.0
 yellow cheese,2,Shupersal-Express_Rambam,0,28.899999999999999,7.2300000000000004
 yellow cheese,2,Shupersal-Shelly_Ziv,1,62.5,62.5
-yellow cheese,2,Yesh_France,0,30.899999999999999,5.6799999999999997
-yellow cheese,2,Shupersal-Shelly_Carmel,1,63.571428571428569,63.571428571428569
-yellow cheese,2,Lahav_Haifa,2,62.5,0.065000000000000002
-yellow cheese,2,Shuk_Haifa,2,65.804999999999993,6.5800000000000001
-yellow cheese,2,Victory_Haifa,2,66.5,6.6500000000000004
-yellow cheese,2,Shupersal-Deal-Extra_Tel-Hanan,1,61.75,61.75
-yellow cheese,2,Shupersal-Shelly_Sapir,1,63.833333333333343,63.833333333333329
-yellow cheese,2,Shupersal-Shelly_Stela,1,66.375,66.375
-yellow cheese,2,Shupersal-Shelly_Horev,1,62.333333333333343,62.333333333333329
-yellow cheese,2,Shupersal-Deal_Eliezer,1,63.166666666666671,63.166666666666664
-yellow cheese,2,Shupersal-Express_Marganit,0,28.899999999999999,7.2300000000000004
-yellow cheese,2,Shupersal-Shelly_Denia,1,63.5,63.5
 yellow cheese,2,Shupersal-Deal_Admirality,1,63.428571428571431,63.428571428571431
+yellow cheese,2,Shupersal-Shelly_Stela,1,66.375,66.375
+yellow cheese,2,Shupersal-Express_Raul,0,29.350000000000001,7.3399999999999999
+yellow cheese,2,Yesh_France,0,30.899999999999999,5.6799999999999997
+yellow cheese,2,Shupersal-Shelly_Sapir,1,63.833333333333343,63.833333333333329
+yellow cheese,2,Shupersal-Shelly_Carmel,1,63.571428571428569,63.571428571428569
+yellow cheese,2,Shupersal-Shelly_Horev,1,62.333333333333343,62.333333333333329
+yellow cheese,2,Shupersal-Deal_Haifa-mall,1,64.166666666666671,64.166666666666671
+yellow cheese,2,Shupersal-Deal_Eliezer,1,63.166666666666671,63.166666666666664
 tomato,2,Shupersal-Shelly_Nativ-Hen,0,10.9,10.9
-tomato,2,Victory_Haifa,0,10.0,10.0
+tomato,2,Shupersal-Shelly_Keler,0,10.9,10.9
 tomato,2,Shupersal-Deal-Extra_Tel-Hanan,1,12.9,12.9
 tomato,2,Shupersal-Deal_Grand-mall,1,12.9,12.9
 tomato,2,Shupersal-Shelly_Vardia,0,10.9,10.9
@@ -1555,38 +1389,34 @@ tomato,2,Shupersal-Shelly_Denia,0,10.9,10.9
 tomato,2,Shupersal-Shelly_Ziv,0,10.9,10.9
 tomato,2,Shupersal-Deal_Admirality,1,12.9,12.9
 tomato,2,Shupersal-Shelly_Stela,0,10.9,10.9
-tomato,2,Shupersal-Shelly_Keler,0,10.9,10.9
 tomato,2,Shupersal-Express_Raul,0,10.9,10.9
 tomato,2,Shupersal-Shelly_Sapir,1,13.9,13.9
 tomato,2,Shupersal-Shelly_Carmel,0,10.9,10.9
 tomato,2,Shupersal-Shelly_Horev,1,13.9,13.9
 tomato,2,Shupersal-Deal_Haifa-mall,0,9.9000000000000004,9.9000000000000004
 tomato,2,Shupersal-Deal_Eliezer,0,9.9000000000000004,9.9000000000000004
-tomato,2,Lahav_Haifa,2,18.899999999999999,0.020000000000000018
-apple,2,Shupersal-Shelly_Keler,0,13.9,13.9
-apple,2,Shupersal-Deal_Grand-mall,2,19.899999999999999,19.899999999999999
-apple,2,Shupersal-Shelly_Vardia,0,13.9,13.9
 apple,2,Shupersal-Shelly_Nativ-Hen,0,13.9,13.9
-apple,2,Shupersal-Express_Raul,0,13.9,13.9
+apple,2,Shupersal-Express_Marganit,0,13.9,13.9
+apple,2,Shupersal-Shelly_Keler,0,13.9,13.9
+apple,2,Shupersal-Deal-Extra_Tel-Hanan,2,19.899999999999999,19.899999999999999
 apple,2,Yesh_Hanita,1,14.9,14.9
+apple,2,Shupersal-Deal_Grand-mall,2,19.899999999999999,19.899999999999999
+apple,2,Shupersal-Shelly_Denia,0,13.9,13.9
+apple,2,Shupersal-Shelly_Vardia,0,13.9,13.9
 apple,2,Shupersal-Express_Rambam,0,13.9,13.9
 apple,2,Shupersal-Shelly_Ziv,0,13.9,13.9
-apple,2,Yesh_France,1,14.9,14.9
-apple,2,Shupersal-Shelly_Carmel,0,13.9,13.9
-apple,2,Lahav_Haifa,1,14.800000000000001,14.800000000000001
-apple,2,Shuk_Haifa,1,15.4,15.4
-apple,2,Victory_Haifa,1,14.9,14.9
-apple,2,Shupersal-Deal-Extra_Tel-Hanan,2,19.899999999999999,19.899999999999999
-apple,2,Shupersal-Shelly_Sapir,2,20.899999999999999,20.899999999999999
-apple,2,Shupersal-Shelly_Stela,0,13.9,13.9
-apple,2,Shupersal-Shelly_Horev,2,20.899999999999999,20.899999999999999
-apple,2,Shupersal-Deal_Eliezer,0,12.9,12.9
-apple,2,Shupersal-Express_Marganit,0,13.9,13.9
-apple,2,Shupersal-Shelly_Denia,0,13.9,13.9
 apple,2,Shupersal-Deal_Admirality,0,12.9,12.9
+apple,2,Shupersal-Shelly_Stela,0,13.9,13.9
+apple,2,Shupersal-Express_Raul,0,13.9,13.9
+apple,2,Yesh_France,1,14.9,14.9
+apple,2,Shupersal-Shelly_Sapir,2,20.899999999999999,20.899999999999999
+apple,2,Shupersal-Shelly_Carmel,0,13.9,13.9
+apple,2,Shupersal-Shelly_Horev,2,20.899999999999999,20.899999999999999
+apple,2,Shupersal-Deal_Haifa-mall,0,12.9,12.9
+apple,2,Shupersal-Deal_Eliezer,0,12.9,12.9
 garbage bag,0,Shupersal-Shelly_Nativ-Hen,1,11.666666666666666,11.666666666666666
 garbage bag,0,Shupersal-Express_Marganit,2,14.199999999999999,14.199999999999999
-garbage bag,0,Victory_Haifa,0,9.9000000000000004,6.9300000000000006
+garbage bag,0,Shupersal-Shelly_Keler,1,11.666666666666666,11.666666666666666
 garbage bag,0,Shupersal-Deal-Extra_Tel-Hanan,1,12.74,12.74
 garbage bag,0,Yesh_Hanita,2,14.4,14.4
 garbage bag,0,Shupersal-Deal_Grand-mall,1,12.74,12.74
@@ -1595,56 +1425,50 @@ garbage bag,0,Shupersal-Shelly_Denia,1,11.666666666666666,11.666666666666666
 garbage bag,0,Shupersal-Shelly_Ziv,1,11.666666666666666,11.666666666666666
 garbage bag,0,Shupersal-Deal_Admirality,1,11.866666666666667,11.866666666666667
 garbage bag,0,Shupersal-Shelly_Stela,1,12.775,12.775
-garbage bag,0,Shupersal-Shelly_Keler,1,11.666666666666666,11.666666666666666
-garbage bag,0,Yesh_France,2,15.233333333333334,15.233333333333334
 garbage bag,0,Shupersal-Express_Raul,2,14.199999999999999,14.199999999999999
+garbage bag,0,Yesh_France,2,15.233333333333334,15.233333333333334
 garbage bag,0,Shupersal-Shelly_Sapir,1,11.666666666666666,11.666666666666666
 garbage bag,0,Shupersal-Shelly_Carmel,1,12.475,12.475
 garbage bag,0,Shupersal-Shelly_Horev,1,11.666666666666666,11.666666666666666
 garbage bag,0,Shupersal-Deal_Haifa-mall,1,11.866666666666667,11.866666666666667
 garbage bag,0,Shupersal-Deal_Eliezer,1,11.866666666666667,11.866666666666667
-garbage bag,0,Lahav_Haifa,2,16.646666666666665,16.646666666666665
-oil,2,Shupersal-Shelly_Nativ-Hen,2,15.9,15.9
-oil,2,Victory_Haifa,1,15.9,1.5899999999999999
+oil,2,Shupersal-Shelly_Nativ-Hen,1,15.9,15.9
+oil,2,Shupersal-Shelly_Keler,1,15.350000000000001,15.350000000000001
 oil,2,Shupersal-Deal-Extra_Tel-Hanan,2,16.600000000000001,16.600000000000001
 oil,2,Yesh_Hanita,0,17.199999999999999,8.5999999999999996
-oil,2,Shupersal-Deal_Grand-mall,2,15.133333333333335,15.133333333333333
+oil,2,Shupersal-Deal_Grand-mall,1,15.133333333333335,15.133333333333333
 oil,2,Shupersal-Shelly_Vardia,2,17.699999999999999,17.699999999999999
-oil,2,Shupersal-Shelly_Denia,2,15.9,15.9
-oil,2,Shupersal-Shelly_Ziv,2,15.9,15.9
-oil,2,Shupersal-Deal_Admirality,2,14.825000000000001,14.425000000000001
-oil,2,Shupersal-Shelly_Stela,2,15.9,15.9
-oil,2,Shupersal-Shelly_Keler,2,15.350000000000001,15.350000000000001
+oil,2,Shupersal-Shelly_Denia,1,15.9,15.9
+oil,2,Shupersal-Shelly_Ziv,1,15.9,15.9
+oil,2,Shupersal-Deal_Admirality,1,14.825000000000001,14.425000000000001
+oil,2,Shupersal-Shelly_Stela,1,15.9,15.9
 oil,2,Shupersal-Express_Raul,2,17.699999999999999,17.699999999999999
-oil,2,Shupersal-Shelly_Sapir,2,15.9,15.9
-oil,2,Shupersal-Shelly_Carmel,2,16.133333333333333,16.133333333333333
+oil,2,Shupersal-Shelly_Sapir,1,15.9,15.9
+oil,2,Shupersal-Shelly_Carmel,1,16.133333333333333,16.133333333333333
 oil,2,Shupersal-Shelly_Horev,2,16.800000000000001,16.800000000000001
-oil,2,Shupersal-Deal_Haifa-mall,2,16.600000000000001,16.600000000000001
-oil,2,Shupersal-Deal_Eliezer,2,15.800000000000001,15.800000000000001
-oil,2,Lahav_Haifa,1,16.175000000000001,0.095000000000000639
-peanut snack,0,Shupersal-Shelly_Keler,1,4.0090909090909088,7.2036363636363632
-peanut snack,0,Shupersal-Deal_Grand-mall,1,4.523076923076923,6.8076923076923075
-peanut snack,0,Shupersal-Shelly_Vardia,1,4.1333333333333346,7.3674999999999997
+oil,2,Shupersal-Deal_Haifa-mall,1,15.800000000000001,15.800000000000001
+oil,2,Shupersal-Deal_Eliezer,1,15.800000000000001,15.800000000000001
 peanut snack,0,Shupersal-Shelly_Nativ-Hen,1,4.1090909090909093,7.3709090909090911
-peanut snack,0,Shupersal-Express_Raul,1,4.4142857142857146,7.694285714285714
-peanut snack,0,Yesh_Hanita,1,3.7000000000000002,7.4580000000000002
-peanut snack,0,Shupersal-Express_Rambam,0,4.0999999999999996,9.5024999999999995
-peanut snack,0,Shupersal-Shelly_Ziv,1,4.2769230769230768,7.5700000000000003
-peanut snack,0,Yesh_France,1,4.0,6.8224999999999998
-peanut snack,0,Shupersal-Shelly_Carmel,1,4.1333333333333329,7.3674999999999997
-peanut snack,0,Lahav_Haifa,2,4.4923076923076932,0.91615384615384632
-peanut snack,0,Shuk_Haifa,0,2.8999999999999995,10.313333333333333
-peanut snack,0,Victory_Haifa,1,3.8692307692307688,6.4438461538461533
-peanut snack,0,Shupersal-Deal-Extra_Tel-Hanan,1,4.2000000000000002,6.8523076923076927
-peanut snack,0,Shupersal-Shelly_Sapir,1,5.1285714285714281,7.5792857142857146
-peanut snack,0,Shupersal-Shelly_Stela,1,4.2250000000000014,7.4824999999999999
-peanut snack,0,Shupersal-Shelly_Horev,1,4.9285714285714279,6.9871428571428567
-peanut snack,0,Shupersal-Deal_Eliezer,1,3.8666666666666663,6.8683333333333332
 peanut snack,0,Shupersal-Express_Marganit,0,4.2000000000000002,9.4199999999999999
-peanut snack,0,Shupersal-Shelly_Denia,1,5.3083333333333336,7.3550000000000004
+peanut snack,0,Shupersal-Shelly_Keler,1,4.0090909090909088,7.2036363636363632
+peanut snack,0,Shupersal-Deal-Extra_Tel-Hanan,1,4.2000000000000002,6.8523076923076927
+peanut snack,0,Yesh_Hanita,1,3.7000000000000002,7.4580000000000002
+peanut snack,0,Shupersal-Deal_Grand-mall,1,4.523076923076923,6.8076923076923075
+peanut snack,0,Shupersal-Shelly_Denia,2,4.7999999999999998,7.3054545454545456
+peanut snack,0,Shupersal-Shelly_Vardia,2,4.6538461538461542,7.4084615384615384
+peanut snack,0,Shupersal-Express_Rambam,0,4.0999999999999996,9.5024999999999995
+peanut snack,0,Shupersal-Shelly_Ziv,2,4.2769230769230768,7.5700000000000003
 peanut snack,0,Shupersal-Deal_Admirality,1,4.4499999999999993,6.7385714285714284
+peanut snack,0,Shupersal-Shelly_Stela,1,4.2250000000000014,7.4824999999999999
+peanut snack,0,Shupersal-Express_Raul,2,4.4142857142857146,7.694285714285714
+peanut snack,0,Yesh_France,1,4.0,6.8224999999999998
+peanut snack,0,Shupersal-Shelly_Sapir,2,5.1285714285714281,7.5792857142857146
+peanut snack,0,Shupersal-Shelly_Carmel,1,4.1333333333333329,7.3674999999999997
+peanut snack,0,Shupersal-Shelly_Horev,2,4.9285714285714279,6.9871428571428567
+peanut snack,0,Shupersal-Deal_Haifa-mall,1,3.8166666666666669,6.6291666666666664
+peanut snack,0,Shupersal-Deal_Eliezer,1,3.8666666666666663,6.8683333333333332
 toothpaste,2,Shupersal-Shelly_Nativ-Hen,2,23.300000000000001,46.600000000000001
-toothpaste,2,Victory_Haifa,1,21.328571428571429,26.574285714285715
+toothpaste,2,Shupersal-Shelly_Keler,2,23.300000000000001,46.600000000000001
 toothpaste,2,Shupersal-Deal-Extra_Tel-Hanan,2,21.899999999999999,43.799999999999997
 toothpaste,2,Yesh_Hanita,1,20.733333333333331,22.943333333333335
 toothpaste,2,Shupersal-Deal_Grand-mall,2,21.899999999999999,43.799999999999997
@@ -1654,17 +1478,15 @@ toothpaste,2,Shupersal-Express_Rambam,2,23.300000000000001,46.600000000000001
 toothpaste,2,Shupersal-Shelly_Ziv,2,23.300000000000001,46.600000000000001
 toothpaste,2,Shupersal-Deal_Admirality,2,21.899999999999999,43.799999999999997
 toothpaste,2,Shupersal-Shelly_Stela,2,23.300000000000001,46.600000000000001
-toothpaste,2,Shupersal-Shelly_Keler,2,23.300000000000001,46.600000000000001
-toothpaste,2,Yesh_France,0,18.455555555555556,16.170000000000002
 toothpaste,2,Shupersal-Express_Raul,1,20.899999999999999,27.870000000000001
+toothpaste,2,Yesh_France,0,18.455555555555556,16.170000000000002
 toothpaste,2,Shupersal-Shelly_Sapir,2,23.300000000000001,46.600000000000001
-toothpaste,2,Shupersal-Shelly_Carmel,2,24.0,39.765000000000001
+toothpaste,2,Shupersal-Shelly_Carmel,2,23.300000000000001,46.600000000000001
 toothpaste,2,Shupersal-Shelly_Horev,2,23.300000000000001,46.600000000000001
 toothpaste,2,Shupersal-Deal_Haifa-mall,2,21.899999999999999,43.799999999999997
 toothpaste,2,Shupersal-Deal_Eliezer,2,21.899999999999999,43.799999999999997
-toothpaste,2,Lahav_Haifa,1,22.233333333333331,22.233333333333331
 bag,0,Shupersal-Shelly_Nativ-Hen,2,11.5,11.5
-bag,0,Victory_Haifa,0,11.699999999999999,0.054999999999999716
+bag,0,Shupersal-Shelly_Keler,2,11.199999999999999,11.199999999999999
 bag,0,Shupersal-Deal-Extra_Tel-Hanan,1,8.7200000000000006,8.7200000000000006
 bag,0,Yesh_Hanita,0,4.9000000000000004,4.9000000000000004
 bag,0,Shupersal-Deal_Grand-mall,1,8.6333333333333329,8.6333333333333329
@@ -1673,11 +1495,9 @@ bag,0,Shupersal-Shelly_Denia,1,9.0,9.0
 bag,0,Shupersal-Shelly_Ziv,1,9.0,9.0
 bag,0,Shupersal-Deal_Admirality,1,8.4250000000000007,8.4250000000000007
 bag,0,Shupersal-Shelly_Stela,2,11.199999999999999,11.199999999999999
-bag,0,Shupersal-Shelly_Keler,2,11.199999999999999,11.199999999999999
 bag,0,Yesh_France,1,9.9000000000000004,9.9000000000000004
 bag,0,Shupersal-Shelly_Sapir,1,9.0,9.0
 bag,0,Shupersal-Shelly_Carmel,1,9.0,9.0
 bag,0,Shupersal-Shelly_Horev,2,11.199999999999999,11.199999999999999
 bag,0,Shupersal-Deal_Haifa-mall,1,7.7999999999999998,7.7999999999999998
 bag,0,Shupersal-Deal_Eliezer,1,9.2333333333333343,9.2333333333333343
-bag,0,Lahav_Haifa,1,9.9000000000000004,9.9000000000000004
