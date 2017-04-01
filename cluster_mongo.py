@@ -45,14 +45,31 @@ class Cluster:
 			X[count][1]=datush[key][1]
 			Y[count][0]=key
 			count+=1
-		if count<3: return 
-		datush_X=np.zeros((count,2))
-		datush_Y=np.zeros((count,1))
 
-		for j in xrange(0,count):
-			datush_X[j][0]=X[j][0]
-			datush_X[j][1]=X[j][1]
-			datush_Y[j][0]=Y[j][0]
+		
+
+		if count==1:
+			datush_X=np.zeros((3,2))
+			datush_Y=np.zeros((3,1))
+			datush_X[0][0],datush_X[0][1]=X[0][0],X[0][1]
+			datush_X[1][0],datush_X[1][1]=X[0][0],X[0][1]
+			datush_X[2][0],datush_X[2][1]=X[0][0],X[0][1]
+
+		elif count==2: 
+			datush_X=np.zeros((3,2))
+			datush_Y=np.zeros((3,1))
+			datush_X[0][0],datush_X[0][1]=X[0][0],X[0][1]
+			datush_X[1][0],datush_X[1][1]=(X[0][0]+X[1][0])/2,(X[0][1]+X[1][1])/2
+			datush_X[2][0],datush_X[2][1]=X[1][0],X[1][1]
+
+		
+		else:
+			datush_X=np.zeros((count,2))
+			datush_Y=np.zeros((count,1))
+			for j in xrange(0,count):
+				datush_X[j][0]=X[j][0]
+				datush_X[j][1]=X[j][1]
+				datush_Y[j][0]=Y[j][0]
 			
 		
 		y = KMeans(n_clusters=3).fit(datush_X)
@@ -136,8 +153,10 @@ def cluster_the_supermarkets_by_category_and_position():
 		
 	temp_list=[]
 	for category in super_category_cluster_centers:
-		#temp_dict[category]=[]
+		
 		datush=super_category_cluster_centers[category]
+		if category[0]=='cucumber':
+			print datush
 		if len(datush)<3: return 
 
 		# this is because SK-learn recieves np array:
@@ -147,11 +166,15 @@ def cluster_the_supermarkets_by_category_and_position():
 		count=0
 		x,j=(0,0),0
 		s='Shupersal-Shelly_Ziv'
+
 		for super_name in super_category_cluster_centers[category]:
+			#print super_name
 			if super_name==s:
 				x=super_category_cluster_centers[category][super_name]
 				#raw_input()
 				j=count
+			if category[0]=='cucumber':
+				print super_name
 
 			
 			datush_X[count][0]=float(super_category_cluster_centers[category][super_name][0])
@@ -178,7 +201,7 @@ def cluster_the_supermarkets_by_category_and_position():
 			elif centers[1][2]==i: pred[i]=1
 			else: pred[i]=2
 
-		for i in xrange(0, len(datush_X[:,0])-1):
+		for i in xrange(0, len(datush_X[:,0])):
 			temp_list.append((category,datush_Y[i], pred[y_pred[i]],datush_X[i, 0],datush_X[i, 1]))
 			
 		# number of features, in our case 2:price per unit and price for product
@@ -201,6 +224,7 @@ def cluster_on_all_files(path_name):
 	tasks_list = []
 	# a folder was sepcified:
 	if os.path.isdir(path_name):
+		#print '############'
 		for filename in os.listdir(path_name):
 			# create all the files to convert:
 			tasks_list.append(os.path.join(path_name, filename))

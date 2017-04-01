@@ -28,7 +28,7 @@ class Data:
 			item=self.data_dict[barcode]
 			if category_name == item[-1]:
 				#returns tuple of (price per unit, price for product):
-				temp_dict[barcode]=(float(item[-4]),float(item[-5]))
+				temp_dict[barcode]=(float(item[-2]),float(item[-3]))
 		return temp_dict
 
 
@@ -38,7 +38,7 @@ class Data:
 		categories=[]
 		for barcode in self.data_dict:
 			item=self.data_dict[barcode]
-			if item[-1]=='1':continue
+			if item[-1]=='none':continue
 			categories.append(item[-1])
 		return set(categories)
 

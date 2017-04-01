@@ -75,7 +75,7 @@ class Program_Options:
             if opcode in ('-b', '--basket-name'):
                 self.basket_name = oparg
 
-    
+    '''
     this func recieves a text file and names the different supermarkets:
     '''
 
