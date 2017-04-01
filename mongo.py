@@ -102,8 +102,12 @@ class Database:
 
 
     def read_super_category_cluster_centers(self):
-        return self.db.super_category_cluster_centers.find()
-
+        nodes = self.db.super_category_cluster_centers.find()
+        results = []
+        for node in nodes:
+            super_category_cluster_centers = node["data"]
+            results.append(super_category_cluster_centers)
+        return results
 
 
 if __name__ == '__main__':
