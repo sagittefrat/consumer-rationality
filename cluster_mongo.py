@@ -3,7 +3,7 @@
 import sys,os,csv
 from data import Data
 from pprint import pprint  
-#from copy import deepcopy
+import mongo
 import numpy as np
 from sklearn.cluster import KMeans
 import matplotlib.pyplot as plt
@@ -20,7 +20,7 @@ class Cluster:
 		if self.categories==None:
 			 self.categories=self.data.categories
 
-		self.category_cluster_centers={}
+		self.category_cluster_centers=[]
 		self.category_barcodes={}
 		self.barcode_category={}
 
@@ -32,12 +32,11 @@ class Cluster:
 	def cluster_category(self,category_name, super_name):
 
 		datush=self.data.get_data_by_category(category_name)
+		#if category_name=='cabbage':
 
-		
 
 		X=np.zeros((len(datush),2))
 		Y=np.zeros((len(datush),1))
-		
 	
 		count=0
 		# this is because SK-learn recieves np array:
@@ -98,9 +97,10 @@ class Cluster:
 
 	
 		sorted_centers=sorted(y.cluster_centers_, key=lambda t: t[0])
-		self.category_cluster_centers[category_name]=[]
+		
 		for i in (0,1,2):
-			self.category_cluster_centers[category_name].append(str(sorted_centers[i]))
+			self.category_cluster_centers.append((category_name,str(i),str(sorted_centers[i][1]),str(sorted_centers[i][0]),super_name))
+			
 			
 		self.category_barcodes[category_name]=temp_dict
 		
@@ -113,26 +113,33 @@ class Cluster:
 		for category_name in categories:
 			super_name=self.data.super_name
 			self.cluster_category(category_name,super_name)
+
 			#return
 	
 
 def cluster_the_supermarkets_by_category_and_position():
+	db = mongo.Database()
 
 	super_category_cluster_centers={}
-	'''
-	with open('category_position_centers.csv', 'rb') as csvfile:
-		reader = csv.reader(csvfile)
-		for row in reader:
-			if (row[0],row[1]) not in super_category_cluster_centers:
-				super_category_cluster_centers[(row[0],row[1])]={}
-			super_category_cluster_centers[(row[0],row[1])][row[4]]=(row[2],row[3])'''
-	
+
 	db = mongo.Database()
-	db.read_super_category_cluster_centers()
+	super_category_cluster_centers_row=db.read_super_category_cluster_centers()
+	with open('super_category_cluster_center.csv', 'wb') as csvfile:
+		writer= csv.writer(csvfile)
+
 		
-	temp_dict={ }
+		for row1 in super_category_cluster_centers_row:
+			for row in row1:
+				writer.writerow(row)
+				if (row[0],row[1]) not in super_category_cluster_centers:
+					super_category_cluster_centers[(row[0],row[1])]={}
+				super_category_cluster_centers[(row[0],row[1])][row[4]]=(row[2],row[3])
+			
+
+		
+	temp_list=[]
 	for category in super_category_cluster_centers:
-		
+		#temp_dict[category]=[]
 		datush=super_category_cluster_centers[category]
 		if len(datush)<3: return 
 
@@ -149,12 +156,14 @@ def cluster_the_supermarkets_by_category_and_position():
 				#print category,x
 				#raw_input()
 				j=count
+
 			
-			datush_X[count][0]=super_category_cluster_centers[category][super_name][0]
-			datush_X[count][1]=super_category_cluster_centers[category][super_name][1]
+			datush_X[count][0]=float(super_category_cluster_centers[category][super_name][0])
+			datush_X[count][1]=float(super_category_cluster_centers[category][super_name][1])
 			datush_Y.append(super_name)
 			count+=1
 	
+		print 'category_name',category[0],'count',count
 		y = KMeans(n_clusters=3).fit(datush_X)
 
 		y_pred= y.predict(datush_X)
@@ -174,8 +183,10 @@ def cluster_the_supermarkets_by_category_and_position():
 			else: pred[i]=2
 
 		for i in xrange(0, len(datush_X[:,0])-1):
+			temp_list.append((category,datush_Y[i], pred[y_pred[i]],datush_X[i, 0],datush_X[i, 1]))
+			#pprint(temp_dict)
 			#if datush_Y[i]=='Shupersal-Deal_Haifa-mall':	
-			writer1.writerow([category[0],int(category[1]),datush_Y[i], pred[y_pred[i]],datush_X[i, 0],datush_X[i, 1]])
+			#writer1.writerow([category[0],int(category[1]),datush_Y[i], pred[y_pred[i]],datush_X[i, 0],datush_X[i, 1]])
 
 		# number of features, in our case 2:price per unit and price for product
 		if category[0] in ('tomato','toothpaste','coffee'):
@@ -185,7 +196,13 @@ def cluster_the_supermarkets_by_category_and_position():
 			plt.text(x[0], x[1],s)
 			#plt.savefig(' '+title+'.png')
 			plt.show()
+	#pprint(temp_list)
+	db.write_super_prices(temp_list)
 
+	with open('super_prices.csv', 'wb') as csvfile:
+		writer= csv.writer(csvfile)
+		for row in temp_list:
+			writer.writerow(row)
 
 if __name__ == '__main__' :
 	'''file_name=sys.argv[1]

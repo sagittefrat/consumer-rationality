@@ -5,7 +5,7 @@ import config
 import xml_to_csv
 from cluster_mongo import Cluster
 import mongo
-
+from pprint import pprint
 
 def main():
 	option = config.Program_Options(sys.argv[1:])
@@ -43,13 +43,13 @@ def cluster_on_all_files(path_name):
 		clusti.cluster()
 		#super_category_cluster_centers[super_name] = clusti.category_cluster_centers
 		#super_barcode_category[super_name] = clusti.barcode_category
-
+		#pprint (clusti.category_cluster_centers)
 		db.write_barcode_super_category_position(clusti.barcode_category,super_name)
 		db.write_super_category_cluster_centers(clusti.category_cluster_centers,super_name)
 
 		'''for barcode in clusti.barcode_category:
-			tup = clusti.barcode_category[barcode]
-			writer1.writerow([barcode, super_name, tup[1], tup[0]])'''
+			tup = clusti.barcode_category[barcode]clusti.category_cluster_centers
+			writer1.writerow([barcode, super_name, tup[1], tup[0]])
 
 		for category in clusti.category_cluster_centers:
 			for i in xrange(0, 3):
@@ -58,7 +58,7 @@ def cluster_on_all_files(path_name):
 				# print tupe
 				# print [category,i,tupe[i][1],tupe[i][0],super_name]
 				# raw_input()
-				#writer2.writerow([category, i, tupe[i][1], tupe[i][0], super_name])
+				#writer2.writerow([category, i, tupe[i][1], tupe[i][0], super_name])'''
 
  
 if __name__ == '__main__':
