@@ -75,18 +75,19 @@ class Database:
         return self.db.items.find_one({"name":"items"})["data"]
 
 
-    def write_barcode_super_category_position(self, barcode_super_category_position):
-        self.db.cluster.update_one(
-            {"name": "barcode_super_category_position"},
+    def write_barcode_super_category_position(self, barcode_super_category_position, branch_code):
+        node = {"_id": branch_code, "data": barcode_super_category_position}
+        self.db.barcode_super_category_position.update_one(
+            {"_id": node["_id"]},
             {
-                "$set": {"data": barcode_super_category_position}
+                "$set": node
             },
             upsert=True
         )
 
 
     def read_barcode_super_category_position(self):
-        return self.db.cluster.find_one({"name":"barcode_super_category_position"})["data"]
+        return self.db.barcode_super_category_position.find({5555555555555"name":"barcode_super_category_position"})["data"]
 
 
     def write_super_category_cluster_centers(self, super_category_cluster_centers):
